@@ -244,6 +244,10 @@ struct GuidePlace {
     // point (a wall of fire deleted, a crate picked up), not by a visit: a save loaded midway skips it.
     std::string goneTmpl;
     float goneX = 0, goneY = 0;
+    // "once <script>": the script is active from the map's start (the .map's isActive flag), one-shot,
+    // and nothing disables it, so off means fired even when the mod never saw it on: a save loaded
+    // after it fired (Trollshaws' footprint clues, 2026-11-19).
+    std::set<std::string> once;
     // "place = words | x y | while Template": listed only while an object of Template stands within 10 m
     // of the place (Grey Company's travel circles wait off the map until a script brings them in, and
     // are deleted once their region is done).
@@ -354,7 +358,10 @@ void LoadGuides(const std::wstring& path, bool onlyNew) {
                 for (std::string n; std::getline(names, n, ';');) {
                     n = trim(n);
                     if (n.compare(0, 6, "while ") == 0) gp.whileTmpl = UpperA(trim(n.substr(6)));
-                    else if (!n.empty()) gp.scripts.push_back(UpperA(n));
+                    else if (n.compare(0, 5, "once ") == 0) {
+                        gp.scripts.push_back(UpperA(trim(n.substr(5))));
+                        gp.once.insert(gp.scripts.back());
+                    } else if (!n.empty()) gp.scripts.push_back(UpperA(n));
                 }
             }
             // A step with a script is done when the script fires, not when a unit stands there: the
@@ -510,6 +517,23 @@ bool AnyScriptLive(const std::vector<std::string>& names) {
         if (said.insert(names[0]).second) LogLine(L"scripts: place done, its script fired: " + Widen(names[0].c_str()));
     }
     return !known;
+}
+
+// A "once" script of a guide place that is off now: it fired, before or after a save was loaded.
+bool OnceScriptFired(const std::set<std::string>& once) {
+    if (once.empty()) return false;
+    if (!g_scriptTableRead || ScriptTablesStamp() != g_scriptStamp) ReadScriptTable();
+    for (const std::string& n : once) {
+        auto it = g_scriptTable.find(n);
+        uint8_t on = 1;
+        if (it == g_scriptTable.end() || !SafeRead(it->second + 0x40, &on, 1)) continue;
+        if (!on) {
+            static std::set<std::string> said;
+            if (said.insert(n).second) LogLine(L"scripts: place done, once-script off: " + Widen(n.c_str()));
+            return true;
+        }
+    }
+    return false;
 }
 
 // Markers that stand over someone: the scanner adds the nearest named thing.
@@ -961,9 +985,19 @@ Scan RunScan() {
         auto g = g_guides.find(UpperA(o.tag));
         if (o.done || g == g_guides.end()) continue;
         bool stepListed = false;  // steps go one at a time, in the order of guides.ini
+        // A step whose "once" script fired means every step before it is done too: scripts that fired
+        // before a save was loaded read as live (never seen on). Only "once" steps, a strict story
+        // chain: the barrow's levers and stones can be done out of order, and a visit is not proof
+        // (the walk to the sword passes the first lord's place).
+        size_t lastHard = 0;
+        bool anyHard = false;
+        for (size_t k = 0; k < g->second.places.size(); ++k)
+            if (g->second.places[k].step && OnceScriptFired(g->second.places[k].once)) lastHard = k, anyHard = true;
         for (size_t k = 0; k < g->second.places.size(); ++k) {
             // A later step is not looked at: the walk to the sword passes the first lord's place.
             if (g->second.places[k].step && stepListed) continue;
+            if (g->second.places[k].step && anyHard && k <= lastHard) continue;
+            if (OnceScriptFired(g->second.places[k].once)) continue;
             if (!AnyScriptLive(g->second.places[k].scripts) || visited(g->second.places[k]) || plotBuilt(g->second.places[k])) continue;
             if (g->second.places[k].step) stepListed = true;
             // Gladden's Objective04: the chain of scripts starts at Elrond's chair in Rivendell.
