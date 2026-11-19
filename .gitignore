@@ -1,0 +1,14 @@
+# Build output and release packages
+build/
+release/
+# Downloads, game-file extracts, dumps and saves: game data, not ours to publish
+downloads/
+research/
+# Third-party sources kept locally (the build uses lib/ only)
+vendor/prism-src/
+vendor/openbfme2/
+vendor/minhook/
+vendor/ual-9.7.4/*.zip
+# Python caches
+__pycache__/
+*.pyc

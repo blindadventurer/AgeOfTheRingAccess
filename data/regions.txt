@@ -1,0 +1,1014 @@
+campaign	DefaultCampaign
+region	Amon_Sul	Amon Sûl	-260	1400	MAP WOR ANG Amon Sul	Rhudaur,Lostriand,Buckland,Barrow_Downs	-400 1480	-340 1310	-160 1400;-400 1400
+region	Angmar	Angmar	-65	2085	MAP WOR ANG Angmar	Ettenmoors,CarnDum,Forodwaith	-180 2125	-60 2015	20 2010;-140 2085
+region	Arnor	Arthedain	-760	2000	MAP WOR Arnor	Buckland,Ettenmoors,Forlindon,Grey_Havens,The_Shire,Tower_Hills,Fornost,Forodwaith	-910 2075	-855 1850	-960 1925;-845 1975;-690 1860
+region	Barrow_Downs	Barrow Downs	-675	1250	MAP WOR ANG Barrow Downs	Tower_Hills,Buckland,Amon_Sul,Rhudaur,The_Shire,Cardolan	-700 1300	-650 1200	-565 1255;-775 1235
+region	Buckland	North Downs	-545	1583	MAP WOR ANG North Downs	Arnor,Fornost,Lostriand,Amon_Sul,Barrow_Downs,The_Shire	-505 1638	-515 1500	-600 1580;-420 1605
+region	Cair_Andros	Cair Andros	1210	200	MAP WOR Cair Andros	Minas_Tirith,Osgiliath,Rohan,The_Dead_Marshes,The_Brown_Lands	1060 200	1325 160	1160 275;975 250
+region	Cardolan	Cardolan	-520	1000	MAP WOR Cardolan	Barrow_Downs,Rhudaur,Dunland,Enedwaith,Minhiriath,Tower_Hills	-755 1015	-455 965	-655 970;-520 915;-265 1095
+region	CarnDum	Carn Dûm	-155	2295	MAP WOR ANG Carn Dum	Angmar,Forodwaith	-260 2260	-50 2220	-290 2330
+region	Carrock	Carrock	580	1885	MAP WOR Carrock	High_Pass,Mirkwood,Lothlorien,MountGundabad	445 2070	605 1860	660 1710;810 1715
+region	Celduin	Celduin	1920	1575	MAP WOR Celduin	Dagorlad,Erebor,Iron_Hills,Mirkwood,Rhun	1770 1650	1920 1475	1770 1500;2070 1500
+region	Dagorlad	Dagorlad	1975	1060	MAP WOR Dagorlad	Celduin,Dol_Guldur,Mirkwood,Rhun,The_Dead_Marshes,The_Brown_Lands	1825 1135	1975 960	1825 985;2125 985
+region	Dol_Guldur	Dol Guldur	1230	1100	MAP WOR Dol Guldur	Dagorlad,Fangorn,Lothlorien,Mirkwood,The_Brown_Lands	1230 1175	1230 1025	1355 1050
+region	Dunland	Dunland	-60	950	MAP WOR Dunland	Enedwaith,Gap_Of_Rohan,Isengard,Cardolan,Rhudaur,Rivendell,Redhorn_Pass	-20 1100	30 950	-240 850;-20 850
+region	Enedwaith	Enedwaith	-360	325	MAP WOR Enedwaith	Dunland,Gap_Of_Rohan,Anfalas,Helms_Deep,Minhiriath,Cardolan	-510 400	-360 225	-510 250;-210 250
+region	Erebor	Erebor	1628	1925	MAP WOR Erebor	Celduin,Iron_Hills,Mirkwood	1405 2000	1855 2000	1780 1925
+region	Ettenmoors	Ettenmoors	-137	1900	MAP WOR Ettenmoors	Angmar,Rhudaur,Lostriand,Fornost,Arnor,Forodwaith	-325 2055	-210 1995	-210 1840;-20 1820
+region	Fangorn	Fangorn	660	800	MAP WOR Fangorn	Dol_Guldur,Gap_Of_Rohan,Isengard,Lothlorien,Rohan,The_Brown_Lands	535 825	660 725	535 725;785 775
+region	Forlindon	Forlindon	-1680	2050	MAP WOR Forlindon	Arnor,Grey_Havens	-1342 2250	-1856 1790	-1960 1640;-1278 2100
+region	Fornost	Fornost	-415	1835	MAP WOR ANG Fornost	Arnor,Ettenmoors,Lostriand,Buckland	-550 1920	-390 1760	-510 1850
+region	Forodwaith	Forodwaith	-465	2340	MAP WOR Forodwaith	Arnor,Ettenmoors,Angmar,MountGundabad,CarnDum	-430 2450	135 2480	-645 2355;-500 2350
+region	Gap_Of_Rohan	Gap of Rohan	140	460	MAP WOR Gap of Rohan	Dunland,Enedwaith,Fangorn,Helms_Deep,Isengard,Rohan	-85 500	415 460	365 505
+region	Anfalas	Anfalas	-150	-135	map mp anfalas	Enedwaith,Belfalas	-300 -260	-140 -135	-150 -230;-430 -300
+region	Belfalas	Belfalas	790	-410	MAP WOR Belfalas	Umbar,Anfalas,Osgiliath,Ithilien,Minas_Tirith	520 -360	800 -460	645 -465;955 -410;1170 -360
+region	Grey_Havens	Grey Havens	-1430	1715	MAP WOR Grey Havens	Arnor,Forlindon,Harlindon,Tower_Hills	-1430 1790	-1330 1715	-1430 1600;-1730 1600
+region	Harad	Harad	1870	-900	MAP WOR Harad	Umbar,Ithilien	1550 -800	1765 -715	2425 -1000;1880 -1000;2170 -1000
+region	Harlindon	Harlindon	-1475	1000	MAP WOR Harlindon	Grey_Havens,Minhiriath,Tower_Hills	-1780 1260	-1575 985	-1650 1100;-1300 930
+region	Helms_Deep	Helm's Deep	140	300	MAP WOR Helms Deep	Enedwaith,Gap_Of_Rohan,Rohan	25 310	215 345	275 290
+region	High_Pass	High Pass	415	1725	MAP WOR High Pass	Rhudaur,Carrock	360 1770	490 1715	425 1670
+region	Iron_Hills	Iron Hills	2460	1895	MAP WOR Iron Hills	Celduin,Erebor,Rhun	2310 1970	2360 1765	2260 1820;2460 1820;2660 1820
+region	Isengard	Isengard	140	640	MAP WOR Isengard	Dunland,Fangorn,Gap_Of_Rohan	70 660	230 660	150 560
+region	Ithilien	Ithilien	1525	-380	MAP WOR Ithilien	Belfalas,Harad,Umbar,Osgiliath,The_Dead_Marshes,Minas_Morgul	1400 -340	1525 -480	1400 -455;1650 -455
+region	Lostriand	Lostriand	-145	1663	MAP WOR Lostriand	Fornost,Ettenmoors,Rhudaur,Amon_Sul,Buckland	-225 1680	-170 1620	-80 1635
+region	Lothlorien	Lothlórien	825	1300	MAP WOR Lorien	Dol_Guldur,Fangorn,Carrock,Mirkwood,Redhorn_Pass	725 1450	925 1300	575 1050;725 1150;875 1150
+region	Minas_Morgul	Minas Morgul	1740	30	MAP WOR Minas Morgul	Mount_Doom,The_Dead_Marshes,Ithilien	1760 120	1820 -60	1670 0
+region	Minas_Tirith	Minas Tirith	1200	-25	MAP WOR Minas Tirith	Cair_Andros,Belfalas,Osgiliath	1270 60	1270 -110	1220 -160
+region	Minhiriath	Minhiriath	-875	720	MAP WOR Minhiriath	Cardolan,Tower_Hills,Enedwaith,Harlindon	-915 910	-940 630	-980 800;-785 650
+region	Mirkwood	Mirkwood	1175	1700	MAP WOR Mirkwood	Celduin,Dagorlad,Dol_Guldur,Erebor,Carrock,Lothlorien	920 1900	1290 1700	1150 1500;1310 1400;1480 1500
+region	MountGundabad	Mount Gundabad	475	2265	MAP WOR ANG Gundabad	Carrock,Forodwaith	405 2240	635 2230	345 2445
+region	Mordor	Mordor	2620	-230	MAP WOR Mordor	Mount_Doom	2230 -320	2620 -50	2230 -420;2480 -230;2720 -50
+region	Mount_Doom	Mount Doom	2100	130	MAP WOR Mount Doom	Minas_Morgul,Mordor,The_Black_Gate	1930 130	2270 130	2030 -50;2170 -50
+region	Osgiliath	Osgiliath	1417	-120	MAP WOR Osgiliath	Cair_Andros,Ithilien,Minas_Tirith,The_Dead_Marshes,Belfalas	1380 -175	1325 -220	1430 -5
+region	Redhorn_Pass	Redhorn_Pass	400	1190	MAP WOR Redhorn Pass	Dunland,Lothlorien	330 1240	515 1240	300 1120
+region	Rhudaur	Rhudaur	20	1550	MAP WOR ANG Rhudaur	High_Pass,Ettenmoors,Lostriand,Amon_Sul,Rivendell,Dunland,Cardolan,Barrow_Downs	210 1800	-25 1330	60 1315;130 1750;-80 1215
+region	Rhun	Rhûn	2450	1450	MAP WOR Rhun	Celduin,Dagorlad,Iron_Hills	2450 1450	2600 1350	2450 675;2600 825;2750 675
+region	Rivendell	Rivendell	185	1505	MAP WOR Rivendell	Rhudaur,Dunland	160 1550	240 1510	215 1590
+region	Rohan	Rohan	770	460	MAP WOR Rohan	Cair_Andros,Fangorn,Gap_Of_Rohan,Helms_Deep,The_Brown_Lands	620 535	540 320	620 385;770 410;920 385
+region	The_Black_Gate	Black Gate	1780	420	MAP WOR Black Gate	Mount_Doom,The_Dead_Marshes	1780 310	1930 460	1680 430
+region	The_Dead_Marshes	Dead Marshes	1470	430	MAP WOR Dead Marshes	Cair_Andros,Dagorlad,The_Brown_Lands,The_Black_Gate,Osgiliath,Ithilien,Minas_Morgul	1340 350	1520 110	1425 365;1730 660
+region	The_Brown_Lands	The_Brown_Lands	1330	720	map mp brown lands	Cair_Andros,Dagorlad,Dol_Guldur,Fangorn,Rohan,The_Dead_Marshes	1130 765	1380 690	1250 555;1500 800
+region	The_Shire	The Shire	-830	1530	MAP WOR Shire	Arnor,Buckland,Barrow_Downs,Tower_Hills	-875 1595	-800 1420	-875 1445;-725 1445
+region	Tower_Hills	Tower Hills	-1135	1345	MAP WOR Tower Hills	Arnor,Grey_Havens,Harlindon,The_Shire,Barrow_Downs,Cardolan,Minhiriath	-1210 1580	-1210 1190	-1140 1430
+region	Umbar	Umbar	1130	-860	MAP MP Umbar	Belfalas,Ithilien,Harad	930 -740	1095 -795	985 -870;1255 -870
+campaign	NewCampaign
+region	Amon_Hen	Amon Hen	1059	604	MAP WOR Amon Hen	East_Emnet,Emyn_Muil,Old_Brown_Lands,Wold	1085 671	1076 553	1059 604
+region	Andrast	Andrast	-545	-354	MAP WOR Andrast	Anfalas,Enedwaith	-304 -390	-721 -443	-561 -395
+region	Anfalas	Anfalas	-83	-160	MAP WOR Anfalas	Andrast,Belfalas,Enedwaith,Lamedon,Paths_Dead	176 -243	14 -186	-332 -148;-272 -148
+region	Angmar	Angmar	-25	2046	MAP WOR Angmar	Ettenmoors,Forodwaith,Carn_Dum	-11 2099	61 2048	-95 2090
+region	Anorien	Anórien	1011	188	MAP WOR Anorien	Druadan_Forest,East_Rohan,Eastfold,Mouths_Entwash	941 264	1004 144	1064 227
+region	Barrow_Downs	Barrow Downs	-667	1242	MAP WOR Barrow Downs	Buckland,Cardolan,Eregion,Hobbiton,Old_Forest,Tower_Hills,Weathertop	-511 1283	-608 1344	-667 1242
+region	Belfalas	Belfalas	445	-439	MAP WOR Belfalas	Anfalas,Dol_Amroth,Grey_Havens,Lamedon,Lebennin,Tolfalas,Umbar	297 -559	357 -650	468 -358
+region	Black_Gate	Black Gate	1820	420	MAP WOR Black Gate	Dagorlad,Lithlad,Mount_Doom	1710 460	1870 345	1720 450
+region	Blue_Mountains	Ered Luin	-1412	1206	MAP WOR Blue Mountains	Harlindon,Tower_Hills	-1462 1126	-1441 1253	-1400 1240
+region	Buckland	Buckland	-729	1541	MAP WOR Buckland	Barrow_Downs,Evendim_Lake,Hobbiton,North_Downs,Old_Forest	-662 1715	-703 1515	-737 1497;-737 1437
+region	Cair_Andros	Cair Andros	1390	134	MAP WOR Cair Andros	Druadan_Forest,Minas_Tirith,Mouths_Entwash,Northern_Ithilien,Osgiliath	1366 94	1454 118	1367 179
+region	Caradhras	Caradhras	415	1230	MAP WOR Caradhras	Dimrill_Dale,Eregion,Gladden_Fields,Moria	302 1206	466 1129	480 1200
+region	Cardolan	Cardolan	-565	1010	MAP WOR Cardolan	Barrow_Downs,Eregion,Minhiriath,Swan_Fleet,Tharbad,Tower_Hills	-485 888	-568 938	-460 1060;-460 1000
+region	Carn_Dum	Carn Dûm	-131	2254	MAP WOR Carn Dum	Angmar,Forodwaith	-297 2394	-149 2381	
+region	Carnen	Carnen	2259	1604	MAP WOR Carnen	Dorwinion,Eastern_Wastes,Iron_Hills,Orocarni,Vales_Celduin	2120 1669	2207 1582	2397 1676
+region	Carrock	Carrock	780	1647	MAP WOR Carrock	Framsburg,Halls_Thranduil,High_Pass,Northern_Mirkwood,Old_Ford_Anduin	619 1632	705 1606	780 1647
+region	Central_Ithilien	Central Ithilien	1620	-260	MAP WOR Central Ithilien	Emyn_Arnen,Southern_Ithilien	1640 -300	1710 -290	1620 -260
+region	Dagorlad	Dagorlad	2135	630	MAP WOR Dagorlad	Black_Gate,Dead_Marshes,Old_Brown_Lands,Rhun,Vales_Celduin	2125 750	2200 545	2500 590;2440 590
+region	Dead_Marshes	Dead Marshes	1436	574	MAP WOR Dead Marshes	Dagorlad,Emyn_Muil,Mouths_Entwash,Northern_Ithilien,Old_Brown_Lands	1331 430	1456 562	1529 672
+region	Dimrill_Dale	Dimrill Dale	552	997	MAP WOR Dimrill Dale	Caradhras,Fangorn_Forest,Field_Celebrant,Gladden_Fields,Lothlorien,Moria	465 1007	576 1040	513 980
+region	Dol_Amroth	Dol Amroth	210	-452	MAP WOR Dol Amroth	Belfalas	182 -483	187 -430	
+region	Dol_Guldur	Dol Guldur	1136	1145	MAP WOR Dol Guldur	Field_Celebrant,Gladden_Fields,Mirkwood,Old_Brown_Lands,Old_Ford_Anduin	1012 1164	1119 1228	
+region	Dorwinion	Dorwinion	2516	1275	MAP WOR Dorwinion	Carnen,Orocarni,Rhun,Vales_Celduin	2343 1261	2548 1326	2446 1331
+region	Druadan_Forest	Drúadan Forest	1212	147	MAP WOR Druadan Forest	Anorien,Cair_Andros,Minas_Tirith,Mouths_Entwash	1185 216	1143 151	1212 147
+region	Dunharrow	Dunharrow	296	291	MAP WOR Dunharrow	Edoras,Helms_Deep,Fords_Isen,Paths_Dead,Westfold	249 305	278 290	291 335
+region	Dunland	Dunland	-29	896	MAP WOR Dunland	Enedwaith,Eregion,Isengard,Swan_Fleet	100 951	0 845	-100 950;-40 950
+region	East_Bight	East Bight	1627	1198	MAP WOR East Bight	Old_Brown_Lands,Mirkwood,Vales_Celduin	1746 1078	1698 1223	1627 1198
+region	East_Rohan	Eastern Rohan	801	356	MAP WOR Eastern Rohan	Anorien,East_Emnet,Eastfold,Halifirien,Mouths_Entwash,Rohan,West_Emnet	593 312	842 330	935 369
+region	Eastfold	Halifirien	810	218	MAP WOR Halifirien	Anorien,East_Rohan,Halifirien	762 253	727 206	810 218
+region	Eaves_Fangorn	Eaves of Fangorn	436	624	MAP WOR Eaves Fangorn	Fangorn_Forest,Gap_Rohan,Isengard,Rohan,West_Emnet,Westfold,Wold	500 650	577 659	530 632
+region	Edoras	Edoras	424	250	MAP WOR Edoras	Dunharrow,Halifirien,Rohan,Westfold	376 351	372 265	
+region	Emyn_Arnen	Emyn Arnen	1435	-260	MAP WOR Emyn Arnen	Central_Ithilien,Harlond,Lebennin,Minas_Morgul,Osgiliath,Southern_Ithilien	1640 -145	1500 -350	1410 -300
+region	Emyn_Muil	Emyn Muil	1194	569	MAP WOR Emyn Muil	Amon_Hen,Dead_Marshes,Mouths_Entwash,Old_Brown_Lands	1158 651	1132 532	1194 569
+region	East_Emnet	East Emnet	895	569	MAP WOR East Emnet	Amon_Hen,East_Rohan,West_Emnet,Wold	808 520	895 560	844 632
+region	Eastern_Wastes	Eastern Wastes	1883	1734	MAP WOR Eastern Wastes	Carnen,Erebor_Dale,Esgaroth,Iron_Hills,Vales_Celduin,Withered_Heath	1783 1834	1992 1726	1883 1734
+region	Enedwaith	Enedwaith	-337	400	MAP WOR Enedwaith	Andrast,Anfalas,Dunland,Fords_Isen,Gap_Rohan,Helms_Deep,Isengard,Minhiriath,Swan_Fleet,Tharbad	-460 164	-132 322	-510 520;-450 520;-390 520
+region	Erebor_Dale	Erebor	1556	1855	MAP WOR Erebor	Eastern_Wastes,Esgaroth,Halls_Thranduil,Northern_Mirkwood,Withered_Heath	1520 1814	1559 1852	
+region	Eregion	Eregion	-64	1177	MAP WOR Eregion	Barrow_Downs,Caradhras,Cardolan,Dunland,Moria,Rivendell,Trollshaws,Weathertop	-280 1069	-101 1166	161 1100;161 1160;161 1220
+region	Esgaroth	Esgaroth	1570	1646	MAP WOR Esgaroth	Eastern_Wastes,Erebor_Dale,Halls_Thranduil,Mirkwood,Vales_Celduin	1636 1689	1559 1576	1570 1646
+region	Ettenmoors	Ettenmoors	-174	1896	MAP WOR Ettenmoors	Angmar,Evendim_Hills,Fornost,Forodwaith,Rhudaur,Weather_Hills	-172 1807	-202 1922	-65 1823;-5 1823
+region	Evendim_Hills	Evendim_Hills	-686	2141	MAP WOR Hills Evendim	Ettenmoors,Evendim_Lake,Forlindon,Forodwaith,Fornost	-1004 2127	-635 2050	-916 2167;-856 2167
+region	Evendim_Lake	Evendim_Lake	-933	1887	MAP WOR Evendim Lake	Buckland,Evendim_Hills,Forlindon,Fornost,Grey_Havens,Hobbiton,North_Downs,Tower_Hills	-1064 1877	-894 1879	-1014 1978;-954 1978
+region	Fangorn_Forest	Fangorn	466	776	MAP WOR Fangorn	Dimrill_Dale,Eaves_Fangorn,Field_Celebrant,Isengard,Wold	321 724	456 713	529 833
+region	Far_Harad	Far Harad	1855	-1265	MAP WOR Far Harad	Khand,Near_Harad,Harondor,Umbar	1190 -1250	1770 -1220	1355 -1275;1295 -1275
+region	Field_Celebrant	Field of Celebrant	921	938	MAP WOR Field of Celebrant	Dimrill_Dale,Dol_Guldur,Fangorn_Forest,Gladden_Fields,Lothlorien,Old_Brown_Lands,Wold	1003 883	986 971	731 919
+region	Fords_Bruinen	Fords of Bruinen	245	1620	MAP WOR Fords of Bruinen	High_Pass,Rhudaur,Rivendell,Trollshaws	311 1609	267 1659	267 1625
+region	Fords_Isen	Fords of Isen	167	478	MAP WOR Fords of Isen	Enedwaith,Dunharrow,Gap_Rohan,Helms_Deep,Westfold	208 427	154 514	167 478
+region	Forlindon	Forlindon	-1326	2250	MAP WOR Forlindon	Evendim_Lake,Evendim_Hills,Grey_Havens	-1950 1592	-1358 2074	-1234 2135;-1174 2135
+region	Fornost	Fornost	-435	1902	MAP WOR Fornost	Ettenmoors,Evendim_Hills,Evendim_Lake,North_Downs,Weather_Hills	-509 1882	-417 1858	-376 1778
+region	Forodwaith	Forodwaith	-516	2364	MAP WOR Forodwaith	Angmar,Carn_Dum,Ettenmoors,Evendim_Hills,Mount_Gundabad	-606 2350	-416 2400	-512 2321;-452 2321
+region	Framsburg	Framsburg	600	1930	MAP WOR Framsburg	Carrock,Grey_Mountains,High_Pass,Northern_Mirkwood,Rhudaur	458 2077	539 1887	551 2029;551 1969
+region	Gap_Rohan	Gap of Rohan	171	558	MAP WOR Gap of Rohan	Eaves_Fangorn,Enedwaith,Fords_Isen,Isengard,Westfold	266 598	175 549	221 559
+region	Gladden_Fields	Gladden Fields	802	1215	MAP WOR Gladden Fields	Caradhras,Dimrill_Dale,Dol_Guldur,Field_Celebrant,Lothlorien,Old_Ford_Anduin	638 1247	690 1166	723 1246
+region	Grey_Havens	Grey Havens	-1353	1575	MAP WOR Grey Havens	Evendim_Lake,Forlindon,Tower_Hills,Belfalas,Umbar,Tolfalas	-1653 1552	-1446 1730	-1734 1613;-1734 1673
+region	Grey_Mountains	Grey Mountains	825	2229	MAP WOR Grey Mountains	Framsburg,Mount_Gundabad,Northern_Mirkwood,Withered_Heath	492 2193	843 2294	570 2176
+region	Halifirien	Eastfold	609	230	MAP WOR Eastfold	Eastfold,East_Rohan,Edoras	561 268	540 208	609 230
+region	Halls_Thranduil	Halls of the Elvenking	1307	1686	MAP WOR Realm of the Elvenking	Carrock,Erebor_Dale,Esgaroth,Mirkwood,Northern_Mirkwood	1274 1730	1366 1649	1379 1742
+region	Harlindon	Harlindon	-1583	1020	MAP WOR Harlindon	Blue_Mountains,Tower_Hills	-1234 977	-1649 1077	-1725 1181;-1665 1181
+region	Harlond	Harlond	1336	-161	MAP WOR Harlond	Emyn_Arnen,Lebennin,Minas_Tirith,Osgiliath	1251 -172	1320 -134	1296 -142
+region	Harondor	Harondor	1365	-870	MAP WOR Harondor	Near_Harad,Far_Harad,Pelargir,Southern_Ithilien,Umbar	925 -900	1320 -835	1710 -1045;1770 -1045
+region	Helms_Deep	Helm's Deep	152	281	MAP WOR Helms Deep	Dunharrow,Enedwaith,Fords_Isen,Paths_Dead	10 329	17 260	
+region	High_Pass	High Pass	441	1740	MAP WOR High Pass	Carrock,Fords_Bruinen,Framsburg,Rhudaur	408 1669	372 1783	425 1670
+region	Hobbiton	Hobbiton	-896	1510	MAP WOR Shire	Barrow_Downs,Buckland,Evendim_Lake,Tower_Hills	-940 1337	-949 1516	-889 1593
+region	Iron_Hills	Iron Hills	2314	2024	MAP WOR Iron Hills	Carnen,Eastern_Wastes,Orocarni,Withered_Heath	2214 1822	2243 2109	2450 1951;2510 1951
+region	Isengard	Isengard	174	653	MAP WOR Isengard	Dunland,Eaves_Fangorn,Enedwaith,Gap_Rohan,Fangorn_Forest	254 676	170 616	
+region	Khand	Khand	2980	-1025	MAP WOR Khand	Near_Harad,Far_Harad	2995 -830	2870 -1070	2865 -950
+region	Lamedon	Lamedon	501	-217	MAP WOR Lamedon	Anfalas,Belfalas,Lebennin	702 -247	570 -222	364 -163
+region	Lebennin	Lebennin	950	-365	MAP WOR Lebennin	Belfalas,Emyn_Arnen,Harlond,Lamedon,Minas_Tirith,Pelargir,Southern_Ithilien	660 -490	880 -510	750 -490;810 -490
+region	Lithlad	Lithlad	2670	250	MAP WOR Ered Lithui	Black_Gate,Mount_Doom,Nurn	2510 240	2600 180	2790 40
+region	Lothlorien	Lothlórien	696	1052	MAP WOR Lothlorien	Dimrill_Dale,Field_Celebrant,Gladden_Fields	653 1012	726 1002	
+region	Minas_Morgul	Minas Morgul	1685	15	MAP WOR Minas Morgul	Shelob_Lair,Emyn_Arnen,Northern_Ithilien,Osgiliath	1625 -60	1725 5	
+region	Minas_Tirith	Minas Tirith	1318	-17	MAP WOR Minas Tirith	Cair_Andros,Druadan_Forest,Harlond,Lebennin,Osgiliath	1302 -85	1397 -27	
+region	Minhiriath	Minhiriath	-884	730	MAP WOR Minhiriath	Cardolan,Enedwaith,Tharbad,Tower_Hills	-722 679	-837 845	-952 892;-1012 892
+region	Mirkwood	Mirkwood	1308	1384	MAP WOR Mirkwood	Dol_Guldur,East_Bight,Esgaroth,Halls_Thranduil,Old_Brown_Lands,Old_Ford_Anduin,Vales_Celduin	1357 1532	1385 1353	1442 1466;1442 1406;1442 1346
+region	Mount_Doom	Mount Doom	2100	130	MAP WOR Mount Doom	Black_Gate,Lithlad,Nurn,Shelob_Lair	2040 -65	2200 80	1895 230;1955 230
+region	Mount_Gundabad	Mount Gundabad	421	2367	MAP WOR Mount Gundabad	Grey_Mountains,Forodwaith	675 2342	405 2446	326 2440;593 2377
+region	Moria	Moria	325	1083	MAP WOR Moria	Caradhras,Dimrill_Dale,Eregion	408 1035	362 1046	362 1046
+region	Mouths_Entwash	Mouths_Entwash	1168	315	MAP WOR Mouths Entwash	Anorien,Cair_Andros,Dead_Marshes,Druadan_Forest,East_Rohan,Emyn_Muil,Northern_Ithilien	1331 263	1188 352	1259 287
+region	Near_Harad	Near Harad	2360	-970	MAP WOR Near Harad	Khand,Far_Harad,Harondor,Southern_Ithilien	2025 -900	2365 -950	2590 -870
+region	North_Downs	North Downs	-497	1619	MAP WOR North Downs	Buckland,Evendim_Lake,Fornost,Old_Forest,Weathertop,Weather_Hills	-600 1629	-479 1564	-497 1619
+region	Northern_Ithilien	Northern_Ithilien	1476	282	MAP WOR Northern Ithilien	Black_Gate,Cair_Andros,Dead_Marshes,Minas_Morgul,Mouths_Entwash,Osgiliath	1522 132	1510 265	1429 323
+region	Northern_Mirkwood	Northern Mirkwood	1042	1958	MAP WOR Northern Mirkwood	Carrock,Erebor_Dale,Framsburg,Grey_Mountains,Halls_Thranduil,Withered_Heath	1360 1991	1090 2084	881 2037;941 2037
+region	Nurn	Núrn	2500	-325	MAP WOR Nurn	Shelob_Lair,Lithlad,Mount_Doom	2100 -290	2285 -360	2150 -440
+region	Old_Brown_Lands	Old_Brown_Lands	1414	867	MAP WOR Old Brown Lands	Amon_Hen,Dagorlad,Dead_Marshes,Dol_Guldur,East_Bight,Emyn_Muil,Field_Celebrant,Mirkwood,Wold	1327 908	1450 803	1181 901;1181 841;1181 781
+region	Old_Ford_Anduin	Old Ford of Anduin	863	1445	MAP WOR Old Ford Anduin	Carrock,Dol_Guldur,Gladden_Fields,Mirkwood	660 1531	875 1522	973 1415
+region	Old_Forest	Old_Forest	-573	1502	MAP WOR Old Forest	Barrow_Downs,Buckland,North_Downs,Weathertop	-628 1564	-620 1484	-573 1502
+region	Orocarni	Orocarni	2903	1793	MAP WOR Orocarni	Carnen,Dorwinion,Iron_Hills,Rhun	2648 1830	2837 1885	2808 2010
+region	Osgiliath	Osgiliath	1499	-8	MAP WOR Osgiliath	Cair_Andros,Emyn_Arnen,Harlond,Minas_Morgul,Minas_Tirith,Northern_Ithilien	1474 -65	1453 -4	1499 -8
+region	Paths_Dead	Paths_Dead	194	106	MAP WOR Erech	Anfalas,Dunharrow,Enedwaith,Helms_Deep	252 12	149 18	150 20
+region	Pelargir	Pelargir	1135	-515	MAP WOR Pelargir	Harondor,Lebennin,Southern_Ithilien	1020 -550	1160 -550	1200 -520
+region	Rhudaur	Rhudaur	187	1792	MAP WOR Rhudaur	Ettenmoors,Fords_Bruinen,Framsburg,High_Pass,Trollshaws,Weather_Hills	60 1686	215 1835	123 1745
+region	Rhun	Rhûn	2937	845	MAP WOR Rhun	Dagorlad,Dorwinion,Orocarni,Vales_Celduin	2915 606	2950 891	2762 604
+region	Rivendell	Rivendell	256	1476	MAP WOR Rivendell	Eregion,Fords_Bruinen	215 1467	297 1450	
+region	Rohan	Rohan	481	460	MAP WOR Rohan	Eaves_Fangorn,East_Rohan,Edoras,West_Emnet,Westfold	389 548	550 450	496 403
+region	Shelob_Lair	Cirith Ungol	1830	5	MAP WOR Cirith Ungol	Minas_Morgul,Mount_Doom	1925 -35	1870 30	1930 -50
+region	Southern_Ithilien	Southern Ithilien	1580	-530	MAP WOR Southern Ithilien	Central_Ithilien,Emyn_Arnen,Harondor,Near_Harad,Pelargir,Lebennin	1695 -505	1580 -555	1635 -430;1635 -490
+region	Swan_Fleet	Swanfleet	-288	786	MAP WOR Swanfleet	Cardolan,Dunland,Enedwaith,Tharbad	-361 827	-296 897	-258 866
+region	Tharbad	Tharbad	-504	692	MAP WOR Tharbad	Cardolan,Enedwaith,Minhiriath,Swan_Fleet	-578 607	-476 748	-504 692
+region	Tolfalas	Tolfalas	490	-935	MAP WOR Tolfalas	Belfalas,Grey_Havens,Umbar	535 -800	505 -915	
+region	Tower_Hills	Tower Hills	-1120	1396	MAP WOR Tower Hills	Barrow_Downs,Blue_Mountains,Cardolan,Evendim_Lake,Grey_Havens,Harlindon,Hobbiton,Minhiriath	-1063 1649	-1222 1443	-1135 1534;-1135 1474
+region	Trollshaws	Trollshaws	57	1546	MAP WOR Trollshaws	Eregion,Fords_Bruinen,Rhudaur,Weather_Hills,Weathertop	-12 1439	67 1572	40 1487
+region	Umbar	Umbar	1115	-1090	MAP WOR Umbar	Belfalas,Far_Harad,Grey_Havens,Harondor,Tolfalas	1130 -1045	985 -1055	
+region	Vales_Celduin	Vales_Celduin	1991	1187	MAP WOR Vales of Celduin	Carnen,Dagorlad,Dorwinion,East_Bight,Eastern_Wastes,Esgaroth,Mirkwood,Rhun	2316 1036	2088 1341	2164 1210;2164 1150;2164 1090
+region	Weather_Hills	Weather Hills	-159	1653	MAP WOR Weather Hills	Fornost,Ettenmoors,Rhudaur,Trollshaws,Weathertop,North_Downs	-291 1612	-109 1584	-181 1620
+region	Weathertop	Weathertop	-282	1408	MAP WOR Weathertop	Barrow_Downs,Eregion,North_Downs,Old_Forest,Trollshaws,Weather_Hills	-314 1318	-314 1424	-369 1373;-309 1373
+region	West_Emnet	West Emnet	677	541	MAP WOR West Emnet	Eaves_Fangorn,East_Rohan,East_Emnet,Rohan,Wold	735 596	649 632	677 541
+region	Westfold	Westfold	305	475	MAP WOR Westfold	Dunharrow,Eaves_Fangorn,Edoras,Fords_Isen,Gap_Rohan,Rohan	253 414	306 424	305 475
+region	Withered_Heath	Withered Heath	1817	2130	MAP WOR Withered Heath	Eastern_Wastes,Erebor_Dale,Grey_Mountains,Iron_Hills,Northern_Mirkwood	1528 2053	1692 2181	1793 2009
+region	Wold	Wold	813	770	MAP WOR Wold	Amon_Hen,East_Emnet,Eaves_Fangorn,Fangorn_Forest,Field_Celebrant,Old_Brown_Lands,West_Emnet	848 823	790 726	923 777
+campaign	AOTRScenario001
+region	Dunharrow	Dunharrow	296	291	MAP WOR Dunharrow	Edoras,Helms_Deep,Fords_Isen,Westfold	249 305	278 290	291 335
+region	Dunland	Dunland	-29	896	MAP WOR Dunland	Isengard	100 951	0 845	-100 950;-40 950
+region	East_Rohan	Eastern Rohan	801	356	MAP WOR Eastern Rohan	East_Emnet,Eastfold,Halifirien,Rohan,West_Emnet	593 312	842 330	935 369
+region	Eastfold	Halifirien	810	218	MAP WOR Halifirien	East_Rohan,Halifirien	762 253	727 206	810 218
+region	Eaves_Fangorn	Eaves of Fangorn	436	624	MAP WOR Eaves Fangorn	Fangorn_Forest,Gap_Rohan,Isengard,Rohan,West_Emnet,Westfold,Wold	500 650	577 659	530 632
+region	Edoras	Edoras	424	250	MAP WOR Edoras	Dunharrow,Halifirien,Rohan,Westfold	376 351	372 265	
+region	East_Emnet	East Emnet	895	569	MAP WOR East Emnet	East_Rohan,West_Emnet,Wold	808 520	895 560	844 632
+region	Fangorn_Forest	Fangorn	466	776	MAP WOR Fangorn	Eaves_Fangorn,Isengard,Wold	321 724	456 713	529 833
+region	Fords_Isen	Fords of Isen	167	478	MAP WOR Fords of Isen	Dunharrow,Gap_Rohan,Helms_Deep,Westfold	208 427	154 514	167 478
+region	Gap_Rohan	Gap of Rohan	171	558	MAP WOR Gap of Rohan	Eaves_Fangorn,Fords_Isen,Isengard,Westfold	266 598	175 549	221 559
+region	Halifirien	Eastfold	609	230	MAP WOR Eastfold	Eastfold,East_Rohan,Edoras	561 268	540 208	609 230
+region	Helms_Deep	Helm's Deep	152	281	MAP WOR Helms Deep	Dunharrow,Fords_Isen	10 329	17 260	
+region	Isengard	Isengard	174	653	MAP WOR Isengard	Dunland,Eaves_Fangorn,Gap_Rohan,Fangorn_Forest	254 676	170 616	
+region	Rohan	Rohan	481	460	MAP WOR Rohan	Eaves_Fangorn,East_Rohan,Edoras,West_Emnet,Westfold	389 548	550 450	496 403
+region	West_Emnet	West Emnet	677	541	MAP WOR West Emnet	Eaves_Fangorn,East_Rohan,East_Emnet,Rohan,Wold	735 596	649 632	677 541
+region	Westfold	Westfold	305	475	MAP WOR Westfold	Dunharrow,Eaves_Fangorn,Edoras,Fords_Isen,Gap_Rohan,Rohan	253 414	306 424	305 475
+region	Wold	Wold	813	770	MAP WOR Wold	East_Emnet,Eaves_Fangorn,Fangorn_Forest,West_Emnet	848 823	790 726	923 777
+campaign	AOTRScenario002
+region	Andrast	Andrast	-545	-354	MAP WOR Andrast	Anfalas	-304 -390	-721 -443	-561 -395
+region	Anfalas	Anfalas	-83	-160	MAP WOR Anfalas	Andrast,Belfalas,Lamedon	176 -243	14 -186	-332 -148;-272 -148
+region	Anorien	Anórien	1011	188	MAP WOR Anorien	Druadan_Forest,Eastfold,Mouths_Entwash	941 264	1004 144	1064 227
+region	Belfalas	Belfalas	445	-439	MAP WOR Belfalas	Anfalas,Dol_Amroth,Lamedon,Lebennin,Tolfalas,Umbar	297 -559	357 -650	468 -358
+region	Black_Gate	Black Gate	1820	420	MAP WOR Black Gate	Dagorlad,Lithlad,Mount_Doom	1710 460	1870 345	
+region	Cair_Andros	Cair Andros	1390	134	MAP WOR Cair Andros	Druadan_Forest,Minas_Tirith,Mouths_Entwash,Northern_Ithilien,Osgiliath	1366 94	1454 118	1367 179
+region	Central_Ithilien	Central Ithilien	1620	-260	MAP WOR Central Ithilien	Emyn_Arnen,Southern_Ithilien	1640 -300	1710 -290	1620 -260
+region	Dagorlad	Dagorlad	2135	630	MAP WOR Dagorlad	Black_Gate,Dead_Marshes,Rhun	2125 750	2200 545	2500 590;2440 590
+region	Dead_Marshes	Dead Marshes	1436	574	MAP WOR Dead Marshes	Dagorlad,Mouths_Entwash,Northern_Ithilien	1331 430	1456 562	1529 672
+region	Dol_Amroth	Dol Amroth	210	-452	MAP WOR Dol Amroth	Belfalas	182 -483	187 -430	
+region	Druadan_Forest	Drúadan Forest	1212	147	MAP WOR Druadan Forest	Anorien,Cair_Andros,Minas_Tirith,Mouths_Entwash	1185 216	1143 151	1212 147
+region	Eastfold	Halifirien	810	218	MAP WOR Halifirien	Anorien	762 253	727 206	810 218
+region	Emyn_Arnen	Emyn Arnen	1435	-260	MAP WOR Emyn Arnen	Central_Ithilien,Harlond,Lebennin,Minas_Morgul,Osgiliath,Southern_Ithilien	1640 -145	1500 -350	1410 -300
+region	Far_Harad	Far Harad	1855	-1265	MAP WOR Far Harad	Khand,Near_Harad,Harondor,Umbar	1190 -1250	1770 -1220	1355 -1275;1295 -1275
+region	Harlond	Harlond	1336	-161	MAP WOR Harlond	Emyn_Arnen,Lebennin,Minas_Tirith,Osgiliath	1251 -172	1320 -134	1296 -142
+region	Harondor	Harondor	1365	-870	MAP WOR Harondor	Near_Harad,Far_Harad,Pelargir,Southern_Ithilien,Umbar	925 -900	1320 -835	1710 -1045;1770 -1045
+region	Khand	Khand	2980	-1025	MAP WOR Khand	Near_Harad,Far_Harad	2995 -830	2870 -1070	2865 -950
+region	Lamedon	Lamedon	501	-217	MAP WOR Lamedon	Anfalas,Belfalas,Lebennin	702 -247	570 -222	364 -163
+region	Lebennin	Lebennin	950	-365	MAP WOR Lebennin	Belfalas,Emyn_Arnen,Harlond,Lamedon,Minas_Tirith,Pelargir,Southern_Ithilien	660 -490	880 -510	750 -490;810 -490
+region	Lithlad	Lithlad	2670	250	MAP WOR Ered Lithui	Black_Gate,Mount_Doom,Nurn	2510 240	2600 180	2790 40
+region	Minas_Morgul	Minas Morgul	1685	15	MAP WOR Minas Morgul	Shelob_Lair,Emyn_Arnen,Northern_Ithilien,Osgiliath	1625 -60	1725 5	
+region	Minas_Tirith	Minas Tirith	1318	-17	MAP WOR Minas Tirith	Cair_Andros,Druadan_Forest,Harlond,Lebennin,Osgiliath	1302 -85	1397 -27	
+region	Mount_Doom	Mount Doom	2100	130	MAP WOR Mount Doom	Black_Gate,Lithlad,Nurn,Shelob_Lair	2040 -65	2200 80	1895 230;1955 230
+region	Mouths_Entwash	Mouths_Entwash	1168	315	MAP WOR Mouths Entwash	Anorien,Cair_Andros,Dead_Marshes,Druadan_Forest,Emyn_Muil,Northern_Ithilien	1331 263	1188 352	1259 287
+region	Near_Harad	Near Harad	2360	-970	MAP WOR Near Harad	Khand,Far_Harad,Harondor,Southern_Ithilien	2025 -900	2365 -950	2590 -870
+region	Northern_Ithilien	Northern_Ithilien	1476	282	MAP WOR Northern Ithilien	Black_Gate,Cair_Andros,Dead_Marshes,Minas_Morgul,Mouths_Entwash,Osgiliath	1522 132	1510 265	1429 323
+region	Nurn	Núrn	2500	-325	MAP WOR Nurn	Shelob_Lair,Lithlad,Mount_Doom	2100 -290	2285 -360	2150 -440
+region	Osgiliath	Osgiliath	1499	-8	MAP WOR Osgiliath	Cair_Andros,Emyn_Arnen,Harlond,Minas_Morgul,Minas_Tirith,Northern_Ithilien	1474 -65	1453 -4	1499 -8
+region	Pelargir	Pelargir	1135	-515	MAP WOR Pelargir	Harondor,Lebennin,Southern_Ithilien	1020 -550	1160 -550	1200 -520
+region	Rhun	Rhûn	2937	845	MAP WOR Rhun	Dagorlad	2915 606	2950 891	2762 604
+region	Shelob_Lair	Cirith Ungol	1830	5	MAP WOR Cirith Ungol	Minas_Morgul,Mount_Doom	1925 -35	1870 30	1900 -50
+region	Southern_Ithilien	Southern Ithilien	1580	-530	MAP WOR Southern Ithilien	Central_Ithilien,Emyn_Arnen,Harondor,Near_Harad,Pelargir,Lebennin	1695 -505	1580 -555	1635 -430;1635 -490
+region	Tolfalas	Tolfalas	490	-935	MAP WOR Tolfalas	Belfalas,Umbar	535 -800	505 -915	
+region	Umbar	Umbar	1115	-1090	MAP WOR Umbar	Belfalas,Far_Harad,Harondor,Tolfalas	1130 -1045	985 -1055	
+campaign	AOTRScenario003
+region	Amon_Hen	Amon Hen	1059	604	MAP WOR Amon Hen	East_Emnet,Emyn_Muil,Old_Brown_Lands,Wold	1085 671	1076 553	1059 604
+region	Andrast	Andrast	-545	-354	MAP WOR Andrast	Anfalas,Enedwaith	-304 -390	-721 -443	-561 -395
+region	Anfalas	Anfalas	-83	-160	MAP WOR Anfalas	Andrast,Belfalas,Enedwaith,Lamedon,Paths_Dead	176 -243	14 -186	-332 -148;-272 -148
+region	Anorien	Anórien	1011	188	MAP WOR Anorien	Druadan_Forest,East_Rohan,Eastfold,Mouths_Entwash	941 264	1004 144	1064 227
+region	Belfalas	Belfalas	445	-439	MAP WOR Belfalas	Anfalas,Dol_Amroth,Lamedon,Lebennin,Tolfalas,Umbar	297 -559	357 -650	468 -358
+region	Black_Gate	Black Gate	1820	420	MAP WOR Black Gate	Dagorlad,Lithlad,Mount_Doom	1710 460	1870 345	
+region	Cair_Andros	Cair Andros	1390	134	MAP WOR Cair Andros	Druadan_Forest,Minas_Tirith,Mouths_Entwash,Northern_Ithilien,Osgiliath	1366 94	1454 118	1367 179
+region	Central_Ithilien	Central Ithilien	1620	-260	MAP WOR Central Ithilien	Emyn_Arnen,Southern_Ithilien	1640 -300	1710 -290	1620 -260
+region	Dagorlad	Dagorlad	2135	630	MAP WOR Dagorlad	Black_Gate,Dead_Marshes,Old_Brown_Lands,Rhun	2125 750	2200 545	2500 590;2440 590
+region	Dead_Marshes	Dead Marshes	1436	574	MAP WOR Dead Marshes	Dagorlad,Emyn_Muil,Mouths_Entwash,Northern_Ithilien,Old_Brown_Lands	1331 430	1456 562	1529 672
+region	Dol_Amroth	Dol Amroth	210	-452	MAP WOR Dol Amroth	Belfalas	182 -483	187 -430	
+region	Druadan_Forest	Drúadan Forest	1212	147	MAP WOR Druadan Forest	Anorien,Cair_Andros,Minas_Tirith,Mouths_Entwash	1185 216	1143 151	1212 147
+region	Dunharrow	Dunharrow	296	291	MAP WOR Dunharrow	Edoras,Helms_Deep,Fords_Isen,Paths_Dead,Westfold	249 305	278 290	291 335
+region	Dunland	Dunland	-29	896	MAP WOR Dunland	Enedwaith,Isengard,Swan_Fleet	100 951	0 845	-100 950;-40 950
+region	East_Rohan	Eastern Rohan	801	356	MAP WOR Eastern Rohan	Anorien,East_Emnet,Eastfold,Halifirien,Mouths_Entwash,Rohan,West_Emnet	593 312	842 330	935 369
+region	Eastfold	Halifirien	810	218	MAP WOR Halifirien	Anorien,East_Rohan,Halifirien	762 253	727 206	810 218
+region	Eaves_Fangorn	Eaves of Fangorn	436	624	MAP WOR Eaves Fangorn	Fangorn_Forest,Gap_Rohan,Isengard,Rohan,West_Emnet,Westfold,Wold	500 650	577 659	530 632
+region	Edoras	Edoras	424	250	MAP WOR Edoras	Dunharrow,Halifirien,Rohan,Westfold	376 351	372 265	
+region	Emyn_Arnen	Emyn Arnen	1435	-260	MAP WOR Emyn Arnen	Central_Ithilien,Harlond,Lebennin,Minas_Morgul,Osgiliath,Southern_Ithilien	1640 -145	1500 -350	1410 -300
+region	Emyn_Muil	Emyn Muil	1194	569	MAP WOR Emyn Muil	Amon_Hen,Dead_Marshes,Mouths_Entwash,Old_Brown_Lands	1158 651	1132 532	1194 569
+region	East_Emnet	East Emnet	895	569	MAP WOR East Emnet	Amon_Hen,East_Rohan,West_Emnet,Wold	808 520	895 560	844 632
+region	Enedwaith	Enedwaith	-337	400	MAP WOR Enedwaith	Andrast,Anfalas,Dunland,Fords_Isen,Gap_Rohan,Helms_Deep,Isengard,Swan_Fleet,Tharbad	-460 164	-132 322	-510 520;-450 520;-390 520
+region	Fangorn_Forest	Fangorn	466	776	MAP WOR Fangorn	Eaves_Fangorn,Isengard,Wold	321 724	456 713	529 833
+region	Far_Harad	Far Harad	1855	-1265	MAP WOR Far Harad	Khand,Near_Harad,Harondor,Umbar	1190 -1250	1770 -1220	1355 -1275;1295 -1275
+region	Fords_Isen	Fords of Isen	167	478	MAP WOR Fords of Isen	Enedwaith,Dunharrow,Gap_Rohan,Helms_Deep,Westfold	208 427	154 514	167 478
+region	Gap_Rohan	Gap of Rohan	171	558	MAP WOR Gap of Rohan	Eaves_Fangorn,Enedwaith,Fords_Isen,Isengard,Westfold	266 598	175 549	221 559
+region	Halifirien	Eastfold	609	230	MAP WOR Eastfold	Eastfold,East_Rohan,Edoras	561 268	540 208	609 230
+region	Harlond	Harlond	1336	-161	MAP WOR Harlond	Emyn_Arnen,Lebennin,Minas_Tirith,Osgiliath	1251 -172	1320 -134	1296 -142
+region	Harondor	Harondor	1365	-870	MAP WOR Harondor	Near_Harad,Far_Harad,Pelargir,Southern_Ithilien,Umbar	925 -900	1320 -835	1710 -1045;1770 -1045
+region	Helms_Deep	Helm's Deep	152	281	MAP WOR Helms Deep	Dunharrow,Enedwaith,Fords_Isen,Paths_Dead	10 329	17 260	
+region	Isengard	Isengard	174	653	MAP WOR Isengard	Dunland,Eaves_Fangorn,Enedwaith,Gap_Rohan,Fangorn_Forest	254 676	170 616	
+region	Khand	Khand	2980	-1025	MAP WOR Khand	Near_Harad,Far_Harad	2995 -830	2870 -1070	2865 -950
+region	Lamedon	Lamedon	501	-217	MAP WOR Lamedon	Anfalas,Belfalas,Lebennin	702 -247	570 -222	364 -163
+region	Lebennin	Lebennin	950	-365	MAP WOR Lebennin	Belfalas,Emyn_Arnen,Harlond,Lamedon,Minas_Tirith,Pelargir,Southern_Ithilien	660 -490	880 -510	750 -490;810 -490
+region	Lithlad	Lithlad	2670	250	MAP WOR Ered Lithui	Black_Gate,Mount_Doom,Nurn	2510 240	2600 180	2790 40
+region	Minas_Morgul	Minas Morgul	1685	15	MAP WOR Minas Morgul	Shelob_Lair,Emyn_Arnen,Northern_Ithilien,Osgiliath	1625 -60	1725 5	
+region	Minas_Tirith	Minas Tirith	1318	-17	MAP WOR Minas Tirith	Cair_Andros,Druadan_Forest,Harlond,Lebennin,Osgiliath	1302 -85	1397 -27	
+region	Mount_Doom	Mount Doom	2100	130	MAP WOR Mount Doom	Black_Gate,Lithlad,Nurn,Shelob_Lair	2040 -65	2200 80	1895 230;1955 230
+region	Mouths_Entwash	Mouths_Entwash	1168	315	MAP WOR Mouths Entwash	Anorien,Cair_Andros,Dead_Marshes,Druadan_Forest,East_Rohan,Emyn_Muil,Northern_Ithilien	1331 263	1188 352	1259 287
+region	Near_Harad	Near Harad	2360	-970	MAP WOR Near Harad	Khand,Far_Harad,Harondor,Southern_Ithilien	2025 -900	2365 -950	2590 -870
+region	Northern_Ithilien	Northern_Ithilien	1476	282	MAP WOR Northern Ithilien	Black_Gate,Cair_Andros,Dead_Marshes,Minas_Morgul,Mouths_Entwash,Osgiliath	1522 132	1510 265	1429 323
+region	Nurn	Núrn	2500	-325	MAP WOR Nurn	Shelob_Lair,Lithlad,Mount_Doom	2100 -290	2285 -360	2150 -440
+region	Old_Brown_Lands	Old_Brown_Lands	1414	867	MAP WOR Old Brown Lands	Amon_Hen,Dagorlad,Dead_Marshes,Emyn_Muil,Wold	1327 908	1450 803	1181 901;1181 841;1181 781
+region	Osgiliath	Osgiliath	1499	-8	MAP WOR Osgiliath	Cair_Andros,Emyn_Arnen,Harlond,Minas_Morgul,Minas_Tirith,Northern_Ithilien	1474 -65	1453 -4	1499 -8
+region	Paths_Dead	Paths_Dead	194	106	MAP WOR Erech	Anfalas,Dunharrow,Enedwaith,Helms_Deep	252 12	149 18	150 20
+region	Pelargir	Pelargir	1135	-515	MAP WOR Pelargir	Harondor,Lebennin,Southern_Ithilien	1020 -550	1160 -550	1200 -520
+region	Rhun	Rhûn	2937	845	MAP WOR Rhun	Dagorlad	2915 606	2950 891	2762 604
+region	Rohan	Rohan	481	460	MAP WOR Rohan	Eaves_Fangorn,East_Rohan,Edoras,West_Emnet,Westfold	389 548	550 450	496 403
+region	Shelob_Lair	Cirith Ungol	1830	5	MAP WOR Cirith Ungol	Minas_Morgul,Mount_Doom	1925 -35	1870 30	1900 -50
+region	Southern_Ithilien	Southern Ithilien	1580	-530	MAP WOR Southern Ithilien	Central_Ithilien,Emyn_Arnen,Harondor,Near_Harad,Pelargir,Lebennin	1695 -505	1580 -555	1635 -430;1635 -490
+region	Swan_Fleet	Swanfleet	-288	786	MAP WOR Swanfleet	Dunland,Enedwaith,Tharbad	-361 827	-296 897	-258 866
+region	Tharbad	Tharbad	-504	692	MAP WOR Tharbad	Enedwaith,Swan_Fleet	-578 607	-476 748	-504 692
+region	Tolfalas	Tolfalas	490	-935	MAP WOR Tolfalas	Belfalas,Umbar	535 -800	505 -915	
+region	Umbar	Umbar	1115	-1090	MAP WOR Umbar	Belfalas,Far_Harad,Harondor,Tolfalas	1130 -1045	985 -1055	
+region	West_Emnet	West Emnet	677	541	MAP WOR West Emnet	Eaves_Fangorn,East_Rohan,East_Emnet,Rohan,Wold	735 596	649 632	677 541
+region	Westfold	Westfold	305	475	MAP WOR Westfold	Dunharrow,Eaves_Fangorn,Edoras,Fords_Isen,Gap_Rohan,Rohan	253 414	306 424	305 475
+region	Wold	Wold	813	770	MAP WOR Wold	Amon_Hen,East_Emnet,Eaves_Fangorn,Fangorn_Forest,Old_Brown_Lands,West_Emnet	848 823	790 726	923 777
+campaign	AOTRScenario004
+region	Angmar	Angmar	-25	2046	MAP WOR Angmar	Ettenmoors,Forodwaith,Carn_Dum	-11 2099	61 2048	-95 2090
+region	Barrow_Downs	Barrow Downs	-667	1242	MAP WOR Barrow Downs	Buckland,Cardolan,Eregion,Hobbiton,Old_Forest,Tower_Hills,Weathertop	-511 1283	-608 1344	-667 1242
+region	Blue_Mountains	Ered Luin	-1412	1206	MAP WOR Blue Mountains	Harlindon,Tower_Hills	-1462 1126	-1441 1253	-1400 1240
+region	Buckland	Buckland	-729	1541	MAP WOR Buckland	Barrow_Downs,Evendim_Lake,Hobbiton,North_Downs,Old_Forest	-662 1715	-703 1515	-737 1497;-737 1437
+region	Caradhras	Caradhras	415	1230	MAP WOR Caradhras	Dimrill_Dale,Eregion,Gladden_Fields,Moria	302 1206	466 1129	480 1200
+region	Cardolan	Cardolan	-565	1010	MAP WOR Cardolan	Barrow_Downs,Eregion,Minhiriath,Tower_Hills	-485 888	-568 938	-460 1060;-460 1000
+region	Carn_Dum	Carn Dûm	-131	2254	MAP WOR Carn Dum	Angmar,Forodwaith	-297 2394	-149 2381	
+region	Carnen	Carnen	2259	1604	MAP WOR Carnen	Dorwinion,Eastern_Wastes,Iron_Hills,Orocarni,Vales_Celduin	2120 1669	2207 1582	2397 1676
+region	Carrock	Carrock	780	1647	MAP WOR Carrock	Framsburg,Halls_Thranduil,High_Pass,Northern_Mirkwood,Old_Ford_Anduin	619 1632	705 1606	780 1647
+region	Dimrill_Dale	Dimrill Dale	552	997	MAP WOR Dimrill Dale	Caradhras,Field_Celebrant,Gladden_Fields,Lothlorien,Moria	465 1007	576 1040	513 980
+region	Dol_Guldur	Dol Guldur	1136	1145	MAP WOR Dol Guldur	Field_Celebrant,Gladden_Fields,Mirkwood,Old_Brown_Lands,Old_Ford_Anduin	1012 1164	1119 1228	
+region	Dorwinion	Dorwinion	2516	1275	MAP WOR Dorwinion	Carnen,Orocarni,Rhun,Vales_Celduin	2343 1261	2548 1326	2446 1331
+region	East_Bight	East Bight	1627	1198	MAP WOR East Bight	Old_Brown_Lands,Mirkwood,Vales_Celduin	1746 1078	1698 1223	1627 1198
+region	Eastern_Wastes	Eastern Wastes	1883	1734	MAP WOR Eastern Wastes	Carnen,Erebor_Dale,Esgaroth,Iron_Hills,Vales_Celduin,Withered_Heath	1783 1834	1992 1726	1883 1734
+region	Erebor_Dale	Erebor	1556	1855	MAP WOR Erebor	Eastern_Wastes,Esgaroth,Halls_Thranduil,Northern_Mirkwood,Withered_Heath	1520 1814	1559 1852	
+region	Eregion	Eregion	-64	1177	MAP WOR Eregion	Barrow_Downs,Caradhras,Cardolan,Moria,Rivendell,Trollshaws,Weathertop	-280 1069	-101 1166	161 1100;161 1160;161 1220
+region	Esgaroth	Esgaroth	1570	1646	MAP WOR Esgaroth	Eastern_Wastes,Erebor_Dale,Halls_Thranduil,Mirkwood,Vales_Celduin	1636 1689	1559 1576	1570 1646
+region	Ettenmoors	Ettenmoors	-174	1896	MAP WOR Ettenmoors	Angmar,Evendim_Hills,Fornost,Forodwaith,Rhudaur,Weather_Hills	-172 1807	-202 1922	-65 1823;-5 1823
+region	Evendim_Hills	Evendim_Hills	-686	2141	MAP WOR Hills Evendim	Ettenmoors,Evendim_Lake,Forlindon,Forodwaith,Fornost	-1004 2127	-635 2050	-916 2167;-856 2167
+region	Evendim_Lake	Evendim_Lake	-933	1887	MAP WOR Evendim Lake	Buckland,Evendim_Hills,Forlindon,Fornost,Grey_Havens,Hobbiton,North_Downs,Tower_Hills	-1064 1877	-894 1879	-1014 1978;-954 1978
+region	Field_Celebrant	Field of Celebrant	921	938	MAP WOR Field of Celebrant	Dimrill_Dale,Dol_Guldur,Gladden_Fields,Lothlorien,Old_Brown_Lands	1003 883	986 971	731 919
+region	Fords_Bruinen	Fords of Bruinen	245	1620	MAP WOR Fords of Bruinen	High_Pass,Rhudaur,Rivendell,Trollshaws	311 1609	267 1659	267 1625
+region	Forlindon	Forlindon	-1326	2250	MAP WOR Forlindon	Evendim_Lake,Evendim_Hills,Grey_Havens	-1950 1592	-1358 2074	-1234 2135;-1174 2135
+region	Fornost	Fornost	-435	1902	MAP WOR Fornost	Ettenmoors,Evendim_Hills,Evendim_Lake,North_Downs,Weather_Hills	-509 1882	-417 1858	-376 1778
+region	Forodwaith	Forodwaith	-516	2364	MAP WOR Forodwaith	Angmar,Carn_Dum,Ettenmoors,Evendim_Hills,Mount_Gundabad	-606 2350	-416 2400	-512 2321;-452 2321
+region	Framsburg	Framsburg	600	1930	MAP WOR Framsburg	Carrock,Grey_Mountains,High_Pass,Northern_Mirkwood,Rhudaur	458 2077	539 1887	551 2029;551 1969
+region	Gladden_Fields	Gladden Fields	802	1215	MAP WOR Gladden Fields	Caradhras,Dimrill_Dale,Dol_Guldur,Field_Celebrant,Lothlorien,Old_Ford_Anduin	638 1247	690 1166	723 1246
+region	Grey_Havens	Grey Havens	-1353	1575	MAP WOR Grey Havens	Evendim_Lake,Forlindon,Tower_Hills	-1653 1552	-1446 1730	-1734 1613;-1734 1673
+region	Grey_Mountains	Grey Mountains	825	2229	MAP WOR Grey Mountains	Framsburg,Mount_Gundabad,Northern_Mirkwood,Withered_Heath	492 2193	843 2294	570 2176
+region	Halls_Thranduil	Halls of the Elvenking	1307	1686	MAP WOR Realm of the Elvenking	Carrock,Erebor_Dale,Esgaroth,Mirkwood,Northern_Mirkwood	1274 1730	1366 1649	1379 1742
+region	Harlindon	Harlindon	-1583	1020	MAP WOR Harlindon	Blue_Mountains,Tower_Hills	-1234 977	-1649 1077	-1725 1181;-1665 1181
+region	High_Pass	High Pass	441	1740	MAP WOR High Pass	Carrock,Fords_Bruinen,Framsburg,Rhudaur	408 1669	372 1783	425 1670
+region	Hobbiton	Hobbiton	-896	1510	MAP WOR Hobbiton	Barrow_Downs,Buckland,Evendim_Lake,Tower_Hills	-940 1337	-949 1516	-889 1593
+region	Iron_Hills	Iron Hills	2314	2024	MAP WOR Iron Hills	Carnen,Eastern_Wastes,Orocarni,Withered_Heath	2214 1822	2243 2109	2450 1951;2510 1951
+region	Lothlorien	Lothlórien	696	1052	MAP WOR Lothlorien	Dimrill_Dale,Field_Celebrant,Gladden_Fields	653 1012	726 1002	
+region	Minhiriath	Minhiriath	-884	730	MAP WOR Minhiriath	Cardolan,Tower_Hills	-722 679	-837 845	-952 892;-1012 892
+region	Mirkwood	Mirkwood	1308	1384	MAP WOR Mirkwood	Dol_Guldur,East_Bight,Esgaroth,Halls_Thranduil,Old_Brown_Lands,Old_Ford_Anduin,Vales_Celduin	1357 1532	1385 1353	1442 1466;1442 1406;1442 1346
+region	Mount_Gundabad	Mount Gundabad	421	2367	MAP WOR Mount Gundabad	Grey_Mountains,Forodwaith	675 2342	405 2446	326 2440;593 2377
+region	Moria	Moria	325	1083	MAP WOR Moria	Caradhras,Dimrill_Dale,Eregion	408 1035	362 1046	362 1046
+region	North_Downs	North Downs	-497	1619	MAP WOR North Downs	Buckland,Evendim_Lake,Fornost,Old_Forest,Weathertop,Weather_Hills	-600 1629	-479 1564	-497 1619
+region	Northern_Mirkwood	Northern Mirkwood	1042	1958	MAP WOR Northern Mirkwood	Carrock,Erebor_Dale,Framsburg,Grey_Mountains,Halls_Thranduil,Withered_Heath	1360 1991	1090 2084	881 2037;941 2037
+region	Old_Brown_Lands	Old_Brown_Lands	1414	867	MAP WOR Old Brown Lands	Dol_Guldur,East_Bight,Field_Celebrant,Mirkwood	1327 908	1450 803	1181 901;1181 841;1181 781
+region	Old_Ford_Anduin	Old Ford of Anduin	863	1445	MAP WOR Old Ford Anduin	Carrock,Dol_Guldur,Gladden_Fields,Mirkwood	660 1531	875 1522	973 1415
+region	Old_Forest	Old_Forest	-573	1502	MAP WOR Old Forest	Barrow_Downs,Buckland,North_Downs,Weathertop	-628 1564	-620 1484	-573 1502
+region	Orocarni	Orocarni	2903	1793	MAP WOR Orocarni	Carnen,Dorwinion,Iron_Hills,Rhun	2648 1830	2837 1885	2808 2010
+region	Rhudaur	Rhudaur	187	1792	MAP WOR Rhudaur	Ettenmoors,Fords_Bruinen,Framsburg,High_Pass,Trollshaws,Weather_Hills	60 1686	215 1835	123 1745
+region	Rhun	Rhûn	2937	845	MAP WOR Rhun	Dorwinion,Orocarni,Vales_Celduin	2915 606	2950 891	2762 604
+region	Rivendell	Rivendell	256	1476	MAP WOR Rivendell	Eregion,Fords_Bruinen	215 1467	297 1450	
+region	Tower_Hills	Tower Hills	-1120	1396	MAP WOR Tower Hills	Barrow_Downs,Blue_Mountains,Cardolan,Evendim_Lake,Grey_Havens,Harlindon,Hobbiton,Minhiriath	-1063 1649	-1222 1443	-1135 1534;-1135 1474
+region	Trollshaws	Trollshaws	57	1546	MAP WOR Trollshaws	Eregion,Fords_Bruinen,Rhudaur,Weather_Hills,Weathertop	-12 1439	67 1572	40 1487
+region	Vales_Celduin	Vales_Celduin	1991	1187	MAP WOR Vales of Celduin	Carnen,Dorwinion,East_Bight,Eastern_Wastes,Esgaroth,Mirkwood,Rhun	2316 1036	2088 1341	2164 1210;2164 1150;2164 1090
+region	Weather_Hills	Weather Hills	-159	1653	MAP WOR Weather Hills	Fornost,Ettenmoors,Rhudaur,Trollshaws,Weathertop,North_Downs	-291 1612	-109 1584	-181 1620
+region	Weathertop	Weathertop	-282	1408	MAP WOR Weathertop	Barrow_Downs,Eregion,North_Downs,Old_Forest,Trollshaws,Weather_Hills	-314 1318	-314 1424	-369 1373;-309 1373
+region	Withered_Heath	Withered Heath	1817	2130	MAP WOR Withered Heath	Eastern_Wastes,Erebor_Dale,Grey_Mountains,Iron_Hills,Northern_Mirkwood	1528 2053	1692 2181	1793 2009
+campaign	PaperMapCampaign
+region	Annuminas	Annúminas	-1491	1224	map wor annuminas	Fornost,Grey_Havens,Hills_Evendim,North_Downs,The_Shire,Tower_Hills	-1600 1250	-1540 1250	-1405 1280;-1370 1230
+region	Fornost	Fornost	-1240	1250	MAP WOR Fornost	Annuminas,Buckland,North_Downs,Weather_Hills,The_Shire	-1240 1260	-1250 1260	-1290 1230
+region	Hills_Evendim	Hills of Evendim	-1430	1440	map wor hills of evendim	Annuminas,Ered_Luin_Highlands,Ettenmoors,Grey_Havens,Ice_Bay_Of_Forochel,tuli_Ma,North_Downs	-1420 1470	-1360 1470	-1545 1460;-1545 1400
+region	North_Downs	North Downs	-1120	1410	MAP WOR North Downs	Annuminas,Ettenmoors,Fornost,Hills_Evendim,Weather_Hills	-1200 1400	-1140 1400	-1100 1470
+region	Barrow_Downs	Barrow Downs	-1230	940	map wor barrow downs	Bree,Weathertop,Cardolan,Minhiriath,Sarn_Ford,Old_Forest	-1175 990	-1180 955	-1270 900;-1320 900
+region	Bree	Bree	-1200	1060	map wor bree	Buckland,Weather_Hills,Weathertop,Barrow_Downs,Old_Forest	-1255 1065	-1230 1060	-1171 1071
+region	Sarn_Ford	Sarn Ford	-1490	875	map wor sarn ford	The_Shire,Old_Forest,Barrow_Downs,Minhiriath,Harlindon,Tower_Hills	-1490 980	-1480 910	-1550 800;-1485 790
+region	Buckland	Buckland	-1260	1145	map wor buckland	Fornost,Weather_Hills,Bree,Old_Forest,The_Shire	-1230 1185	-1235 1150	-1290 1145
+region	The_Shire	The Shire	-1465	1090	map wor the shire	Annuminas,Fornost,Buckland,Old_Forest,Sarn_Ford,Tower_Hills	-1495 1045	-1475 1075	-1470 1120
+region	Old_Forest	The Old Forest	-1335	1030	map wor the old forest	The_Shire,Buckland,Bree,Barrow_Downs,Sarn_Ford	-1390 1060	-1350 1050	-1330 1010
+region	Weather_Hills	Weather Hills	-1020	1220	map wor weather hills	North_Downs,Ettenmoors,Rhudaur,Weathertop,Bree,Buckland,Fornost	-1000 1295	-975 1250	-1045 1205;-1105 1175
+region	Weathertop	Weathertop	-990	1010	map wor weathertop	Weather_Hills,Rhudaur,Trollshaws,Cardolan,Barrow_Downs,Bree	-1080 1060	-1000 1060	-1030 960;-970 960
+region	Dunfearn	Dunfearn	-990	570	map wor dunfearn	Cardolan,Dunland,Greyflood,Minhiriath,Ost_In_Edhil,Swanfleet,Tharbad	-1090 605	-1065 570	-950 560
+region	Dunland	Dunland	-960	412	map wor dunland	Dunfearn,Enedwaith,Frecalund,Gap_Of_Rohan,Greyflood,Regnfells	-1010 320	-980 370	-1020 450
+region	Wulfborg	Wulfborg	-1082	198	map wor wulfborg	Druwaith_Iaur,Enedwaith,Frecalund	-1110 240	-1090 170	
+region	Frecalund	Frecalund	-977	212	map wor frecalund	Dunland,Enedwaith,Regnfells,Wulfborg	-1050 280	-980 220	-985 170
+region	Regnfells	Regnfells	-888	205	map wor regnfells	Frecalund,Dunland,Gap_Of_Rohan	-910 270	-890 220	-890 180
+region	Enedwaith	Enedwaith	-1230	300	map wor enedwaith	Greyflood,Dunland,Frecalund,Wulfborg,Druwaith_Iaur	-1225 270	-1150 330	-1340 290;-1360 230
+region	Greyflood	Greyflood	-1230	440	map wor greyflood	Minhiriath,Dunfearn,Dunland,Enedwaith	-1200 395	-1170 440	-1270 440;-1340 420
+region	Druwaith_Iaur	Drúwaith Iaur	-1320	80	map wor druwaith iaur	Andrast,Enedwaith,Wulfborg	-1285 200	-1280 130	-1340 55;-1345 -25
+region	Ironfoot_Halls	Ironfoot's Halls	940	1310	map wor ironfoots halls	Iron_Hills,Iron_Foothills	910 1330	950 1350	
+region	Iron_Foothills	Iron Foothills	800	1130	map wor iron foothills	Ironfoot_Halls,Iron_Hills,Eastern_Wastes,Vales_Celduin,Carnen	700 1150	800 1160	760 1080;830 1130
+region	Iron_Hills	Iron Hills	785	1330	map wor iron hills	Eastern_Wastes,Targul,Ironfoot_Halls,Iron_Foothills	861 1391	780 1313	726 1292
+region	Targul	Targul	600	1360	map wor targul	Eastern_Wastes,Erebor,Withered_Heath,Iron_Hills	530 1320	590 1340	570 1400;630 1400
+region	Eastern_Wastes	Eastern Wastes	600	1145	map wor eastern wastes	Esgaroth,Erebor,Iron_Hills,Iron_Foothills,Vales_Celduin,Targul	510 1070	585 1125	580 1195
+region	Esgaroth	Esgaroth	400	1200	map wor esgaroth	Eastern_Wastes,Vales_Celduin,Erebor,Halls_Elvenking,Taur_En_Morvith	455 1230	385 1185	
+region	Erebor	Erebor	385	1360	MAP WOR Erebor	Eastern_Wastes,Esgaroth,Targul,Taur_Na_Faroth,Halls_Elvenking,Withered_Heath	472 1402	295 1322	
+region	Carnen	Carnen	975	985	map wor carnen	Rhun,Dorwinion,Iron_Foothills,Vales_Celduin	890 920	985 970	905 1040;1025 1050
+region	Vales_Celduin	Vales of Celduin	545	875	map wor vales of celduin	Eastern_Wastes,Iron_Foothills,Carnen,Dorwinion,East_Bight,Mirkwood,Taur_En_Morvith,Esgaroth	405 940	530 880	590 940;650 880
+region	Cardolan	Cardolan	-1100	795	map wor cardolan	Barrow_Downs,Weathertop,Trollshaws,The_Angle,Swanfleet,Tharbad,Dunfearn,Minhiriath	-1060 850	-1055 820	-1135 785;-1215 780
+region	Minhiriath	Minhiriath	-1435	570	map wor minhiriath	Harlindon,Sarn_Ford,Barrow_Downs,Cardolan,Dunfearn,Greyflood	-1485 680	-1380 635	-1480 565;-1555 520
+region	Swanfleet	Swanfleet	-870	730	map wor swanfleet	The_Angle,Eregion,Ost_In_Edhil,Dunfearn,Tharbad,Cardolan	-930 760	-870 745	-875 685
+region	Tharbad	Tharbad	-990	690	map wor tharbad	Cardolan,Swanfleet,Dunfearn	-1020 670	-995 690	-960 660
+region	Eregion	Eregion	-675	874	map wor eregion	Hollin,Ost_In_Edhil,The_Angle,Caradhras,Moria,Swanfleet	-630 930	-670 890	-710 840
+region	Hollin	Hollin	-621	984	map wor hollin	Caradhras,Rivendell,Fords_Bruinen,Trollshaws,The_Angle,Eregion	-660 1020	-640 990	-580 970
+region	Ost_In_Edhil	Ost-in-Edhil	-750	690	map wor ost in edhil	Eregion,Moria,Dunfearn,Swanfleet	-760 785	-740 730	-775 660
+region	The_Angle	The Angle	-800	910	map wor the angle	Trollshaws,Hollin,Eregion,Swanfleet,Cardolan	-810 935	-810 910	
+region	Rhudaur	Rhudaur	-810	1190	map wor rhudaur	Ettenmoors,Coldfells,Trollshaws,Weathertop,Weather_Hills	-925 1125	-855 1140	-810 1180;-770 1240
+region	Trollshaws	Trollshaws	-760	1070	map wor trollshaws	Coldfells,Fords_Bruinen,Hollin,The_Angle,Cardolan,Weathertop,Rhudaur	-870 1020	-825 1015	-730 1105;-675 1165
+region	Fords_Bruinen	Fords of Bruinen	-566	1109	map wor fords of bruinen	High_Pass,Rivendell,Hollin,Trollshaws,Coldfells	-630 1068	-576 1083	-566 1109
+region	Rivendell	Rivendell	-455	1099	map wor rivendell	Fords_Bruinen,Hollin	-464 1124	-498 1037	
+region	Ice_Bay_Of_Forochel	Ice Bay of Forochel	-1516	1632	map wor ice bay of forochel	Cape_Forlond,Ered_Luin_Highlands,Hills_Evendim,tuli_Ma,ettenmoors,Grey_Havens	-1420 1640	-1516 1632	-1516 1632
+region	Ita_Ma	Itä-mâ	-1083	1911	map wor ita ma	Forodwaith,Jotunstath,tuli_Ma,Northtarn	-909 2020	-1083 1911	-1045 1952
+region	tuli_Ma	Tûli-mâ	-1233	1638	map wor tuli ma	Carn_Dum,Ettenmoors,Hills_Evendim,Ice_Bay_Of_Forochel,Ita_Ma,Northtarn	-1090 1666	-1233 1638	-1294 1659
+region	Forodwaith	Forodwaith	-491	1792	map wor forodwaith	Ita_Ma,Jotunstath,Northtarn,Carn_Dum,Gundabad,Grey_Mountains	-660 1994	-491 1792	-400 1670
+region	Jotunstath	Honk's Valley	-829	1907	map wor jotunstath	Forodwaith,Ita_Ma,Northtarn	-804 1878	-829 1907	-785 1946
+region	Northtarn	Northtarn	-877	1743	map wor northtarn	Carn_Dum,Forodwaith,Ita_Ma,Jotunstath,tuli_Ma	-795 1811	-877 1743	-795 1763
+region	Abrakhan	Abrakhân	1260	-1140	map wor abrakhan	Desert_Of_Azkahar,Tombs_Of_Abrakhan	1025 -1130	1195 -1135	
+region	Desert_Of_Azkahar	Desert of Azkâhar	1030	-980	map wor desert of azkahar	Abrakhan,Borders_Of_Khand,Near_Harad,Itakh_Khand	955 -930	960 -990	1060 -970
+region	Tombs_Of_Abrakhan	Tombs of Abrakhân	1430	-1040	map wor tombs of abrakhan	Abrakhan	1365 -1015	1425 -1035	1470 -1030
+region	Karna	Kârna	480	-1600	map wor karna	Far_Harad,Nafarat	425 -1665	460 -1620	520 -1590
+region	Far_Harad	Far Harad	170	-1400	MAP WOR Far Harad	Karna,Dusalan,Nafarat_Delta,Hidar,Amathuna,Nafarat,Near_Harad	310 -1310	240 -1500	-50 -1400;-120 -1400
+region	Nafarat_Delta	Nâfarat Delta	-480	-1820	map wor nafarat delta	Cape_Of_Mardruak,Far_Harad,Hidar,Nafarat	-510 -1730	-480 -1780	-520 -1850
+region	Nafarat	Nâfarat	60	-1700	map wor nafarat	Karna,Far_Harad,Nafarat_Delta	-260 -1730	-125 -1735	100 -1700
+region	Ethir_Anduin	Ethir Anduin	-167	-441	map wor ethir anduin	Harondor,Southern_Ithilien,Pelargir	-140 -380	-170 -440	-220 -450
+region	Harad_Road	Harad Road	222	-701	map wor harad road	Desert_Of_Lostladen,Harondor,Near_Harad,Southern_Ithilien	125 -615	215 -660	160 -745;240 -750
+region	Harondor	Harondor	-60	-640	MAP WOR Harondor	Ethir_Anduin,Harad_Road,Near_Harad,Southern_Ithilien,Umbar	50 -520	-143 -740	-60 -640;-100 -640
+region	Borders_Of_Khand	Borders of Khand	1100	-800	map wor borders of khand	Desert_Of_Azkahar,Desert_Of_Lostladen,Khand,Near_Harad,Itakh_Khand	870 -830	1000 -805	1160 -770;1250 -775
+region	Khand	Khand	1430	-550	MAP WOR Khand	Borders_Of_Khand,Desert_Of_Lostladen,Itakh_Khand	1210 -625	1400 -600	1600 -600;1700 -615
+region	Itakh_Khand	Itakh-Khand	1630	-810	map wor itakh khand	Borders_Of_Khand,Desert_Of_Azkahar,Khand	1600 -745	1570 -810	1700 -800
+region	Cape_Of_Mardruak	Cape of Mardrûak	-800	-1600	map wor cape of mardruak	Dusalan,Harad_Coast,Nafarat_Delta	-900 -1500	-800 -1580	-870 -1660;-770 -1670
+region	Dusalan	Dûsalan	-500	-1470	map wor dusalan	Cape_Of_Mardruak,Far_Harad,Harad_Coast,Hidar,Amathuna	-580 -1460	-515 -1460	-490 -1515
+region	Hidar	Hîdar	-450	-1630	map wor hidar	Dusalan,Far_Harad,Nafarat_Delta	-460 -1600	-460 -1630	
+region	Harad_Coast	Harad Coast	-734	-1389	map wor harad coast	Cape_Of_Mardruak,Dusalan,White_Pillar	-700 -1420	-730 -1400	-800 -1370
+region	Desert_Of_Lostladen	Desert of Lostladen	700	-720	map wor desert of lostladen	Borders_Of_Khand,Harad_Road,Khand,Near_Harad	465 -680	600 -745	730 -715;800 -700
+region	Near_Harad	Near Harad	310	-1010	MAP WOR Near Harad	Borders_Of_Khand,Desert_Of_Lostladen,Desert_Of_Azkahar,Far_Harad,Harad_Road,Harondor,Amathuna,Umbar	100 -910	195 -1000	300 -1000;400 -1000
+region	Amathuna	Amathûna	-290	-1320	map wor amathuna	Dusalan,Far_Harad,Near_Harad	-270 -1250	-270 -1290	-350 -1350
+region	Umbar	Umbar	-276	-997	MAP WOR Umbar	Harondor,Maros,Near_Harad,White_Pillar,Tolfalas,Pelargir,Dol_Amroth	-135 -930	-305 -1000	
+region	Maros	Mâros	-580	-1010	map wor maros	Umbar,Tolfalas,Dol_Amroth	-475 -960	-555 -1010	-600 -1020
+region	White_Pillar	White Pillar	-600	-1228	map wor white pillar	Harad_Coast,Umbar	-730 -1260	-625 -1225	-430 -1200
+region	Cape_Forlond	Cape of Forlond	-1925	1680	map wor cape of forlond	Ice_Bay_Of_Forochel,Ered_Luin_Highlands,Forlindon	-1750 1780	-1815 1735	-1945 1680;-2005 1650
+region	Ered_Luin_Highlands	Ered Luin Highlands	-1785	1480	map wor ered luin highlands	Cape_Forlond,Ice_Bay_Of_Forochel,Hills_Evendim,Grey_Havens,Ered_Luin	-1840 1575	-1800 1530	-1830 1425;-1730 1430
+region	Forlindon	Forlindon	-2200	1260	map wor forlindon	Cape_Forlond,Ered_Luin,Grey_Havens	-2230 1125	-2190 1220	-2300 1305;-2190 1335
+region	Ered_Luin	Ered Luin	-1990	1370	map wor ered luin	Forlindon,Ered_Luin_Highlands	-1960 1440	-2010 1360	
+region	Grey_Havens	Grey Havens	-1870	1135	map wor grey havens	Ered_Luin_Highlands,Hills_Evendim,Annuminas,Tower_Hills,Forlindon,Ice_Bay_Of_Forochel,Dol_Amroth	-1800 1300	-1825 1190	-1910 1090;-1980 1060
+region	Thorins_Halls	Thorin's Halls	-1895	755	map wor thorins halls	Harlindon,Tower_Hills	-1945 795	-1890 740	
+region	Harlindon	Harlindon	-1935	650	map wor harlindon	Tower_Hills,Thorins_Halls,Sarn_Ford,Minhiriath	-1760 825	-1730 730	-2095 795
+region	Tower_Hills	Tower Hills	-1700	990	map wor tower hills	Grey_Havens,Annuminas,The_Shire,Sarn_Ford,Harlindon,Thorins_Halls	-1805 905	-1710 955	-1760 1055;-1665 1050
+region	Angmar	Angmar	-670	1530	map wor angmar	Gundabad,Mount_Gram,Ettenmoors,Carn_Dum	-735 1560	-730 1530	-650 1520;-600 1500
+region	Ettenmoors	Ettenmoors	-940	1485	map wor ettenmoors	tuli_Ma,Carn_Dum,Angmar,Mount_Gram,Coldfells,Rhudaur,Weather_Hills,North_Downs,Hills_Evendim	-955 1580	-990 1550	-935 1460;-905 1380
+region	Mount_Gram	Mount Gram	-722	1424	map wor mount gram	Angmar,Coldfells,Ettenmoors	-634 1434	-797 1438	-722 1424
+region	Coldfells	Coldfells	-635	1300	map wor coldfells	Mount_Gram,Goblin_Town,High_Pass,Fords_Bruinen,Trollshaws,Rhudaur,Ettenmoors	-760 1330	-675 1310	-630 1270;-565 1265
+region	Carn_Dum	Carn Dûm	-860	1620	map wor carn dum	Northtarn,Forodwaith,Gundabad,Angmar,Ettenmoors,tuli_Ma	-860 1590	-820 1620	-880 1640;-940 1640
+region	Gundabad	Mount Gundabad	-540	1575	map wor mount gundabad	Carn_Dum,Angmar,Grey_Mountains,Forodwaith	-680 1617	-562 1590	
+region	Grey_Mountains	Grey Mountains	-205	1510	map wor grey mountains	Forodwaith,Withered_Heath,Taur_Na_Faroth,Northern_Mirkwood,Framsburg,Gundabad	-249 1504	-325 1484	-117 1522;-60 1538
+region	Withered_Heath	Withered Heath	365	1515	map wor withered heath	Grey_Mountains,Taur_Na_Faroth,Erebor,Targul	150 1530	265 1505	390 1520;470 1520
+region	High_Pass	High Pass	-395	1215	MAP WOR High Pass	Carrock,Old_Ford_Anduin,Coldfells,Fords_Bruinen,Goblin_Town	-465 1213	-336 1200	-358 1208
+region	Goblin_Town	Goblin Town	-462	1286	map wor goblin town	Coldfells,High_Pass	-410 1280	-462 1286	-500 1300
+region	Caradhras	Caradhras	-509	827	map wor caradhras	Dimrill_Dale,Eregion,Hollin,Lothlorien,Moria,Taur_Hith	-449 810	-509 827	-555 873
+region	Dimrill_Dale	Dimrill Dale	-532	716	map wor dimrill dale	Caradhras,Lothlorien,Moria,Nan_Celebrant	-553 747	-532 716	-539 696
+region	Moria	Moria	-611	750	map wor moria	Caradhras,Dimrill_Dale,Eregion,Ost_In_Edhil	-599 711	-611 750	-600 787
+region	East_Emnet	East Emnet	-250	350	MAP WOR East Emnet	Amon_Hen,The_Wold,Snowbourn,Eastern_Rohan	-200 370	-210 350	-320 350
+region	Eastern_Rohan	Eastern Rohan	-290	250	MAP WOR Eastern Rohan	Amon_Hen,Eastfold,Mouths_Entwash,East_Emnet,The_Folde,West_Emnet,Snowbourn	-250 210	-240 240	-320 250;-380 250
+region	Eastfold	Eastfold	-300	170	MAP WOR Eastfold	Halifirien,Eastern_Rohan,Mouths_Entwash,The_Folde	-325 178	-266 160	-380 160
+region	Eaves_Fangorn	Eaves of Fangorn	-620	400	map wor eaves of fangorn	Isengard,Westfold,Fords_Isen,Snowbourn,Fangorn	-610 380	-605 395	-650 395
+region	Fords_Isen	Fords of Isen	-735	335	MAP WOR Fords of Isen	Isengard,Eaves_Fangorn,Westfold,Gap_Of_Rohan,Helms_Deep	-750 365	-730 350	-755 315
+region	Isengard	Isengard	-730	420	MAP WOR Isengard	Eaves_Fangorn,Fords_Isen	-755 410	-740 430	
+region	Gap_Of_Rohan	Gap of Rohan	-850	330	MAP WOR Gap of Rohan	Fords_Isen,Dunland,Regnfells,Helms_Deep	-850 370	-850 340	-880 320
+region	Dunharrow	Dunharrow	-710	195	MAP WOR Dunharrow	Helms_Deep,Westfold,Harrowdale,Erech	-740 190	-710 200	-720 170
+region	Edoras	Edoras	-550	225	MAP WOR Edoras	The_Folde,West_Emnet,Harrowdale	-580 240	-550 220	
+region	Harrowdale	Harrowdale	-630	235	map wor harrowdale	Edoras,Dunharrow,Westfold,West_Emnet	-660 240	-630 240	-640 225
+region	The_Folde	The Folde	-460	205	map wor the folde	Eastfold,Eastern_Rohan,Edoras,West_Emnet	-510 180	-480 200	-430 195
+region	Helms_Deep	Helm's Deep	-760	245	MAP WOR Helms Deep	Dunharrow,Westfold,Fords_Isen,Gap_Of_Rohan	-774 251	-762 239	
+region	Snowbourn	Snowbourn	-475	340	map wor snowbourn	Fangorn,The_Wold,East_Emnet,Eastern_Rohan,West_Emnet,Westfold,Eaves_Fangorn	-470 325	-450 340	-530 345
+region	West_Emnet	West Emnet	-535	285	MAP WOR West Emnet	Snowbourn,Eastern_Rohan,The_Folde,Edoras,Harrowdale,Westfold	-555 310	-565 290	-530 280;-490 280
+region	Westfold	Westfold	-670	305	MAP WOR Westfold	Eaves_Fangorn,Snowbourn,West_Emnet,Harrowdale,Dunharrow,Helms_Deep,Fords_Isen	-670 340	-650 325	-700 255
+region	Mouths_Entwash	Mouths_Entwash	-20	170	map wor mouths of entwash	Amon_Hen,Dead_Marshes,Emyn_Muil,Anorien,Halifirien,Eastern_Rohan,Druadan_Forest,Northern_Ithilien,Cair_Andros	-70 200	-40 180	30 140
+region	Halifirien	Halifirien	-180	130	MAP WOR Halifirien	Mouths_Entwash,Anorien,Eastfold	-180 150	-170 130	-190 100
+region	Anorien	Anórien	-80	90	MAP WOR Anorien	Mouths_Entwash,Halifirien,Druadan_Forest	-120 110	-80 100	-75 60
+region	Druadan_Forest	Drúadan Forest	-15	40	MAP WOR Druadan Forest	Minas_Tirith,Mouths_Entwash,Anorien,Cair_Andros	-30 5	-25 20	0 55
+region	Cair_Andros	Cair Andros	60	40	MAP WOR Cair Andros	Druadan_Forest,Minas_Tirith,Mouths_Entwash,Northern_Ithilien,Osgiliath	60 90	60 35	50 10
+region	Northern_Ithilien	Northern_Ithilien	130	70	map wor north ithilien	Dead_Marshes,Mouths_Entwash,Cair_Andros,Osgiliath,Crossroads	100 140	130 90	130 40
+region	Minas_Tirith	Minas Tirith	-10	-50	MAP WOR Minas Tirith	Druadan_Forest,Osgiliath,Cair_Andros,Harlond,Lossarnach	0 -10	-40 -50	
+region	Osgiliath	Osgiliath	75	-35	MAP WOR Osgiliath	Cair_Andros,Northern_Ithilien,Minas_Tirith,Crossroads,Emyn_Arnen	70 -20	80 -40	75 -60
+region	Crossroads	Crossroads	140	-50	map wor crossroads	Northern_Ithilien,Osgiliath,Emyn_Arnen	120 -50	155 -50	140 -50
+region	Emyn_Arnen	Emyn Arnen	125	-120	MAP WOR Emyn Arnen	Crossroads,Osgiliath,Central_Ithilien,Minas_Morgul	90 -90	100 -120	170 -120
+region	Central_Ithilien	Central Ithilien	120	-210	MAP WOR Central Ithilien	Emyn_Arnen,Southern_Ithilien	80 -190	120 -200	90 -250
+region	Southern_Ithilien	Southern Ithilien	40	-350	map wor southern ithilien	Central_Ithilien,Pelargir,Ethir_Anduin,Harondor,Harad_Road	-45 -400	10 -350	125 -310;125 -400
+region	Harlond	Harlond	20	-150	MAP WOR Harlond	Minas_Tirith,Lossarnach	-5 -105	20 -160	15 -150
+region	Lossarnach	Lossarnach	-30	-200	map wor lossarnach	Minas_Tirith,Harlond,Pelargir	-45 -260	20 -220	-45 -125
+region	Lebennin	Lebennin	-225	-235	MAP WOR Lebennin	Pelargir,Ringlo_Vale,Belfalas	-340 -340	-250 -285	-195 -140
+region	Pelargir	Pelargir	-120	-280	MAP WOR Pelargir	Lossarnach,Southern_Ithilien,Ethir_Anduin,Lebennin,Tolfalas,Umbar,Dol_Amroth	-175 -335	-125 -285	
+region	Ringlo_Vale	Ringló Vale	-325	-120	map wor ringlo vale	Lebennin,Lamedon,Belfalas	-390 -110	-325 -100	-320 -155
+region	Belfalas	Belfalas	-440	-285	MAP WOR Belfalas	Lebennin,Ringlo_Vale,Lamedon,Anfalas,Dol_Amroth	-555 -215	-380 -260	-510 -405
+region	Lamedon	Lamedon	-545	-65	MAP WOR Lamedon	Belfalas,Ringlo_Vale,Erech,Anfalas	-570 -140	-520 -70	-595 -35
+region	Dol_Amroth	Dol Amroth	-570	-300	MAP WOR Dol Amroth	Belfalas,Tolfalas,Grey_Havens,Umbar,Pelargir,Maros	-595 -275	-580 -310	
+region	Erech	Erech	-670	80	MAP WOR Erech	Dunharrow,Lamedon,Anfalas	-715 35	-685 60	-670 130
+region	Anfalas	Anfalas	-935	-160	MAP WOR Anfalas	Erech,Lamedon,Belfalas,Andrast	-745 -225	-830 -145	-1110 -110;-1110 -230
+region	Andrast	Andrast	-1340	-330	MAP WOR Andrast	Anfalas,Druwaith_Iaur	-1360 -420	-1340 -360	-1445 -400
+region	Tolfalas	Tolfalas	-410	-545	MAP WOR Tolfalas	Umbar,Pelargir,Dol_Amroth,Maros	-425 -575	-410 -565	-405 -540
+region	Black_Gate	Black Gate	307	158	MAP WOR Black Gate	Dagorlad,Dead_Marshes,Durthang,Gorgoroth	250 170	310 170	
+region	Dagorlad	Dagorlad	520	220	MAP WOR Dagorlad	Black_Gate,Dead_Marshes,Emyn_Muil,South_Rhun	380 250	440 250	560 210;620 210
+region	Dead_Marshes	Dead Marshes	180	235	MAP WOR Dead Marshes	Black_Gate,Dagorlad,Emyn_Muil,Mouths_Entwash,Northern_Ithilien	100 230	160 230	185 265;245 265
+region	Cirith_Ungol	Cirith Ungol	300	-25	MAP WOR Cirith Ungol	Durthang,Gorgoroth,Minas_Morgul	255 15	310 -70	300 -90
+region	Durthang	Durthang	260	80	map wor durthang	Black_Gate,Cirith_Ungol,Gorgoroth	240 110	260 80	
+region	Minas_Morgul	Minas Morgul	250	-55	MAP WOR Minas Morgul	Cirith_Ungol,Emyn_Arnen	238 -24	250 -71	
+region	Ered_Lithui	Ered Lithui	680	-20	map wor ered lithui	Gorgoroth,Mount_Doom,Nurn,Sea_Of_Nurnen	600 0	600 -60	740 0;800 0
+region	Gorgoroth	Plains of Gorgoroth	420	-65	map wor plains of gorgoroth	Black_Gate,Cirith_Ungol,Durthang,Ered_Lithui,Mount_Doom,Sea_Of_Nurnen,Slavefields_Of_Nurn	375 -100	435 -100	375 -40;435 -40;495 -40
+region	Mount_Doom	Mount Doom	470	55	map wor mount doom	Ered_Lithui,Gorgoroth	490 60	472 46	430 70
+region	Nurn	Núrn	1000	-40	MAP WOR Nurn	Ered_Lithui,Sea_Of_Nurnen	900 -70	960 -70	1000 0
+region	Sea_Of_Nurnen	Sea of Núrnen	810	-275	map wor sea of nurnen	Ered_Lithui,Gorgoroth,Slavefields_Of_Nurn,Nurn	705 -255	765 -255	780 -180
+region	Slavefields_Of_Nurn	Slavefields of Núrn	480	-345	map wor slavefields of nurn	Gorgoroth,Sea_Of_Nurnen	425 -375	485 -375	460 -275
+region	Vale_Anduin	Vale of Anduin	-195	940	map wor vale of anduin	Old_Ford_Anduin,Taur_En_Ungolath,Gladden_Fields,Taur_Hith	-195 990	-185 955	-240 915
+region	Carrock	Carrock	-190	1205	map wor the carrock	Framsburg,Northern_Mirkwood,Hall_Oak,Forest_Gate,Old_Ford_Anduin,High_Pass	-210 1130	-190 1170	-240 1270;-170 1270
+region	Framsburg	Framsburg	-240	1380	MAP WOR Framsburg	Grey_Mountains,Northern_Mirkwood,Carrock	-280 1330	-240 1370	
+region	Gladden_Fields	Gladden Fields	-205	790	MAP WOR Gladden Fields	Vale_Anduin,Taur_En_Ungolath,Dol_Guldur,Field_Celebrant,Taur_Hith	-210 850	-200 800	-215 745
+region	Old_Ford_Anduin	Old Ford of Anduin	-155	1060	map wor old ford of anduin	High_Pass,Carrock,Forest_Gate,Mirkwood,Taur_En_Ungolath,Vale_Anduin	-200 1030	-135 1050	-185 1070
+region	Amon_Hen	Amon Hen	-85	330	MAP WOR Amon Hen	Old_Brown_Lands,Emyn_Muil,Mouths_Entwash,Eastern_Rohan,East_Emnet,The_Wold	-120 385	-85 360	-85 285
+region	East_Bight	East Bight	380	675	MAP WOR East Bight	Vales_Celduin,Dorwinion,South_Rhun,Old_Brown_Lands,Mirkwood	260 690	360 650	370 795;430 710
+region	Emyn_Muil	Emyn Muil	190	350	MAP WOR Emyn Muil	Old_Brown_Lands,South_Rhun,Dagorlad,Dead_Marshes,Mouths_Entwash,Amon_Hen	85 395	95 340	215 355;305 355
+region	Fangorn	Fangorn	-540	470	MAP WOR Fangorn	Nan_Celebrant,The_Wold,Snowbourn,Eaves_Fangorn	-550 425	-520 450	-570 500
+region	Old_Brown_Lands	Old Brown Lands	75	530	map wor old brown lands	Dol_Guldur,Mirkwood,East_Bight,South_Rhun,Emyn_Muil,Amon_Hen,The_Wold,Field_Celebrant	105 625	140 545	40 525;-50 545
+region	The_Wold	The_Wold	-290	455	map wor the wold	Field_Celebrant,Old_Brown_Lands,Amon_Hen,East_Emnet,Snowbourn,Fangorn,Nan_Celebrant	-330 410	-260 440	-400 490;-340 520
+region	Dol_Guldur	Dol Guldur	-32	763	MAP WOR Dol Guldur	Taur_En_Ungolath,Mirkwood,Old_Brown_Lands,Field_Celebrant,Gladden_Fields	43 695	-32 763	
+region	Taur_En_Ungolath	Taur-en-Ungolath	-10	920	map wor taur en ungolath	Mirkwood,Dol_Guldur,Gladden_Fields,Vale_Anduin,Old_Ford_Anduin	50 900	0 900	-45 970
+region	Field_Celebrant	Field of Celebrant	-280	635	MAP WOR Field of Celebrant	Gladden_Fields,Dol_Guldur,Old_Brown_Lands,The_Wold,Nan_Celebrant,Lothlorien,Taur_Hith	-300 690	-260 650	-310 610
+region	Lothlorien	Lothlórien	-405	710	MAP WOR Lothlorien	Caradhras,Dimrill_Dale,Field_Celebrant,Nan_Celebrant,Taur_Hith	-380 670	-420 710	
+region	Nan_Celebrant	Nan Celebrant	-465	600	map wor nan celebrant	Lothlorien,Field_Celebrant,The_Wold,Fangorn,Dimrill_Dale	-515 645	-470 605	-475 575
+region	Taur_Hith	Taur Hithlin	-320	790	map wor taur hithlin	Vale_Anduin,Gladden_Fields,Field_Celebrant,Lothlorien,Caradhras	-300 850	-310 790	-340 810
+region	Forest_Gate	Forest Gate	-15	1160	map wor the forest gate	Hall_Oak,Halls_Elvenking,Mirkwood,Old_Ford_Anduin,Carrock	-70 1180	-15 1170	-30 1140
+region	Halls_Elvenking	Halls of the Elvenking	160	1230	map wor halls of the elvenking	Taur_Na_Faroth,Erebor,Esgaroth,Taur_En_Morvith,Mirkwood,Forest_Gate,Hall_Oak,Northern_Mirkwood	95 1190	170 1220	
+region	Hall_Oak	Hall of Oak	-70	1255	map wor hall of oak	Northern_Mirkwood,Halls_Elvenking,Forest_Gate,Carrock	-110 1225	-65 1245	-80 1280
+region	Mirkwood	Mirkwood	149	994	MAP WOR Mirkwood	Dol_Guldur,Taur_En_Ungolath,East_Bight,Halls_Elvenking,Old_Brown_Lands,Old_Ford_Anduin,Vales_Celduin,Forest_Gate,Taur_En_Morvith	110 855	160 840	50 1050;160 1050
+region	Northern_Mirkwood	Northern Mirkwood	-55	1380	MAP WOR Northern Mirkwood	Taur_Na_Faroth,Halls_Elvenking,Hall_Oak,Carrock,Framsburg,Grey_Mountains	-120 1340	-35 1350	-50 1420
+region	Taur_En_Morvith	Taur-en-Morvith	300	1050	map wor taur en morvith	Esgaroth,Vales_Celduin,Mirkwood,Halls_Elvenking	260 1095	305 1070	305 1010
+region	Taur_Na_Faroth	Taur-na-Faroth	110	1425	map wor taur na faroth	Grey_Mountains,Withered_Heath,Erebor,Halls_Elvenking,Northern_Mirkwood	135 1390	105 1405	110 1470
+region	Dorwinion	Dorwinion	841	773	MAP WOR Dorwinion	Carnen,Rhun,South_Rhun,Vales_Celduin,East_Bight	770 815	840 770	930 755
+region	Kunin	Kûnin	1730	730	map wor kunin	Steppes_Sarakhax,Rhun,Ul_Tala	1630 680	1715 705	1740 775
+region	Rhun	Rhûn	1438	894	MAP WOR Rhun	Steppes_Sarakhax,Kunin,Ul_Tala,Carnen,Dorwinion	1305 995	1310 910	1365 740;1485 760
+region	Steppes_Sarakhax	Steppes of Sarâkhax	1535	575	map wor steppes of sarakhax	Kunin,Rhun,Surubeki	1340 595	1520 560	1600 550;1660 550
+region	Ul_Tala	Ul-tâla	1900	920	map wor ul tala	Kunin,Rhun	1870 950	1870 905	1980 915;2045 930
+region	Surubeki	Sûrûbeki	1410	422	map wor surubeki	Steppes_Sarakhax,South_Rhun	1240 435	1370 400	1495 410
+region	South_Rhun	South Rhûn	802	446	map wor south rhun	Dorwinion,Surubeki,East_Bight,Old_Brown_Lands,Emyn_Muil,Dagorlad	520 385	770 400	945 345;1020 345
+campaign	BFME2GoodCampaign
+region	Fords_Bruinen	Fords of Bruinen	-566	1109	MAP WOR Fords of Bruinen	Rivendell	-566 1109	-566 1109	
+region	Rivendell	Mission I: Rivendell	-455	1099	MAP SP GOOD RIVENDELL	High_Pass	-455 1099	-455 1099	
+region	High_Pass	Mission II: High Pass	-358	1208	MAP SP GOOD HIGH PASS	Mount_Gram	-358 1208	-358 1208	
+region	Mount_Gram	Mission III: Ettenmoors	-722	1424	MAP SP GOOD ETTENMOORS	Ered_Luin	-722 1424	-722 1424	
+region	Ered_Luin	Mission IV: Blue Mountains	-1984	1364	MAP SP GOOD BLUE MOUNTAINS	Grey_Havens	-1984 1364	-1984 1364	
+region	Grey_Havens	Mission V: Grey Havens	-1882	1117	MAP SP GOOD GREY HAVENS	Esgaroth	-1964 1073	-1964 1073	
+region	Esgaroth	Mission VI: Celduin	400	1200	MAP SP GOOD CELDUIN	Erebor	400 1200	400 1200	
+region	Erebor	Mission VII: Erebor	385	1360	MAP SP GOOD EREBOR	Dol_Guldur	472 1402	295 1322	
+region	Dol_Guldur	Mission VIII: Dol Guldur	-32	763	MAP SP GOOD DOL GULDUR		43 695	-32 763	
+campaign	BFME2EvilCampaign
+region	Dol_Guldur	Dol Guldur	-32	763	MAP WOR Dol Guldur	Lothlorien	-32 763	-32 763	
+region	Lothlorien	Mission I: Lothlórien	-405	710	MAP SP EVIL LORIEN	Grey_Havens	-405 710	-405 710	
+region	Grey_Havens	Mission II: Grey Havens	-1882	1117	MAP SP EVIL GREY HAVENS	The_Shire	-1964 1073	-1964 1073	
+region	The_Shire	Mission III: The Shire	-1466	1094	MAP SP EVIL SHIRE	Fornost	-1466 1094	-1466 1094	
+region	Fornost	Mission IV: Fornost	-1238	1249	MAP SP EVIL FORNOST	Mirkwood	-1238 1249	-1238 1249	
+region	Mirkwood	Mission V: Mirkwood	149	994	MAP SP EVIL Mirkwood	Withered_Heath	149 994	149 994	
+region	Withered_Heath	Mission VI: Withered Heath	357	1519	MAP SP EVIL WITHERED HEATH	Erebor	357 1519	357 1519	
+region	Erebor	Mission VII: Erebor	385	1360	MAP SP EVIL EREBOR	Rivendell	385 1360	385 1360	
+region	Rivendell	Mission VIII: Rivendell	-455	1099	MAP SP EVIL RIVENDELL		-455 1099	-455 1099	
+campaign	AngmarCampaign
+region	Coldfells	Coldfells	-635	1300	map wor coldfells	Angmar	-760 1330	-675 1310	
+region	Angmar	Mission I: Angmar	-670	1530	map ang angmar	Gundabad	-735 1560	-730 1530	
+region	Gundabad	Mission II: Gundabad	-540	1575	map ang gundabad	Rhudaur	-680 1617	-562 1590	
+region	Rhudaur	Mission III: Rhudaur	-810	1190	map ang rhudaur	Weathertop	-925 1125	-855 1140	
+region	Weathertop	Mission IV: Amon Sûl	-990	1010	map ang amon sul	North_Downs	-1080 1060	-1000 1060	
+region	North_Downs	Mission V: North Downs	-1120	1410	map ang dark eye	Cardolan	-1200 1400	-1140 1400	
+region	Cardolan	Mission VI: Cardolan	-1100	795	map ang barrow downs	Carn_Dum	-1060 850	-1055 820	
+region	Carn_Dum	Mission VII: Carn Dûm	-860	1620	map ang carn dum	Barrow_Downs	-860 1590	-820 1620	
+region	Barrow_Downs	Mission VIII: Barrow-downs	-1230	940	map ang barrow wights	Fornost	-1175 990	-1180 955	
+region	Fornost	Mission IX: Fornost	-1240	1250	map ang fornost	Mount_Gram	-1240 1260	-1250 1260	
+region	Mount_Gram	Mission X: Epilogue	-722	1424	map ang bonus		-634 1434	-797 1438	
+campaign	AOTRAdventureDorwinion
+region	Dorwinion	Dorwinion	841	773	MAP WOR Dorwinion	Rhun,South_Rhun	841 773	841 773	841 773
+region	Rhun	Rhûn	1438	894	MAP WOR Rhun	Aegean_Steppe,Dorwinion,Kinn_Lai_Forest,Orocarni	1438 894	1438 894	1438 894
+campaign	WOTRAOTRWarNorthScenario
+region	Ironfoot_Halls	Ironfoot's Halls	940	1310	map wor ironfoots halls	Iron_Hills,Iron_Foothills	910 1330	950 1350	
+region	Iron_Foothills	Iron Foothills	800	1130	map wor iron foothills	Ironfoot_Halls,Iron_Hills,Eastern_Wastes,Vales_Celduin,Carnen	700 1150	800 1160	760 1080;830 1130
+region	Iron_Hills	Iron Hills	785	1330	map wor iron hills	Eastern_Wastes,Targul,Ironfoot_Halls,Iron_Foothills	861 1391	780 1313	726 1292
+region	Targul	Targul	600	1360	map wor targul	Eastern_Wastes,Erebor,Withered_Heath,Iron_Hills	530 1320	590 1340	570 1400;630 1400
+region	Eastern_Wastes	Eastern Wastes	600	1145	map wor eastern wastes	Esgaroth,Erebor,Iron_Hills,Iron_Foothills,Vales_Celduin,Targul	510 1070	585 1125	580 1195
+region	Esgaroth	Esgaroth	400	1200	map wor esgaroth	Eastern_Wastes,Vales_Celduin,Erebor,Halls_Elvenking,Taur_En_Morvith	455 1230	385 1185	
+region	Erebor	Erebor	385	1360	MAP WOR Erebor	Eastern_Wastes,Esgaroth,Targul,Taur_Na_Faroth,Halls_Elvenking,Withered_Heath	472 1402	295 1322	
+region	Carnen	Carnen	975	985	map wor carnen	Rhun,Dorwinion,Iron_Foothills,Vales_Celduin	890 920	985 970	905 1040;1025 1050
+region	Vales_Celduin	Vales of Celduin	545	875	map wor vales of celduin	Eastern_Wastes,Iron_Foothills,Carnen,Dorwinion,East_Bight,Mirkwood,Taur_En_Morvith,Esgaroth	405 940	530 880	590 940;650 880
+region	Eregion	Eregion	-675	874	map wor eregion	Hollin,Ost_In_Edhil,The_Angle,Caradhras,Moria	-630 930	-670 890	-710 840
+region	Hollin	Hollin	-621	984	map wor hollin	Caradhras,Rivendell,Fords_Bruinen,Trollshaws,The_Angle,Eregion	-660 1020	-640 990	-580 970
+region	Ost_In_Edhil	Ost-in-Edhil	-750	690	map wor ost in edhil	Eregion,Moria	-760 785	-740 730	-775 660
+region	The_Angle	The Angle	-800	910	map wor the angle	Trollshaws,Hollin,Eregion	-810 935	-810 910	
+region	Rhudaur	Rhudaur	-810	1190	map wor rhudaur	Ettenmoors,Coldfells,Trollshaws	-925 1125	-855 1140	-810 1180;-770 1240
+region	Trollshaws	Trollshaws	-760	1070	map wor trollshaws	Coldfells,Fords_Bruinen,Hollin,The_Angle,Rhudaur	-870 1020	-825 1015	-730 1105;-675 1165
+region	Fords_Bruinen	Fords of Bruinen	-566	1109	map wor fords of bruinen	High_Pass,Rivendell,Hollin,Trollshaws,Coldfells	-630 1068	-576 1083	-566 1109
+region	Rivendell	Rivendell	-455	1099	map wor rivendell	Fords_Bruinen,Hollin	-464 1124	-498 1037	
+region	Angmar	Angmar	-670	1530	map wor angmar	Gundabad,Mount_Gram,Ettenmoors,Carn_Dum	-735 1560	-730 1530	-650 1520;-600 1500
+region	Ettenmoors	Ettenmoors	-940	1485	map wor ettenmoors	Carn_Dum,Angmar,Mount_Gram,Coldfells,Rhudaur	-955 1580	-990 1550	-935 1460;-905 1380
+region	Mount_Gram	Mount Gram	-722	1424	map wor mount gram	Angmar,Coldfells,Ettenmoors	-634 1434	-797 1438	-722 1424
+region	Coldfells	Coldfells	-635	1300	map wor coldfells	Mount_Gram,Goblin_Town,High_Pass,Fords_Bruinen,Trollshaws,Rhudaur,Ettenmoors	-760 1330	-675 1310	-630 1270;-565 1265
+region	Carn_Dum	Carn Dûm	-860	1620	map wor carn dum	Gundabad,Angmar,Ettenmoors	-860 1590	-820 1620	-880 1640;-940 1640
+region	Gundabad	Mount Gundabad	-540	1575	map wor mount gundabad	Carn_Dum,Angmar,Grey_Mountains	-680 1617	-562 1590	
+region	Grey_Mountains	Grey Mountains	-205	1510	map wor grey mountains	Withered_Heath,Taur_Na_Faroth,Northern_Mirkwood,Framsburg,Gundabad	-249 1504	-325 1484	-117 1522;-60 1538
+region	Withered_Heath	Withered Heath	365	1515	map wor withered heath	Grey_Mountains,Taur_Na_Faroth,Erebor,Targul	150 1530	265 1505	390 1520;470 1520
+region	High_Pass	High Pass	-395	1215	MAP WOR High Pass	Carrock,Old_Ford_Anduin,Coldfells,Fords_Bruinen,Goblin_Town	-465 1213	-336 1200	-358 1208
+region	Goblin_Town	Goblin Town	-462	1286	map wor goblin town	Coldfells,High_Pass	-410 1280	-462 1286	-500 1300
+region	Caradhras	Caradhras	-509	827	map wor caradhras	Dimrill_Dale,Eregion,Hollin,Lothlorien,Moria,Taur_Hith	-449 810	-509 827	-555 873
+region	Dimrill_Dale	Dimrill Dale	-532	716	map wor dimrill dale	Caradhras,Lothlorien,Moria,Nan_Celebrant	-553 747	-532 716	-539 696
+region	Moria	Moria	-611	750	map wor moria	Caradhras,Dimrill_Dale,Eregion,Ost_In_Edhil	-599 711	-611 750	-600 787
+region	Vale_Anduin	Vale of Anduin	-195	940	map wor vale of anduin	Old_Ford_Anduin,Taur_En_Ungolath,Gladden_Fields,Taur_Hith	-195 990	-185 955	-240 915
+region	Carrock	Carrock	-190	1205	map wor the carrock	Framsburg,Northern_Mirkwood,Hall_Oak,Forest_Gate,Old_Ford_Anduin,High_Pass	-210 1130	-190 1170	-240 1270;-170 1270
+region	Framsburg	Framsburg	-240	1380	MAP WOR Framsburg	Grey_Mountains,Northern_Mirkwood,Carrock	-280 1330	-240 1370	
+region	Gladden_Fields	Gladden Fields	-205	790	MAP WOR Gladden Fields	Vale_Anduin,Taur_En_Ungolath,Dol_Guldur,Field_Celebrant,Taur_Hith	-210 850	-200 800	-215 745
+region	Old_Ford_Anduin	Old Ford of Anduin	-155	1060	map wor old ford of anduin	High_Pass,Carrock,Forest_Gate,Mirkwood,Taur_En_Ungolath,Vale_Anduin	-200 1030	-135 1050	-185 1070
+region	Amon_Hen	Amon Hen	-85	330	MAP WOR Amon Hen	Old_Brown_Lands,Emyn_Muil,The_Wold	-120 385	-85 360	-85 285
+region	East_Bight	East Bight	380	675	MAP WOR East Bight	Vales_Celduin,Dorwinion,South_Rhun,Old_Brown_Lands,Mirkwood	260 690	360 650	370 795;430 710
+region	Emyn_Muil	Emyn Muil	190	350	MAP WOR Emyn Muil	Old_Brown_Lands,South_Rhun,Amon_Hen	85 395	95 340	215 355;305 355
+region	Fangorn	Fangorn	-540	470	MAP WOR Fangorn	Nan_Celebrant,The_Wold	-550 425	-520 450	-570 500
+region	Old_Brown_Lands	Old Brown Lands	75	530	map wor old brown lands	Dol_Guldur,Mirkwood,East_Bight,South_Rhun,Emyn_Muil,Amon_Hen,The_Wold,Field_Celebrant	105 625	140 545	40 525;-50 545
+region	The_Wold	The_Wold	-290	455	map wor the wold	Field_Celebrant,Old_Brown_Lands,Amon_Hen,Fangorn,Nan_Celebrant	-330 410	-260 440	-400 490;-340 520
+region	Dol_Guldur	Dol Guldur	-32	763	MAP WOR Dol Guldur	Taur_En_Ungolath,Mirkwood,Old_Brown_Lands,Field_Celebrant,Gladden_Fields	43 695	-32 763	
+region	Taur_En_Ungolath	Taur-en-Ungolath	-10	920	map wor taur en ungolath	Mirkwood,Dol_Guldur,Gladden_Fields,Vale_Anduin,Old_Ford_Anduin	50 900	0 900	-45 970
+region	Field_Celebrant	Field of Celebrant	-280	635	MAP WOR Field of Celebrant	Gladden_Fields,Dol_Guldur,Old_Brown_Lands,The_Wold,Nan_Celebrant,Lothlorien,Taur_Hith	-300 690	-260 650	-310 610
+region	Lothlorien	Lothlórien	-405	710	MAP WOR Lothlorien	Caradhras,Dimrill_Dale,Field_Celebrant,Nan_Celebrant,Taur_Hith	-380 670	-420 710	
+region	Nan_Celebrant	Nan Celebrant	-465	600	map wor nan celebrant	Lothlorien,Field_Celebrant,The_Wold,Fangorn,Dimrill_Dale	-515 645	-470 605	-475 575
+region	Taur_Hith	Taur Hithlin	-320	790	map wor taur hithlin	Vale_Anduin,Gladden_Fields,Field_Celebrant,Lothlorien,Caradhras	-300 850	-310 790	-340 810
+region	Forest_Gate	Forest Gate	-15	1160	map wor the forest gate	Hall_Oak,Halls_Elvenking,Mirkwood,Old_Ford_Anduin,Carrock	-70 1180	-15 1170	-30 1140
+region	Halls_Elvenking	Halls of the Elvenking	160	1230	map wor halls of the elvenking	Taur_Na_Faroth,Erebor,Esgaroth,Taur_En_Morvith,Mirkwood,Forest_Gate,Hall_Oak,Northern_Mirkwood	95 1190	170 1220	
+region	Hall_Oak	Hall of Oak	-70	1255	map wor hall of oak	Northern_Mirkwood,Halls_Elvenking,Forest_Gate,Carrock	-110 1225	-65 1245	-80 1280
+region	Mirkwood	Mirkwood	149	994	MAP WOR Mirkwood	Dol_Guldur,Taur_En_Ungolath,East_Bight,Halls_Elvenking,Old_Brown_Lands,Old_Ford_Anduin,Vales_Celduin,Forest_Gate,Taur_En_Morvith	110 855	160 840	50 1050;160 1050
+region	Northern_Mirkwood	Northern Mirkwood	-55	1380	MAP WOR Northern Mirkwood	Taur_Na_Faroth,Halls_Elvenking,Hall_Oak,Carrock,Framsburg,Grey_Mountains	-120 1340	-35 1350	-50 1420
+region	Taur_En_Morvith	Taur-en-Morvith	300	1050	map wor taur en morvith	Esgaroth,Vales_Celduin,Mirkwood,Halls_Elvenking	260 1095	305 1070	305 1010
+region	Taur_Na_Faroth	Taur-na-Faroth	110	1425	map wor taur na faroth	Grey_Mountains,Withered_Heath,Erebor,Halls_Elvenking,Northern_Mirkwood	135 1390	105 1405	110 1470
+region	Dorwinion	Dorwinion	841	773	MAP WOR Dorwinion	Carnen,Rhun,South_Rhun,Vales_Celduin,East_Bight	770 815	840 770	930 755
+region	Kunin	Kûnin	1730	730	map wor kunin	Steppes_Sarakhax,Rhun,Ul_Tala	1630 680	1715 705	1740 775
+region	Rhun	Rhûn	1438	894	MAP WOR Rhun	Steppes_Sarakhax,Kunin,Ul_Tala,Carnen,Dorwinion	1305 995	1310 910	1365 740;1485 760
+region	Steppes_Sarakhax	Steppes of Sarâkhax	1535	575	map wor steppes of sarakhax	Kunin,Rhun,Surubeki	1340 595	1520 560	1600 550;1660 550
+region	Ul_Tala	Ul-tâla	1900	920	map wor ul tala	Kunin,Rhun	1870 950	1870 905	1980 915;2045 930
+region	Surubeki	Sûrûbeki	1410	422	map wor surubeki	Steppes_Sarakhax,South_Rhun	1240 435	1370 400	1495 410
+region	South_Rhun	South Rhûn	802	446	map wor south rhun	Dorwinion,Surubeki,East_Bight,Old_Brown_Lands,Emyn_Muil	520 385	770 400	945 345;1020 345
+campaign	WOTRAOTRWarSouthScenario
+region	Dunfearn	Dunfearn	-990	570	map wor dunfearn	Dunland,Greyflood	-1090 605	-1065 570	-950 560
+region	Dunland	Dunland	-960	412	map wor dunland	Dunfearn,Enedwaith,Frecalund,Gap_Of_Rohan,Greyflood,Regnfells	-1010 320	-980 370	-1020 450
+region	Wulfborg	Wulfborg	-1082	198	map wor wulfborg	Druwaith_Iaur,Enedwaith,Frecalund	-1110 240	-1090 170	
+region	Frecalund	Frecalund	-977	212	map wor frecalund	Dunland,Enedwaith,Regnfells,Wulfborg	-1050 280	-980 220	-985 170
+region	Regnfells	Regnfells	-888	205	map wor regnfells	Frecalund,Dunland,Gap_Of_Rohan	-910 270	-890 220	-890 180
+region	Enedwaith	Enedwaith	-1230	300	map wor enedwaith	Greyflood,Dunland,Frecalund,Wulfborg,Druwaith_Iaur	-1225 270	-1150 330	-1340 290;-1360 230
+region	Greyflood	Greyflood	-1230	440	map wor greyflood	Dunfearn,Dunland,Enedwaith	-1200 395	-1170 440	-1270 440;-1340 420
+region	Druwaith_Iaur	Drúwaith Iaur	-1320	80	map wor druwaith iaur	Andrast,Enedwaith,Wulfborg	-1285 200	-1280 130	-1340 55;-1345 -25
+region	Abrakhan	Abrakhân	1260	-1140	map wor abrakhan	Desert_Of_Azkahar,Tombs_Of_Abrakhan	1025 -1130	1195 -1135	
+region	Desert_Of_Azkahar	Desert of Azkâhar	1030	-980	map wor desert of azkahar	Abrakhan,Borders_Of_Khand,Near_Harad,Itakh_Khand	955 -930	960 -990	1060 -970
+region	Tombs_Of_Abrakhan	Tombs of Abrakhân	1430	-1040	map wor tombs of abrakhan	Abrakhan	1365 -1015	1425 -1035	1470 -1030
+region	Karna	Kârna	480	-1600	map wor karna	Far_Harad,Nafarat	425 -1665	460 -1620	520 -1590
+region	Far_Harad	Far Harad	170	-1400	MAP WOR Far Harad	Karna,Dusalan,Nafarat_Delta,Hidar,Amathuna,Nafarat,Near_Harad	310 -1310	240 -1500	-50 -1400;-120 -1400
+region	Nafarat_Delta	Nâfarat Delta	-480	-1820	map wor nafarat delta	Cape_Of_Mardruak,Far_Harad,Hidar,Nafarat	-510 -1730	-480 -1780	-520 -1850
+region	Nafarat	Nâfarat	60	-1700	map wor nafarat	Karna,Far_Harad,Nafarat_Delta	-260 -1730	-125 -1735	100 -1700
+region	Ethir_Anduin	Ethir Anduin	-167	-441	map wor ethir anduin	Harondor,Southern_Ithilien,Pelargir	-140 -380	-170 -440	-220 -450
+region	Harad_Road	Harad Road	222	-701	map wor harad road	Desert_Of_Lostladen,Harondor,Near_Harad,Southern_Ithilien	125 -615	215 -660	160 -745;240 -750
+region	Harondor	Harondor	-60	-640	MAP WOR Harondor	Ethir_Anduin,Harad_Road,Near_Harad,Southern_Ithilien,Umbar	50 -520	-143 -740	-60 -640;-100 -640
+region	Borders_Of_Khand	Borders of Khand	1100	-800	map wor borders of khand	Desert_Of_Azkahar,Desert_Of_Lostladen,Khand,Near_Harad,Itakh_Khand	870 -830	1000 -805	1160 -770;1250 -775
+region	Khand	Khand	1430	-550	MAP WOR Khand	Borders_Of_Khand,Desert_Of_Lostladen,Itakh_Khand	1210 -625	1400 -600	1600 -600;1700 -615
+region	Itakh_Khand	Itakh-Khand	1630	-810	map wor itakh khand	Borders_Of_Khand,Desert_Of_Azkahar,Khand	1600 -745	1570 -810	1700 -800
+region	Cape_Of_Mardruak	Cape of Mardrûak	-800	-1600	map wor cape of mardruak	Dusalan,Harad_Coast,Nafarat_Delta	-900 -1500	-800 -1580	-870 -1660;-770 -1670
+region	Dusalan	Dûsalan	-500	-1470	map wor dusalan	Cape_Of_Mardruak,Far_Harad,Harad_Coast,Hidar,Amathuna	-580 -1460	-515 -1460	-490 -1515
+region	Hidar	Hîdar	-450	-1630	map wor hidar	Dusalan,Far_Harad,Nafarat_Delta	-460 -1600	-460 -1630	
+region	Harad_Coast	Harad Coast	-734	-1389	map wor harad coast	Cape_Of_Mardruak,Dusalan,White_Pillar	-700 -1420	-730 -1400	-800 -1370
+region	Desert_Of_Lostladen	Desert of Lostladen	700	-720	map wor desert of lostladen	Borders_Of_Khand,Harad_Road,Khand,Near_Harad	465 -680	600 -745	730 -715;800 -700
+region	Near_Harad	Near Harad	310	-1010	MAP WOR Near Harad	Borders_Of_Khand,Desert_Of_Lostladen,Desert_Of_Azkahar,Far_Harad,Harad_Road,Harondor,Amathuna,Umbar	100 -910	195 -1000	300 -1000;400 -1000
+region	Amathuna	Amathûna	-290	-1320	map wor amathuna	Dusalan,Far_Harad,Near_Harad	-270 -1250	-270 -1290	-350 -1350
+region	Umbar	Umbar	-276	-997	MAP WOR Umbar	Harondor,Maros,Near_Harad,White_Pillar,Tolfalas,Pelargir,Dol_Amroth	-135 -930	-305 -1000	
+region	Maros	Mâros	-580	-1010	map wor maros	Umbar,Tolfalas,Dol_Amroth	-475 -960	-555 -1010	-600 -1020
+region	White_Pillar	White Pillar	-600	-1228	map wor white pillar	Harad_Coast,Umbar	-730 -1260	-625 -1225	-430 -1200
+region	East_Emnet	East Emnet	-250	350	MAP WOR East Emnet	Amon_Hen,The_Wold,Snowbourn,Eastern_Rohan	-200 370	-210 350	-320 350
+region	Eastern_Rohan	Eastern Rohan	-290	250	MAP WOR Eastern Rohan	Amon_Hen,Eastfold,Mouths_Entwash,East_Emnet,The_Folde,West_Emnet,Snowbourn	-250 210	-240 240	-320 250;-380 250
+region	Eastfold	Eastfold	-300	170	MAP WOR Eastfold	Halifirien,Eastern_Rohan,Mouths_Entwash,The_Folde	-325 178	-266 160	-380 160
+region	Eaves_Fangorn	Eaves of Fangorn	-620	400	map wor eaves of fangorn	Isengard,Westfold,Fords_Isen,Snowbourn,Fangorn	-610 380	-605 395	-650 395
+region	Fords_Isen	Fords of Isen	-735	335	MAP WOR Fords of Isen	Isengard,Eaves_Fangorn,Westfold,Gap_Of_Rohan,Helms_Deep	-750 365	-730 350	-755 315
+region	Isengard	Isengard	-730	420	MAP WOR Isengard	Eaves_Fangorn,Fords_Isen	-755 410	-740 430	
+region	Gap_Of_Rohan	Gap of Rohan	-850	330	MAP WOR Gap of Rohan	Fords_Isen,Dunland,Regnfells,Helms_Deep	-850 370	-850 340	-880 320
+region	Dunharrow	Dunharrow	-710	195	MAP WOR Dunharrow	Helms_Deep,Westfold,Harrowdale,Erech	-740 190	-710 200	-720 170
+region	Edoras	Edoras	-550	225	MAP WOR Edoras	The_Folde,West_Emnet,Harrowdale	-580 240	-550 220	
+region	Harrowdale	Harrowdale	-630	235	map wor harrowdale	Edoras,Dunharrow,Westfold,West_Emnet	-660 240	-630 240	-640 225
+region	The_Folde	The Folde	-460	205	map wor the folde	Eastfold,Eastern_Rohan,Edoras,West_Emnet	-510 180	-480 200	-430 195
+region	Helms_Deep	Helm's Deep	-760	245	MAP WOR Helms Deep	Dunharrow,Westfold,Fords_Isen,Gap_Of_Rohan	-774 251	-762 239	
+region	Snowbourn	Snowbourn	-475	340	map wor snowbourn	Fangorn,The_Wold,East_Emnet,Eastern_Rohan,West_Emnet,Westfold,Eaves_Fangorn	-470 325	-450 340	-530 345
+region	West_Emnet	West Emnet	-535	285	MAP WOR West Emnet	Snowbourn,Eastern_Rohan,The_Folde,Edoras,Harrowdale,Westfold	-555 310	-565 290	-530 280;-490 280
+region	Westfold	Westfold	-670	305	MAP WOR Westfold	Eaves_Fangorn,Snowbourn,West_Emnet,Harrowdale,Dunharrow,Helms_Deep,Fords_Isen	-670 340	-650 325	-700 255
+region	Mouths_Entwash	Mouths_Entwash	-20	170	map wor mouths of entwash	Amon_Hen,Dead_Marshes,Emyn_Muil,Anorien,Halifirien,Eastern_Rohan,Druadan_Forest,Northern_Ithilien,Cair_Andros	-70 200	-40 180	30 140
+region	Halifirien	Halifirien	-180	130	MAP WOR Halifirien	Mouths_Entwash,Anorien,Eastfold	-180 150	-170 130	-190 100
+region	Anorien	Anórien	-80	90	MAP WOR Anorien	Mouths_Entwash,Halifirien,Druadan_Forest	-120 110	-80 100	-75 60
+region	Druadan_Forest	Drúadan Forest	-15	40	MAP WOR Druadan Forest	Minas_Tirith,Mouths_Entwash,Anorien,Cair_Andros	-30 5	-25 20	0 55
+region	Cair_Andros	Cair Andros	60	40	MAP WOR Cair Andros	Druadan_Forest,Minas_Tirith,Mouths_Entwash,Northern_Ithilien,Osgiliath	60 90	60 35	50 10
+region	Northern_Ithilien	Northern_Ithilien	130	70	map wor north ithilien	Dead_Marshes,Mouths_Entwash,Cair_Andros,Osgiliath,Crossroads	100 140	130 90	130 40
+region	Minas_Tirith	Minas Tirith	-10	-50	MAP WOR Minas Tirith	Druadan_Forest,Osgiliath,Cair_Andros,Harlond,Lossarnach	0 -10	-40 -50	
+region	Osgiliath	Osgiliath	75	-35	MAP WOR Osgiliath	Cair_Andros,Northern_Ithilien,Minas_Tirith,Crossroads,Emyn_Arnen	70 -20	80 -40	75 -60
+region	Crossroads	Crossroads	140	-50	map wor crossroads	Northern_Ithilien,Osgiliath,Emyn_Arnen	120 -50	155 -50	140 -50
+region	Emyn_Arnen	Emyn Arnen	125	-120	MAP WOR Emyn Arnen	Crossroads,Osgiliath,Central_Ithilien,Minas_Morgul	90 -90	100 -120	170 -120
+region	Central_Ithilien	Central Ithilien	120	-210	MAP WOR Central Ithilien	Emyn_Arnen,Southern_Ithilien	80 -190	120 -200	90 -250
+region	Southern_Ithilien	Southern Ithilien	40	-350	map wor southern ithilien	Central_Ithilien,Pelargir,Ethir_Anduin,Harondor,Harad_Road	-45 -400	10 -350	125 -310;125 -400
+region	Harlond	Harlond	20	-150	MAP WOR Harlond	Minas_Tirith,Lossarnach	-5 -105	20 -160	15 -150
+region	Lossarnach	Lossarnach	-30	-200	map wor lossarnach	Minas_Tirith,Harlond,Pelargir	-45 -260	20 -220	-45 -125
+region	Lebennin	Lebennin	-225	-235	MAP WOR Lebennin	Pelargir,Ringlo_Vale,Belfalas	-340 -340	-250 -285	-195 -140
+region	Pelargir	Pelargir	-120	-280	MAP WOR Pelargir	Lossarnach,Southern_Ithilien,Ethir_Anduin,Lebennin,Tolfalas,Umbar,Dol_Amroth	-175 -335	-125 -285	
+region	Ringlo_Vale	Ringló Vale	-325	-120	map wor ringlo vale	Lebennin,Lamedon,Belfalas	-390 -110	-325 -100	-320 -155
+region	Belfalas	Belfalas	-440	-285	MAP WOR Belfalas	Lebennin,Ringlo_Vale,Lamedon,Anfalas,Dol_Amroth	-555 -215	-380 -260	-510 -405
+region	Lamedon	Lamedon	-545	-65	MAP WOR Lamedon	Belfalas,Ringlo_Vale,Erech,Anfalas	-570 -140	-520 -70	-595 -35
+region	Dol_Amroth	Dol Amroth	-570	-300	MAP WOR Dol Amroth	Belfalas,Tolfalas,Umbar,Pelargir,Maros	-595 -275	-580 -310	
+region	Erech	Erech	-670	80	MAP WOR Erech	Dunharrow,Lamedon,Anfalas	-715 35	-685 60	-670 130
+region	Anfalas	Anfalas	-935	-160	MAP WOR Anfalas	Erech,Lamedon,Belfalas,Andrast	-745 -225	-830 -145	-1110 -110;-1110 -230
+region	Andrast	Andrast	-1340	-330	MAP WOR Andrast	Anfalas,Druwaith_Iaur	-1360 -420	-1340 -360	-1445 -400
+region	Tolfalas	Tolfalas	-410	-545	MAP WOR Tolfalas	Umbar,Pelargir,Dol_Amroth,Maros	-425 -575	-410 -565	-405 -540
+region	Black_Gate	Black Gate	307	158	MAP WOR Black Gate	Dagorlad,Dead_Marshes,Durthang,Gorgoroth	250 170	310 170	
+region	Dagorlad	Dagorlad	520	220	MAP WOR Dagorlad	Black_Gate,Dead_Marshes,Emyn_Muil,South_Rhun	380 250	440 250	560 210;620 210
+region	Dead_Marshes	Dead Marshes	180	235	MAP WOR Dead Marshes	Black_Gate,Dagorlad,Emyn_Muil,Mouths_Entwash,Northern_Ithilien	100 230	160 230	185 265;245 265
+region	Cirith_Ungol	Cirith Ungol	300	-25	MAP WOR Cirith Ungol	Durthang,Gorgoroth,Minas_Morgul	255 15	310 -70	300 -90
+region	Durthang	Durthang	260	80	map wor durthang	Black_Gate,Cirith_Ungol,Gorgoroth	240 110	260 80	
+region	Minas_Morgul	Minas Morgul	250	-55	MAP WOR Minas Morgul	Cirith_Ungol,Emyn_Arnen	238 -24	250 -71	
+region	Ered_Lithui	Ered Lithui	680	-20	map wor ered lithui	Gorgoroth,Mount_Doom,Nurn,Sea_Of_Nurnen	600 0	600 -60	740 0;800 0
+region	Gorgoroth	Plains of Gorgoroth	420	-65	map wor plains of gorgoroth	Black_Gate,Cirith_Ungol,Durthang,Ered_Lithui,Mount_Doom,Sea_Of_Nurnen,Slavefields_Of_Nurn	375 -100	435 -100	375 -40;435 -40;495 -40
+region	Mount_Doom	Mount Doom	470	55	map wor mount doom	Ered_Lithui,Gorgoroth	490 60	472 46	430 70
+region	Nurn	Núrn	1000	-40	MAP WOR Nurn	Ered_Lithui,Sea_Of_Nurnen	900 -70	960 -70	1000 0
+region	Sea_Of_Nurnen	Sea of Núrnen	810	-275	map wor sea of nurnen	Ered_Lithui,Gorgoroth,Slavefields_Of_Nurn,Nurn	705 -255	765 -255	780 -180
+region	Slavefields_Of_Nurn	Slavefields of Núrn	480	-345	map wor slavefields of nurn	Gorgoroth,Sea_Of_Nurnen	425 -375	485 -375	460 -275
+region	Amon_Hen	Amon Hen	-85	330	MAP WOR Amon Hen	Old_Brown_Lands,Emyn_Muil,Mouths_Entwash,Eastern_Rohan,East_Emnet,The_Wold	-120 385	-85 360	-85 285
+region	Emyn_Muil	Emyn Muil	190	350	MAP WOR Emyn Muil	Old_Brown_Lands,Dagorlad,Dead_Marshes,Mouths_Entwash,Amon_Hen	85 395	95 340	215 355;305 355
+region	Fangorn	Fangorn	-540	470	MAP WOR Fangorn	The_Wold,Snowbourn,Eaves_Fangorn	-550 425	-520 450	-570 500
+region	Old_Brown_Lands	Old Brown Lands	75	530	map wor old brown lands	Emyn_Muil,Amon_Hen,The_Wold	105 625	140 545	40 525;-50 545
+region	The_Wold	The_Wold	-290	455	map wor the wold	Old_Brown_Lands,Amon_Hen,East_Emnet,Snowbourn,Fangorn,Nan_Celebrant	-330 410	-260 440	-400 490;-340 520
+campaign	AOTRWarNorthOpenScenario
+region	Ironfoot_Halls	Ironfoot's Halls	940	1310	map wor ironfoots halls	Iron_Hills,Iron_Foothills	910 1330	950 1350	
+region	Iron_Foothills	Iron Foothills	800	1130	map wor iron foothills	Ironfoot_Halls,Iron_Hills,Eastern_Wastes,Vales_Celduin,Carnen	700 1150	800 1160	760 1080;830 1130
+region	Iron_Hills	Iron Hills	785	1330	map wor iron hills	Eastern_Wastes,Targul,Ironfoot_Halls,Iron_Foothills	861 1391	780 1313	726 1292
+region	Targul	Targul	600	1360	map wor targul	Eastern_Wastes,Erebor,Withered_Heath,Iron_Hills	530 1320	590 1340	570 1400;630 1400
+region	Eastern_Wastes	Eastern Wastes	600	1145	map wor eastern wastes	Esgaroth,Erebor,Iron_Hills,Iron_Foothills,Vales_Celduin,Targul	510 1070	585 1125	580 1195
+region	Esgaroth	Esgaroth	400	1200	map wor esgaroth	Eastern_Wastes,Vales_Celduin,Erebor,Halls_Elvenking,Taur_En_Morvith	455 1230	385 1185	
+region	Erebor	Erebor	385	1360	MAP WOR Erebor	Eastern_Wastes,Esgaroth,Targul,Taur_Na_Faroth,Halls_Elvenking,Withered_Heath	472 1402	295 1322	
+region	Carnen	Carnen	975	985	map wor carnen	Rhun,Dorwinion,Iron_Foothills,Vales_Celduin	890 920	985 970	905 1040;1025 1050
+region	Vales_Celduin	Vales of Celduin	545	875	map wor vales of celduin	Eastern_Wastes,Iron_Foothills,Carnen,Dorwinion,East_Bight,Mirkwood,Taur_En_Morvith,Esgaroth	405 940	530 880	590 940;650 880
+region	Cardolan	Cardolan	-1100	795	map wor cardolan	Barrow_Downs,Weathertop,Trollshaws,The_Angle,Swanfleet,Tharbad,Minhiriath	-1060 850	-1055 820	-1135 785;-1215 780
+region	Minhiriath	Minhiriath	-1435	570	map wor minhiriath	Harlindon,Sarn_Ford,Barrow_Downs,Cardolan	-1485 680	-1380 635	-1480 565;-1555 520
+region	Swanfleet	Swanfleet	-870	730	map wor swanfleet	The_Angle,Eregion,Ost_In_Edhil,Tharbad,Cardolan	-930 760	-870 745	-875 685
+region	Tharbad	Tharbad	-990	690	map wor tharbad	Cardolan,Swanfleet	-1020 670	-995 690	-960 660
+region	Eregion	Eregion	-675	874	map wor eregion	Hollin,Ost_In_Edhil,The_Angle,Caradhras,Moria,Swanfleet	-630 930	-670 890	-710 840
+region	Hollin	Hollin	-621	984	map wor hollin	Caradhras,Rivendell,Fords_Bruinen,Trollshaws,The_Angle,Eregion	-660 1020	-640 990	-580 970
+region	Ost_In_Edhil	Ost-in-Edhil	-750	690	map wor ost in edhil	Eregion,Moria,Swanfleet	-760 785	-740 730	-775 660
+region	The_Angle	The Angle	-800	910	map wor the angle	Trollshaws,Hollin,Eregion,Swanfleet,Cardolan	-810 935	-810 910	
+region	Rhudaur	Rhudaur	-810	1190	map wor rhudaur	Ettenmoors,Coldfells,Trollshaws,Weathertop,Weather_Hills	-925 1125	-855 1140	-810 1180;-770 1240
+region	Trollshaws	Trollshaws	-760	1070	map wor trollshaws	Coldfells,Fords_Bruinen,Hollin,The_Angle,Cardolan,Weathertop,Rhudaur	-870 1020	-825 1015	-730 1105;-675 1165
+region	Fords_Bruinen	Fords of Bruinen	-566	1109	map wor fords of bruinen	High_Pass,Rivendell,Hollin,Trollshaws,Coldfells	-630 1068	-576 1083	-566 1109
+region	Rivendell	Rivendell	-455	1099	map wor rivendell	Fords_Bruinen,Hollin	-464 1124	-498 1037	
+region	Ice_Bay_Of_Forochel	Ice Bay of Forochel	-1516	1632	map wor ice bay of forochel	Cape_Forlond,Ered_Luin_Highlands,Hills_Evendim,tuli_Ma,ettenmoors,Grey_Havens	-1420 1640	-1516 1632	-1516 1632
+region	Ita_Ma	Itä-mâ	-1083	1911	map wor ita ma	Forodwaith,Jotunstath,tuli_Ma,Northtarn	-909 2020	-1083 1911	-1045 1952
+region	tuli_Ma	Tûli-mâ	-1233	1638	map wor tuli ma	Carn_Dum,Ettenmoors,Hills_Evendim,Ice_Bay_Of_Forochel,Ita_Ma,Northtarn	-1090 1666	-1233 1638	-1294 1659
+region	Forodwaith	Forodwaith	-491	1792	map wor forodwaith	Ita_Ma,Jotunstath,Northtarn,Carn_Dum,Gundabad,Grey_Mountains	-660 1994	-491 1792	-400 1670
+region	Jotunstath	Honk's Valley	-829	1907	map wor jotunstath	Forodwaith,Ita_Ma,Northtarn	-804 1878	-829 1907	-785 1946
+region	Northtarn	Northtarn	-877	1743	map wor northtarn	Carn_Dum,Forodwaith,Ita_Ma,Jotunstath,tuli_Ma	-795 1811	-877 1743	-795 1763
+region	Cape_Forlond	Cape of Forlond	-1925	1680	map wor cape of forlond	Ice_Bay_Of_Forochel,Ered_Luin_Highlands,Forlindon	-1750 1780	-1815 1735	-1945 1680;-2005 1650
+region	Ered_Luin_Highlands	Ered Luin Highlands	-1785	1480	map wor ered luin highlands	Cape_Forlond,Ice_Bay_Of_Forochel,Hills_Evendim,Grey_Havens,Ered_Luin	-1840 1575	-1800 1530	-1830 1425;-1730 1430
+region	Forlindon	Forlindon	-2200	1260	map wor forlindon	Cape_Forlond,Ered_Luin,Grey_Havens	-2230 1125	-2190 1220	-2300 1305;-2190 1335
+region	Ered_Luin	Ered Luin	-1990	1370	map wor ered luin	Forlindon,Ered_Luin_Highlands	-1960 1440	-2010 1360	
+region	Grey_Havens	Grey Havens	-1870	1135	map wor grey havens	Ered_Luin_Highlands,Hills_Evendim,Annuminas,Tower_Hills,Forlindon,Ice_Bay_Of_Forochel	-1800 1300	-1825 1190	-1910 1090;-1980 1060
+region	Thorins_Halls	Thorin's Halls	-1895	755	map wor thorins halls	Harlindon,Tower_Hills	-1945 795	-1890 740	
+region	Harlindon	Harlindon	-1935	650	map wor harlindon	Tower_Hills,Thorins_Halls,Sarn_Ford,Minhiriath	-1760 825	-1730 730	-2095 795
+region	Tower_Hills	Tower Hills	-1700	990	map wor tower hills	Grey_Havens,Annuminas,The_Shire,Sarn_Ford,Harlindon,Thorins_Halls	-1805 905	-1710 955	-1760 1055;-1665 1050
+region	Annuminas	Annúminas	-1491	1224	map wor annuminas	Fornost,Grey_Havens,Hills_Evendim,North_Downs,The_Shire,Tower_Hills	-1600 1250	-1540 1250	-1405 1280;-1370 1230
+region	Fornost	Fornost	-1240	1250	MAP WOR Fornost	Annuminas,Buckland,North_Downs,Weather_Hills,The_Shire	-1240 1260	-1250 1260	-1290 1230
+region	Hills_Evendim	Hills of Evendim	-1430	1440	map wor hills of evendim	Annuminas,Ered_Luin_Highlands,Ettenmoors,Grey_Havens,Ice_Bay_Of_Forochel,tuli_Ma,North_Downs	-1420 1470	-1360 1470	-1545 1460;-1545 1400
+region	North_Downs	North Downs	-1120	1410	MAP WOR North Downs	Annuminas,Ettenmoors,Fornost,Hills_Evendim,Weather_Hills	-1200 1400	-1140 1400	-1100 1470
+region	Barrow_Downs	Barrow Downs	-1230	940	map wor barrow downs	Bree,Weathertop,Cardolan,Minhiriath,Sarn_Ford,Old_Forest	-1175 990	-1180 955	-1270 900;-1320 900
+region	Bree	Bree	-1200	1060	map wor bree	Buckland,Weather_Hills,Weathertop,Barrow_Downs,Old_Forest	-1255 1065	-1230 1060	-1171 1071
+region	Sarn_Ford	Sarn Ford	-1490	875	map wor sarn ford	The_Shire,Old_Forest,Barrow_Downs,Minhiriath,Harlindon,Tower_Hills	-1490 980	-1480 910	-1550 800;-1485 790
+region	Buckland	Buckland	-1260	1145	map wor buckland	Fornost,Weather_Hills,Bree,Old_Forest,The_Shire	-1230 1185	-1235 1150	-1290 1145
+region	The_Shire	The Shire	-1465	1090	map wor the shire	Annuminas,Fornost,Buckland,Old_Forest,Sarn_Ford,Tower_Hills	-1495 1045	-1475 1075	-1470 1120
+region	Old_Forest	The Old Forest	-1335	1030	map wor the old forest	The_Shire,Buckland,Bree,Barrow_Downs,Sarn_Ford	-1390 1060	-1350 1050	-1330 1010
+region	Weather_Hills	Weather Hills	-1020	1220	map wor weather hills	North_Downs,Ettenmoors,Rhudaur,Weathertop,Bree,Buckland,Fornost	-1000 1295	-975 1250	-1045 1205;-1105 1175
+region	Weathertop	Weathertop	-990	1010	map wor weathertop	Weather_Hills,Rhudaur,Trollshaws,Cardolan,Barrow_Downs,Bree	-1080 1060	-1000 1060	-1030 960;-970 960
+region	Angmar	Angmar	-670	1530	map wor angmar	Gundabad,Mount_Gram,Ettenmoors,Carn_Dum	-735 1560	-730 1530	-650 1520;-600 1500
+region	Ettenmoors	Ettenmoors	-940	1485	map wor ettenmoors	tuli_Ma,Carn_Dum,Angmar,Mount_Gram,Coldfells,Rhudaur,Weather_Hills,North_Downs,Hills_Evendim	-955 1580	-990 1550	-935 1460;-905 1380
+region	Mount_Gram	Mount Gram	-722	1424	map wor mount gram	Angmar,Coldfells,Ettenmoors	-634 1434	-797 1438	-722 1424
+region	Coldfells	Coldfells	-635	1300	map wor coldfells	Mount_Gram,Goblin_Town,High_Pass,Fords_Bruinen,Trollshaws,Rhudaur,Ettenmoors	-760 1330	-675 1310	-630 1270;-565 1265
+region	Carn_Dum	Carn Dûm	-860	1620	map wor carn dum	Northtarn,Forodwaith,Gundabad,Angmar,Ettenmoors,tuli_Ma	-860 1590	-820 1620	-880 1640;-940 1640
+region	Gundabad	Mount Gundabad	-540	1575	map wor mount gundabad	Carn_Dum,Angmar,Grey_Mountains,Forodwaith	-680 1617	-562 1590	
+region	Grey_Mountains	Grey Mountains	-205	1510	map wor grey mountains	Forodwaith,Withered_Heath,Taur_Na_Faroth,Northern_Mirkwood,Framsburg,Gundabad	-249 1504	-325 1484	-117 1522;-60 1538
+region	Withered_Heath	Withered Heath	365	1515	map wor withered heath	Grey_Mountains,Taur_Na_Faroth,Erebor,Targul	150 1530	265 1505	390 1520;470 1520
+region	High_Pass	High Pass	-395	1215	MAP WOR High Pass	Carrock,Old_Ford_Anduin,Coldfells,Fords_Bruinen,Goblin_Town	-465 1213	-336 1200	-358 1208
+region	Goblin_Town	Goblin Town	-462	1286	map wor goblin town	Coldfells,High_Pass	-410 1280	-462 1286	-500 1300
+region	Caradhras	Caradhras	-509	827	map wor caradhras	Dimrill_Dale,Eregion,Hollin,Lothlorien,Moria,Taur_Hith	-449 810	-509 827	-555 873
+region	Dimrill_Dale	Dimrill Dale	-532	716	map wor dimrill dale	Caradhras,Lothlorien,Moria,Nan_Celebrant	-553 747	-532 716	-539 696
+region	Moria	Moria	-611	750	map wor moria	Caradhras,Dimrill_Dale,Eregion,Ost_In_Edhil	-599 711	-611 750	-600 787
+region	Vale_Anduin	Vale of Anduin	-195	940	map wor vale of anduin	Old_Ford_Anduin,Taur_En_Ungolath,Gladden_Fields,Taur_Hith	-195 990	-185 955	-240 915
+region	Carrock	Carrock	-190	1205	map wor the carrock	Framsburg,Northern_Mirkwood,Hall_Oak,Forest_Gate,Old_Ford_Anduin,High_Pass	-210 1130	-190 1170	-240 1270;-170 1270
+region	Framsburg	Framsburg	-240	1380	MAP WOR Framsburg	Grey_Mountains,Northern_Mirkwood,Carrock	-280 1330	-240 1370	
+region	Gladden_Fields	Gladden Fields	-205	790	MAP WOR Gladden Fields	Vale_Anduin,Taur_En_Ungolath,Dol_Guldur,Field_Celebrant,Taur_Hith	-210 850	-200 800	-215 745
+region	Old_Ford_Anduin	Old Ford of Anduin	-155	1060	map wor old ford of anduin	High_Pass,Carrock,Forest_Gate,Mirkwood,Taur_En_Ungolath,Vale_Anduin	-200 1030	-135 1050	-185 1070
+region	Amon_Hen	Amon Hen	-85	330	MAP WOR Amon Hen	Old_Brown_Lands,Emyn_Muil,The_Wold	-120 385	-85 360	-85 285
+region	East_Bight	East Bight	380	675	MAP WOR East Bight	Vales_Celduin,Dorwinion,South_Rhun,Old_Brown_Lands,Mirkwood	260 690	360 650	370 795;430 710
+region	Emyn_Muil	Emyn Muil	190	350	MAP WOR Emyn Muil	Old_Brown_Lands,South_Rhun,Amon_Hen	85 395	95 340	215 355;305 355
+region	Fangorn	Fangorn	-540	470	MAP WOR Fangorn	Nan_Celebrant,The_Wold	-550 425	-520 450	-570 500
+region	Old_Brown_Lands	Old Brown Lands	75	530	map wor old brown lands	Dol_Guldur,Mirkwood,East_Bight,South_Rhun,Emyn_Muil,Amon_Hen,The_Wold,Field_Celebrant	105 625	140 545	40 525;-50 545
+region	The_Wold	The_Wold	-290	455	map wor the wold	Field_Celebrant,Old_Brown_Lands,Amon_Hen,Fangorn,Nan_Celebrant	-330 410	-260 440	-400 490;-340 520
+region	Dol_Guldur	Dol Guldur	-32	763	MAP WOR Dol Guldur	Taur_En_Ungolath,Mirkwood,Old_Brown_Lands,Field_Celebrant,Gladden_Fields	43 695	-32 763	
+region	Taur_En_Ungolath	Taur-en-Ungolath	-10	920	map wor taur en ungolath	Mirkwood,Dol_Guldur,Gladden_Fields,Vale_Anduin,Old_Ford_Anduin	50 900	0 900	-45 970
+region	Field_Celebrant	Field of Celebrant	-280	635	MAP WOR Field of Celebrant	Gladden_Fields,Dol_Guldur,Old_Brown_Lands,The_Wold,Nan_Celebrant,Lothlorien,Taur_Hith	-300 690	-260 650	-310 610
+region	Lothlorien	Lothlórien	-405	710	MAP WOR Lothlorien	Caradhras,Dimrill_Dale,Field_Celebrant,Nan_Celebrant,Taur_Hith	-380 670	-420 710	
+region	Nan_Celebrant	Nan Celebrant	-465	600	map wor nan celebrant	Lothlorien,Field_Celebrant,The_Wold,Fangorn,Dimrill_Dale	-515 645	-470 605	-475 575
+region	Taur_Hith	Taur Hithlin	-320	790	map wor taur hithlin	Vale_Anduin,Gladden_Fields,Field_Celebrant,Lothlorien,Caradhras	-300 850	-310 790	-340 810
+region	Forest_Gate	Forest Gate	-15	1160	map wor the forest gate	Hall_Oak,Halls_Elvenking,Mirkwood,Old_Ford_Anduin,Carrock	-70 1180	-15 1170	-30 1140
+region	Halls_Elvenking	Halls of the Elvenking	160	1230	map wor halls of the elvenking	Taur_Na_Faroth,Erebor,Esgaroth,Taur_En_Morvith,Mirkwood,Forest_Gate,Hall_Oak,Northern_Mirkwood	95 1190	170 1220	
+region	Hall_Oak	Hall of Oak	-70	1255	map wor hall of oak	Northern_Mirkwood,Halls_Elvenking,Forest_Gate,Carrock	-110 1225	-65 1245	-80 1280
+region	Mirkwood	Mirkwood	149	994	MAP WOR Mirkwood	Dol_Guldur,Taur_En_Ungolath,East_Bight,Halls_Elvenking,Old_Brown_Lands,Old_Ford_Anduin,Vales_Celduin,Forest_Gate,Taur_En_Morvith	110 855	160 840	50 1050;160 1050
+region	Northern_Mirkwood	Northern Mirkwood	-55	1380	MAP WOR Northern Mirkwood	Taur_Na_Faroth,Halls_Elvenking,Hall_Oak,Carrock,Framsburg,Grey_Mountains	-120 1340	-35 1350	-50 1420
+region	Taur_En_Morvith	Taur-en-Morvith	300	1050	map wor taur en morvith	Esgaroth,Vales_Celduin,Mirkwood,Halls_Elvenking	260 1095	305 1070	305 1010
+region	Taur_Na_Faroth	Taur-na-Faroth	110	1425	map wor taur na faroth	Grey_Mountains,Withered_Heath,Erebor,Halls_Elvenking,Northern_Mirkwood	135 1390	105 1405	110 1470
+region	Dorwinion	Dorwinion	841	773	MAP WOR Dorwinion	Carnen,Rhun,South_Rhun,Vales_Celduin,East_Bight	770 815	840 770	930 755
+region	Kunin	Kûnin	1730	730	map wor kunin	Steppes_Sarakhax,Rhun,Ul_Tala	1630 680	1715 705	1740 775
+region	Rhun	Rhûn	1438	894	MAP WOR Rhun	Steppes_Sarakhax,Kunin,Ul_Tala,Carnen,Dorwinion	1305 995	1310 910	1365 740;1485 760
+region	Steppes_Sarakhax	Steppes of Sarâkhax	1535	575	map wor steppes of sarakhax	Kunin,Rhun,Surubeki	1340 595	1520 560	1600 550;1660 550
+region	Ul_Tala	Ul-tâla	1900	920	map wor ul tala	Kunin,Rhun	1870 950	1870 905	1980 915;2045 930
+region	Surubeki	Sûrûbeki	1410	422	map wor surubeki	Steppes_Sarakhax,South_Rhun	1240 435	1370 400	1495 410
+region	South_Rhun	South Rhûn	802	446	map wor south rhun	Dorwinion,Surubeki,East_Bight,Old_Brown_Lands,Emyn_Muil	520 385	770 400	945 345;1020 345
+campaign	AOTRWarSouthOpenScenario
+region	Dunfearn	Dunfearn	-990	570	map wor dunfearn	Dunland,Greyflood	-1090 605	-1065 570	-950 560
+region	Dunland	Dunland	-960	412	map wor dunland	Dunfearn,Enedwaith,Frecalund,Gap_Of_Rohan,Greyflood,Regnfells	-1010 320	-980 370	-1020 450
+region	Wulfborg	Wulfborg	-1082	198	map wor wulfborg	Druwaith_Iaur,Enedwaith,Frecalund	-1110 240	-1090 170	
+region	Frecalund	Frecalund	-977	212	map wor frecalund	Dunland,Enedwaith,Regnfells,Wulfborg	-1050 280	-980 220	-985 170
+region	Regnfells	Regnfells	-888	205	map wor regnfells	Frecalund,Dunland,Gap_Of_Rohan	-910 270	-890 220	-890 180
+region	Enedwaith	Enedwaith	-1230	300	map wor enedwaith	Greyflood,Dunland,Frecalund,Wulfborg,Druwaith_Iaur	-1225 270	-1150 330	-1340 290;-1360 230
+region	Greyflood	Greyflood	-1230	440	map wor greyflood	Dunfearn,Dunland,Enedwaith	-1200 395	-1170 440	-1270 440;-1340 420
+region	Druwaith_Iaur	Drúwaith Iaur	-1320	80	map wor druwaith iaur	Andrast,Enedwaith,Wulfborg	-1285 200	-1280 130	-1340 55;-1345 -25
+region	Abrakhan	Abrakhân	1260	-1140	map wor abrakhan	Desert_Of_Azkahar,Tombs_Of_Abrakhan	1025 -1130	1195 -1135	
+region	Desert_Of_Azkahar	Desert of Azkâhar	1030	-980	map wor desert of azkahar	Abrakhan,Borders_Of_Khand,Near_Harad,Itakh_Khand	955 -930	960 -990	1060 -970
+region	Tombs_Of_Abrakhan	Tombs of Abrakhân	1430	-1040	map wor tombs of abrakhan	Abrakhan	1365 -1015	1425 -1035	1470 -1030
+region	Karna	Kârna	480	-1600	map wor karna	Far_Harad,Nafarat	425 -1665	460 -1620	520 -1590
+region	Far_Harad	Far Harad	170	-1400	MAP WOR Far Harad	Karna,Dusalan,Nafarat_Delta,Hidar,Amathuna,Nafarat,Near_Harad	310 -1310	240 -1500	-50 -1400;-120 -1400
+region	Nafarat_Delta	Nâfarat Delta	-480	-1820	map wor nafarat delta	Cape_Of_Mardruak,Far_Harad,Hidar,Nafarat	-510 -1730	-480 -1780	-520 -1850
+region	Nafarat	Nâfarat	60	-1700	map wor nafarat	Karna,Far_Harad,Nafarat_Delta	-260 -1730	-125 -1735	100 -1700
+region	Ethir_Anduin	Ethir Anduin	-167	-441	map wor ethir anduin	Harondor,Southern_Ithilien,Pelargir	-140 -380	-170 -440	-220 -450
+region	Harad_Road	Harad Road	222	-701	map wor harad road	Desert_Of_Lostladen,Harondor,Near_Harad,Southern_Ithilien	125 -615	215 -660	160 -745;240 -750
+region	Harondor	Harondor	-60	-640	MAP WOR Harondor	Ethir_Anduin,Harad_Road,Near_Harad,Southern_Ithilien,Umbar	50 -520	-143 -740	-60 -640;-100 -640
+region	Borders_Of_Khand	Borders of Khand	1100	-800	map wor borders of khand	Desert_Of_Azkahar,Desert_Of_Lostladen,Khand,Near_Harad,Itakh_Khand	870 -830	1000 -805	1160 -770;1250 -775
+region	Khand	Khand	1430	-550	MAP WOR Khand	Borders_Of_Khand,Desert_Of_Lostladen,Itakh_Khand	1210 -625	1400 -600	1600 -600;1700 -615
+region	Itakh_Khand	Itakh-Khand	1630	-810	map wor itakh khand	Borders_Of_Khand,Desert_Of_Azkahar,Khand	1600 -745	1570 -810	1700 -800
+region	Cape_Of_Mardruak	Cape of Mardrûak	-800	-1600	map wor cape of mardruak	Dusalan,Harad_Coast,Nafarat_Delta	-900 -1500	-800 -1580	-870 -1660;-770 -1670
+region	Dusalan	Dûsalan	-500	-1470	map wor dusalan	Cape_Of_Mardruak,Far_Harad,Harad_Coast,Hidar,Amathuna	-580 -1460	-515 -1460	-490 -1515
+region	Hidar	Hîdar	-450	-1630	map wor hidar	Dusalan,Far_Harad,Nafarat_Delta	-460 -1600	-460 -1630	
+region	Harad_Coast	Harad Coast	-734	-1389	map wor harad coast	Cape_Of_Mardruak,Dusalan,White_Pillar	-700 -1420	-730 -1400	-800 -1370
+region	Desert_Of_Lostladen	Desert of Lostladen	700	-720	map wor desert of lostladen	Borders_Of_Khand,Harad_Road,Khand,Near_Harad	465 -680	600 -745	730 -715;800 -700
+region	Near_Harad	Near Harad	310	-1010	MAP WOR Near Harad	Borders_Of_Khand,Desert_Of_Lostladen,Desert_Of_Azkahar,Far_Harad,Harad_Road,Harondor,Amathuna,Umbar	100 -910	195 -1000	300 -1000;400 -1000
+region	Amathuna	Amathûna	-290	-1320	map wor amathuna	Dusalan,Far_Harad,Near_Harad	-270 -1250	-270 -1290	-350 -1350
+region	Umbar	Umbar	-276	-997	MAP WOR Umbar	Harondor,Maros,Near_Harad,White_Pillar,Tolfalas,Pelargir,Dol_Amroth	-135 -930	-305 -1000	
+region	Maros	Mâros	-580	-1010	map wor maros	Umbar,Tolfalas,Dol_Amroth	-475 -960	-555 -1010	-600 -1020
+region	White_Pillar	White Pillar	-600	-1228	map wor white pillar	Harad_Coast,Umbar	-730 -1260	-625 -1225	-430 -1200
+region	East_Emnet	East Emnet	-250	350	MAP WOR East Emnet	Amon_Hen,The_Wold,Snowbourn,Eastern_Rohan	-200 370	-210 350	-320 350
+region	Eastern_Rohan	Eastern Rohan	-290	250	MAP WOR Eastern Rohan	Amon_Hen,Eastfold,Mouths_Entwash,East_Emnet,The_Folde,West_Emnet,Snowbourn	-250 210	-240 240	-320 250;-380 250
+region	Eastfold	Eastfold	-300	170	MAP WOR Eastfold	Halifirien,Eastern_Rohan,Mouths_Entwash,The_Folde	-325 178	-266 160	-380 160
+region	Eaves_Fangorn	Eaves of Fangorn	-620	400	map wor eaves of fangorn	Isengard,Westfold,Fords_Isen,Snowbourn,Fangorn	-610 380	-605 395	-650 395
+region	Fords_Isen	Fords of Isen	-735	335	MAP WOR Fords of Isen	Isengard,Eaves_Fangorn,Westfold,Gap_Of_Rohan,Helms_Deep	-750 365	-730 350	-755 315
+region	Isengard	Isengard	-730	420	MAP WOR Isengard	Eaves_Fangorn,Fords_Isen	-755 410	-740 430	
+region	Gap_Of_Rohan	Gap of Rohan	-850	330	MAP WOR Gap of Rohan	Fords_Isen,Dunland,Regnfells,Helms_Deep	-850 370	-850 340	-880 320
+region	Dunharrow	Dunharrow	-710	195	MAP WOR Dunharrow	Helms_Deep,Westfold,Harrowdale,Erech	-740 190	-710 200	-720 170
+region	Edoras	Edoras	-550	225	MAP WOR Edoras	The_Folde,West_Emnet,Harrowdale	-580 240	-550 220	
+region	Harrowdale	Harrowdale	-630	235	map wor harrowdale	Edoras,Dunharrow,Westfold,West_Emnet	-660 240	-630 240	-640 225
+region	The_Folde	The Folde	-460	205	map wor the folde	Eastfold,Eastern_Rohan,Edoras,West_Emnet	-510 180	-480 200	-430 195
+region	Helms_Deep	Helm's Deep	-760	245	MAP WOR Helms Deep	Dunharrow,Westfold,Fords_Isen,Gap_Of_Rohan	-774 251	-762 239	
+region	Snowbourn	Snowbourn	-475	340	map wor snowbourn	Fangorn,The_Wold,East_Emnet,Eastern_Rohan,West_Emnet,Westfold,Eaves_Fangorn	-470 325	-450 340	-530 345
+region	West_Emnet	West Emnet	-535	285	MAP WOR West Emnet	Snowbourn,Eastern_Rohan,The_Folde,Edoras,Harrowdale,Westfold	-555 310	-565 290	-530 280;-490 280
+region	Westfold	Westfold	-670	305	MAP WOR Westfold	Eaves_Fangorn,Snowbourn,West_Emnet,Harrowdale,Dunharrow,Helms_Deep,Fords_Isen	-670 340	-650 325	-700 255
+region	Mouths_Entwash	Mouths_Entwash	-20	170	map wor mouths of entwash	Amon_Hen,Dead_Marshes,Emyn_Muil,Anorien,Halifirien,Eastern_Rohan,Druadan_Forest,Northern_Ithilien,Cair_Andros	-70 200	-40 180	30 140
+region	Halifirien	Halifirien	-180	130	MAP WOR Halifirien	Mouths_Entwash,Anorien,Eastfold	-180 150	-170 130	-190 100
+region	Anorien	Anórien	-80	90	MAP WOR Anorien	Mouths_Entwash,Halifirien,Druadan_Forest	-120 110	-80 100	-75 60
+region	Druadan_Forest	Drúadan Forest	-15	40	MAP WOR Druadan Forest	Minas_Tirith,Mouths_Entwash,Anorien,Cair_Andros	-30 5	-25 20	0 55
+region	Cair_Andros	Cair Andros	60	40	MAP WOR Cair Andros	Druadan_Forest,Minas_Tirith,Mouths_Entwash,Northern_Ithilien,Osgiliath	60 90	60 35	50 10
+region	Northern_Ithilien	Northern_Ithilien	130	70	map wor north ithilien	Dead_Marshes,Mouths_Entwash,Cair_Andros,Osgiliath,Crossroads	100 140	130 90	130 40
+region	Minas_Tirith	Minas Tirith	-10	-50	MAP WOR Minas Tirith	Druadan_Forest,Osgiliath,Cair_Andros,Harlond,Lossarnach	0 -10	-40 -50	
+region	Osgiliath	Osgiliath	75	-35	MAP WOR Osgiliath	Cair_Andros,Northern_Ithilien,Minas_Tirith,Crossroads,Emyn_Arnen	70 -20	80 -40	75 -60
+region	Crossroads	Crossroads	140	-50	map wor crossroads	Northern_Ithilien,Osgiliath,Emyn_Arnen	120 -50	155 -50	140 -50
+region	Emyn_Arnen	Emyn Arnen	125	-120	MAP WOR Emyn Arnen	Crossroads,Osgiliath,Central_Ithilien,Minas_Morgul	90 -90	100 -120	170 -120
+region	Central_Ithilien	Central Ithilien	120	-210	MAP WOR Central Ithilien	Emyn_Arnen,Southern_Ithilien	80 -190	120 -200	90 -250
+region	Southern_Ithilien	Southern Ithilien	40	-350	map wor southern ithilien	Central_Ithilien,Pelargir,Ethir_Anduin,Harondor,Harad_Road	-45 -400	10 -350	125 -310;125 -400
+region	Harlond	Harlond	20	-150	MAP WOR Harlond	Minas_Tirith,Lossarnach	-5 -105	20 -160	15 -150
+region	Lossarnach	Lossarnach	-30	-200	map wor lossarnach	Minas_Tirith,Harlond,Pelargir	-45 -260	20 -220	-45 -125
+region	Lebennin	Lebennin	-225	-235	MAP WOR Lebennin	Pelargir,Ringlo_Vale,Belfalas	-340 -340	-250 -285	-195 -140
+region	Pelargir	Pelargir	-120	-280	MAP WOR Pelargir	Lossarnach,Southern_Ithilien,Ethir_Anduin,Lebennin,Tolfalas,Umbar,Dol_Amroth	-175 -335	-125 -285	
+region	Ringlo_Vale	Ringló Vale	-325	-120	map wor ringlo vale	Lebennin,Lamedon,Belfalas	-390 -110	-325 -100	-320 -155
+region	Belfalas	Belfalas	-440	-285	MAP WOR Belfalas	Lebennin,Ringlo_Vale,Lamedon,Anfalas,Dol_Amroth	-555 -215	-380 -260	-510 -405
+region	Lamedon	Lamedon	-545	-65	MAP WOR Lamedon	Belfalas,Ringlo_Vale,Erech,Anfalas	-570 -140	-520 -70	-595 -35
+region	Dol_Amroth	Dol Amroth	-570	-300	MAP WOR Dol Amroth	Belfalas,Tolfalas,Umbar,Pelargir,Maros	-595 -275	-580 -310	
+region	Erech	Erech	-670	80	MAP WOR Erech	Dunharrow,Lamedon,Anfalas	-715 35	-685 60	-670 130
+region	Anfalas	Anfalas	-935	-160	MAP WOR Anfalas	Erech,Lamedon,Belfalas,Andrast	-745 -225	-830 -145	-1110 -110;-1110 -230
+region	Andrast	Andrast	-1340	-330	MAP WOR Andrast	Anfalas,Druwaith_Iaur	-1360 -420	-1340 -360	-1445 -400
+region	Tolfalas	Tolfalas	-410	-545	MAP WOR Tolfalas	Umbar,Pelargir,Dol_Amroth,Maros	-425 -575	-410 -565	-405 -540
+region	Black_Gate	Black Gate	307	158	MAP WOR Black Gate	Dagorlad,Dead_Marshes,Durthang,Gorgoroth	250 170	310 170	
+region	Dagorlad	Dagorlad	520	220	MAP WOR Dagorlad	Black_Gate,Dead_Marshes,Emyn_Muil,South_Rhun	380 250	440 250	560 210;620 210
+region	Dead_Marshes	Dead Marshes	180	235	MAP WOR Dead Marshes	Black_Gate,Dagorlad,Emyn_Muil,Mouths_Entwash,Northern_Ithilien	100 230	160 230	185 265;245 265
+region	Cirith_Ungol	Cirith Ungol	300	-25	MAP WOR Cirith Ungol	Durthang,Gorgoroth,Minas_Morgul	255 15	310 -70	300 -90
+region	Durthang	Durthang	260	80	map wor durthang	Black_Gate,Cirith_Ungol,Gorgoroth	240 110	260 80	
+region	Minas_Morgul	Minas Morgul	250	-55	MAP WOR Minas Morgul	Cirith_Ungol,Emyn_Arnen	238 -24	250 -71	
+region	Ered_Lithui	Ered Lithui	680	-20	map wor ered lithui	Gorgoroth,Mount_Doom,Nurn,Sea_Of_Nurnen	600 0	600 -60	740 0;800 0
+region	Gorgoroth	Plains of Gorgoroth	420	-65	map wor plains of gorgoroth	Black_Gate,Cirith_Ungol,Durthang,Ered_Lithui,Mount_Doom,Sea_Of_Nurnen,Slavefields_Of_Nurn	375 -100	435 -100	375 -40;435 -40;495 -40
+region	Mount_Doom	Mount Doom	470	55	map wor mount doom	Ered_Lithui,Gorgoroth	490 60	472 46	430 70
+region	Nurn	Núrn	1000	-40	MAP WOR Nurn	Ered_Lithui,Sea_Of_Nurnen	900 -70	960 -70	1000 0
+region	Sea_Of_Nurnen	Sea of Núrnen	810	-275	map wor sea of nurnen	Ered_Lithui,Gorgoroth,Slavefields_Of_Nurn,Nurn	705 -255	765 -255	780 -180
+region	Slavefields_Of_Nurn	Slavefields of Núrn	480	-345	map wor slavefields of nurn	Gorgoroth,Sea_Of_Nurnen	425 -375	485 -375	460 -275
+region	Amon_Hen	Amon Hen	-85	330	MAP WOR Amon Hen	Old_Brown_Lands,Emyn_Muil,Mouths_Entwash,Eastern_Rohan,East_Emnet,The_Wold	-120 385	-85 360	-85 285
+region	Emyn_Muil	Emyn Muil	190	350	MAP WOR Emyn Muil	Old_Brown_Lands,Dagorlad,Dead_Marshes,Mouths_Entwash,Amon_Hen	85 395	95 340	215 355;305 355
+region	Fangorn	Fangorn	-540	470	MAP WOR Fangorn	The_Wold,Snowbourn,Eaves_Fangorn	-550 425	-520 450	-570 500
+region	Old_Brown_Lands	Old Brown Lands	75	530	map wor old brown lands	Emyn_Muil,Amon_Hen,The_Wold	105 625	140 545	40 525;-50 545
+region	The_Wold	The_Wold	-290	455	map wor the wold	Old_Brown_Lands,Amon_Hen,East_Emnet,Snowbourn,Fangorn,Nan_Celebrant	-330 410	-260 440	-400 490;-340 520
+campaign	WOTRAOTRLastAllianceScenario
+region	Annuminas	Annúminas	-1491	1224	map wor annuminas	Fornost,Grey_Havens,Hills_Evendim,North_Downs,The_Shire,Tower_Hills	-1600 1250	-1540 1250	
+region	Fornost	Fornost Erain	-1240	1250	MAP WORLA Fornost	Annuminas,Buckland,North_Downs,Weather_Hills,The_Shire	-1240 1260	-1250 1260	
+region	Hills_Evendim	Hills of Evendim	-1430	1440	map wor hills of evendim	Annuminas,Ered_Luin_Highlands,Ettenmoors,Grey_Havens,North_Downs	-1420 1470	-1360 1470	
+region	North_Downs	North Downs	-1120	1410	MAP WOR North Downs	Annuminas,Ettenmoors,Fornost,Hills_Evendim,Weather_Hills	-1200 1400	-1140 1400	
+region	Barrow_Downs	Barrow Downs	-1230	940	map wor barrow downs	Bree,Weathertop,Cardolan,Minhiriath,Sarn_Ford,Old_Forest	-1175 990	-1180 955	
+region	Bree	Bree	-1200	1060	map wor bree	Buckland,Weather_Hills,Weathertop,Barrow_Downs,Old_Forest	-1280 1070	-1230 1060	
+region	Sarn_Ford	Sarn Ford	-1490	875	map wor sarn ford	The_Shire,Old_Forest,Barrow_Downs,Minhiriath,Harlindon,Tower_Hills	-1490 980	-1480 910	
+region	Buckland	Buckland	-1260	1145	map wor buckland	Fornost,Weather_Hills,Bree,Old_Forest,The_Shire	-1230 1185	-1235 1150	
+region	The_Shire	The Shire	-1465	1090	map wor the shire	Annuminas,Fornost,Buckland,Old_Forest,Sarn_Ford,Tower_Hills	-1495 1045	-1475 1075	
+region	Old_Forest	The Old Forest	-1335	1030	map wor the old forest	The_Shire,Buckland,Bree,Barrow_Downs,Sarn_Ford	-1390 1060	-1350 1050	
+region	Weather_Hills	Weather Hills	-1020	1220	map wor weather hills	North_Downs,Ettenmoors,Rhudaur,Weathertop,Bree,Buckland,Fornost	-1000 1295	-975 1250	
+region	Weathertop	Amon Sûl	-990	1010	map worla amon sul	Weather_Hills,Rhudaur,Trollshaws,Cardolan,Barrow_Downs,Bree	-1080 1060	-1000 1060	
+region	Cardolan	Cardolan	-1100	795	map wor cardolan	Barrow_Downs,Weathertop,Trollshaws,The_Angle,Swanfleet,Tharbad,Minhiriath	-1060 850	-1055 820	
+region	Minhiriath	Minhiriath	-1435	570	map wor minhiriath	Harlindon,Sarn_Ford,Barrow_Downs,Cardolan	-1485 680	-1380 635	
+region	Swanfleet	Swanfleet	-870	730	map wor swanfleet	The_Angle,Eregion,Ost_In_Edhil,Tharbad,Cardolan	-930 760	-870 745	
+region	Tharbad	Tharbad	-990	690	map worla tharbad	Cardolan,Swanfleet	-1020 670	-995 690	
+region	Eregion	Eregion	-675	874	map wor eregion	Hollin,Ost_In_Edhil,The_Angle,Caradhras,Moria,Swanfleet	-630 930	-670 890	
+region	Hollin	Hollin	-621	984	map wor hollin	Caradhras,Rivendell,Fords_Bruinen,Trollshaws,The_Angle,Eregion	-660 1020	-640 990	
+region	Ost_In_Edhil	Ost-in-Edhil	-750	690	map wor ost in edhil	Eregion,Moria,Swanfleet	-760 785	-740 730	
+region	The_Angle	The Angle	-800	910	map wor the angle	Trollshaws,Hollin,Eregion,Swanfleet,Cardolan	-810 935	-810 910	
+region	Rhudaur	Rhudaur	-810	1190	map wor rhudaur	Ettenmoors,Coldfells,Trollshaws,Weathertop,Weather_Hills	-925 1125	-855 1140	
+region	Trollshaws	Trollshaws	-760	1070	map wor trollshaws	Coldfells,Fords_Bruinen,Hollin,The_Angle,Cardolan,Weathertop,Rhudaur	-870 1020	-825 1015	
+region	Fords_Bruinen	Fords of Bruinen	-566	1109	map wor fords of bruinen	High_Pass,Rivendell,Hollin,Trollshaws,Coldfells	-630 1068	-576 1083	
+region	Rivendell	Rivendell	-455	1099	map wor rivendell	Fords_Bruinen,Hollin	-464 1124	-498 1037	
+region	Cape_Forlond	Cape of Forlond	-1925	1680	map wor cape of forlond	Ered_Luin_Highlands,Forlindon	-1750 1780	-1815 1735	
+region	Ered_Luin_Highlands	Ered Luin Highlands	-1785	1480	map wor ered luin highlands	Cape_Forlond,Hills_Evendim,Grey_Havens,Ered_Luin	-1840 1575	-1800 1530	
+region	Forlindon	Forlindon	-2200	1260	map wor forlindon	Cape_Forlond,Ered_Luin,Grey_Havens	-2230 1125	-2190 1220	
+region	Ered_Luin	Ered Luin	-1990	1370	map wor ered luin	Forlindon,Ered_Luin_Highlands	-1960 1440	-2010 1360	
+region	Grey_Havens	Grey Havens	-1870	1135	map wor grey havens	Ered_Luin_Highlands,Hills_Evendim,Annuminas,Tower_Hills,Forlindon	-1800 1300	-1825 1190	
+region	Thorins_Halls	Ered Lindon	-1895	755	map worla ered lindon	Harlindon,Tower_Hills	-1945 795	-1890 740	
+region	Harlindon	Harlindon	-1935	650	map wor harlindon	Tower_Hills,Thorins_Halls,Sarn_Ford,Minhiriath	-1760 825	-1730 730	
+region	Tower_Hills	Tower Hills	-1700	990	map wor tower hills	Grey_Havens,Annuminas,The_Shire,Sarn_Ford,Harlindon,Thorins_Halls	-1805 905	-1710 955	
+region	Angmar	Angmar	-670	1530	map worla angmar	Gundabad,Mount_Gram,Ettenmoors,Carn_Dum	-735 1560	-730 1530	
+region	Ettenmoors	Ettenmoors	-940	1485	map wor ettenmoors	Carn_Dum,Angmar,Mount_Gram,Coldfells,Rhudaur,Weather_Hills,North_Downs,Hills_Evendim	-955 1580	-990 1550	
+region	Mount_Gram	Mount Gram	-722	1424	map wor mount gram	Angmar,Coldfells,Ettenmoors	-634 1434	-797 1438	
+region	Coldfells	Coldfells	-635	1300	map wor coldfells	Mount_Gram,Goblin_Town,High_Pass,Fords_Bruinen,Trollshaws,Rhudaur,Ettenmoors	-760 1330	-675 1310	
+region	Carn_Dum	Carn Dûm	-860	1620	map worla carn dum	Gundabad,Angmar,Ettenmoors	-860 1590	-820 1620	
+region	Gundabad	Mount Gundabad	-540	1575	map wor mount gundabad	Carn_Dum,Angmar,Grey_Mountains	-680 1617	-562 1590	
+region	Grey_Mountains	Grey Mountains	-205	1510	map wor grey mountains	Withered_Heath,Taur_Na_Faroth,Northern_Mirkwood,Framsburg,Gundabad	-249 1504	-325 1484	
+region	Withered_Heath	Withered Heath	365	1515	map wor withered heath	Grey_Mountains,Taur_Na_Faroth,Targul	150 1530	265 1505	
+region	High_Pass	High Pass	-395	1215	MAP WOR High Pass	Carrock,Old_Ford_Anduin,Coldfells,Fords_Bruinen,Goblin_Town	-465 1213	-336 1200	
+region	Goblin_Town	Goblin Town	-462	1286	map wor goblin town	Coldfells,High_Pass	-410 1280	-462 1286	
+region	Caradhras	Caradhras	-509	827	map wor caradhras	Dimrill_Dale,Eregion,Hollin,Lothlorien,Moria,Taur_Hith	-449 810	-509 827	
+region	Dimrill_Dale	Dimrill Dale	-532	716	map wor dimrill dale	Caradhras,Lothlorien,Moria,Nan_Celebrant	-553 747	-532 716	
+region	Moria	Khazad-dûm	-611	750	map worla khazad dum	Caradhras,Dimrill_Dale,Eregion,Ost_In_Edhil	-599 711	-611 750	
+region	Mouths_Entwash	Mouths_Entwash	-20	170	map wor mouths of entwash	Amon_Hen,Dead_Marshes,Emyn_Muil,Anorien,Halifirien,Druadan_Forest,Northern_Ithilien,Cair_Andros	-70 200	-40 180	
+region	Halifirien	Halifirien	-180	130	MAP WOR Halifirien	Mouths_Entwash,Anorien	-180 150	-170 130	
+region	Anorien	Anórien	-80	90	MAP WOR Anorien	Mouths_Entwash,Halifirien,Druadan_Forest	-120 110	-80 100	
+region	Druadan_Forest	Drúadan Forest	-15	40	MAP WOR Druadan Forest	Minas_Tirith,Mouths_Entwash,Anorien,Cair_Andros	-30 5	-25 20	
+region	Cair_Andros	Cair Andros	60	40	MAP WOR Cair Andros	Druadan_Forest,Minas_Tirith,Mouths_Entwash,Northern_Ithilien,Osgiliath	60 90	60 35	
+region	Northern_Ithilien	Northern_Ithilien	130	70	map wor north ithilien	Dead_Marshes,Mouths_Entwash,Cair_Andros,Osgiliath,Crossroads	100 140	130 90	
+region	Minas_Tirith	Minas Anor	-10	-50	MAP WORLA Minas Anor	Druadan_Forest,Osgiliath,Cair_Andros,Harlond,Lossarnach	0 -10	-40 -50	
+region	Osgiliath	Osgiliath	75	-35	MAP WORLA Osgiliath	Cair_Andros,Northern_Ithilien,Minas_Tirith,Crossroads,Emyn_Arnen	70 -20	80 -40	
+region	Crossroads	Crossroads	140	-50	map wor crossroads	Northern_Ithilien,Osgiliath,Emyn_Arnen	120 -50	155 -50	
+region	Emyn_Arnen	Emyn Arnen	125	-120	MAP WOR Emyn Arnen	Crossroads,Osgiliath,Central_Ithilien,Minas_Morgul	90 -90	100 -120	
+region	Central_Ithilien	Central Ithilien	120	-210	MAP WOR Central Ithilien	Emyn_Arnen,Southern_Ithilien	80 -190	120 -200	
+region	Southern_Ithilien	Southern Ithilien	40	-350	map wor southern ithilien	Central_Ithilien,Pelargir	-45 -400	10 -350	
+region	Harlond	Harlond	20	-150	MAP WOR Harlond	Minas_Tirith,Lossarnach	-5 -105	20 -160	
+region	Lossarnach	Lossarnach	-30	-200	map wor lossarnach	Minas_Tirith,Harlond,Pelargir	-45 -260	20 -220	
+region	Lebennin	Lebennin	-225	-235	MAP WOR Lebennin	Pelargir,Ringlo_Vale,Belfalas	-340 -340	-250 -285	
+region	Pelargir	Pelargir	-120	-280	MAP WOR Pelargir	Lossarnach,Southern_Ithilien,Lebennin,Tolfalas	-175 -335	-125 -285	
+region	Ringlo_Vale	Ringló Vale	-325	-120	map wor ringlo vale	Lebennin,Belfalas	-390 -110	-325 -100	
+region	Belfalas	Belfalas	-440	-285	MAP WOR Belfalas	Lebennin,Ringlo_Vale,Dol_Amroth	-555 -215	-380 -260	
+region	Dol_Amroth	Dol Amroth	-570	-300	MAP WOR Dol Amroth	Belfalas,Tolfalas	-595 -275	-580 -310	
+region	Tolfalas	Tolfalas	-410	-545	MAP WOR Tolfalas	Pelargir,Dol_Amroth	-425 -575	-410 -565	
+region	Black_Gate	Black Gate	307	158	MAP WOR Black Gate	Dagorlad,Dead_Marshes,Gorgoroth	250 170	310 170	
+region	Dagorlad	Dagorlad	520	220	MAP WOR Dagorlad	Black_Gate,Dead_Marshes,Emyn_Muil	380 250	440 250	
+region	Dead_Marshes	Grey Marshes	180	235	MAP WORLA Grey Marshes	Black_Gate,Dagorlad,Emyn_Muil,Mouths_Entwash,Northern_Ithilien	100 230	160 230	
+region	Minas_Morgul	Minas Ithil	250	-55	MAP WORLA Minas Ithil	Emyn_Arnen	238 -24	250 -71	
+region	Ered_Lithui	Ered Lithui	680	-20	map wor ered lithui	Gorgoroth,Mount_Doom,Nurn,Sea_Of_Nurnen	600 0	600 -60	
+region	Gorgoroth	Plains of Gorgoroth	420	-65	map wor plains of gorgoroth	Black_Gate,Ered_Lithui,Mount_Doom,Sea_Of_Nurnen,Slavefields_Of_Nurn	375 -100	435 -100	
+region	Mount_Doom	Mount Doom	470	55	map wor mount doom		490 60	472 46	430 70
+region	Nurn	Núrn	1000	-40	MAP WOR Nurn	Ered_Lithui,Sea_Of_Nurnen	900 -70	960 -70	
+region	Sea_Of_Nurnen	Sea of Núrnen	810	-275	map wor sea of nurnen	Ered_Lithui,Gorgoroth,Slavefields_Of_Nurn,Nurn	705 -255	765 -255	
+region	Slavefields_Of_Nurn	Slavefields of Núrn	480	-345	map wor slavefields of nurn	Gorgoroth,Sea_Of_Nurnen	425 -375	485 -375	
+region	Vale_Anduin	Vale of Anduin	-195	940	map wor vale of anduin	Old_Ford_Anduin,Taur_En_Ungolath,Gladden_Fields,Taur_Hith	-195 990	-185 955	
+region	Carrock	Carrock	-190	1205	map wor the carrock	Framsburg,Northern_Mirkwood,Hall_Oak,Forest_Gate,Old_Ford_Anduin,High_Pass	-210 1130	-190 1170	
+region	Framsburg	Framsburg	-240	1380	MAP WOR Framsburg	Grey_Mountains,Northern_Mirkwood,Carrock	-280 1330	-240 1370	
+region	Gladden_Fields	Gladden Fields	-205	790	MAP WOR Gladden Fields	Vale_Anduin,Taur_En_Ungolath,Dol_Guldur,Field_Celebrant,Taur_Hith	-210 850	-200 800	
+region	Old_Ford_Anduin	Old Ford of Anduin	-155	1060	map wor old ford of anduin	High_Pass,Carrock,Forest_Gate,Mirkwood,Taur_En_Ungolath,Vale_Anduin	-200 1030	-135 1050	
+region	Amon_Hen	Amon Hen	-85	330	MAP WOR Amon Hen	Old_Brown_Lands,Emyn_Muil,Mouths_Entwash,The_Wold	-120 385	-85 360	
+region	East_Bight	East Bight	380	675	MAP WOR East Bight	Old_Brown_Lands,Mirkwood	260 690	360 650	
+region	Emyn_Muil	Emyn Muil	190	350	MAP WOR Emyn Muil	Old_Brown_Lands,Dagorlad,Dead_Marshes,Mouths_Entwash,Amon_Hen	85 395	95 340	
+region	Fangorn	Fangorn	-540	470	MAP WOR Fangorn	Nan_Celebrant,The_Wold	-550 425	-520 450	
+region	Old_Brown_Lands	Old Brown Lands	75	530	map wor old brown lands	Dol_Guldur,Mirkwood,East_Bight,Emyn_Muil,Amon_Hen,The_Wold,Field_Celebrant	105 625	140 545	
+region	The_Wold	The_Wold	-290	455	map wor the wold	Field_Celebrant,Old_Brown_Lands,Amon_Hen,Fangorn,Nan_Celebrant	-330 410	-260 440	
+region	Dol_Guldur	Amon Lanc	-32	763	MAP WORLA Amon Lanc	Taur_En_Ungolath,Mirkwood,Old_Brown_Lands,Field_Celebrant,Gladden_Fields	43 695	-32 763	
+region	Taur_En_Ungolath	Taur-en-Ungolath	-10	920	map wor taur en ungolath	Mirkwood,Dol_Guldur,Gladden_Fields,Vale_Anduin,Old_Ford_Anduin	50 900	0 900	
+region	Field_Celebrant	Field of Celebrant	-280	635	MAP WOR Field of Celebrant	Gladden_Fields,Dol_Guldur,Old_Brown_Lands,The_Wold,Nan_Celebrant,Lothlorien,Taur_Hith	-300 690	-260 650	
+region	Lothlorien	Lórinand	-405	710	MAP WORLA Lorinand	Caradhras,Dimrill_Dale,Field_Celebrant,Nan_Celebrant,Taur_Hith	-380 670	-420 710	
+region	Nan_Celebrant	Nan Celebrant	-465	600	map wor nan celebrant	Lothlorien,Field_Celebrant,The_Wold,Fangorn,Dimrill_Dale	-515 645	-470 605	
+region	Taur_Hith	Taur Hithlin	-320	790	map wor taur hithlin	Vale_Anduin,Gladden_Fields,Field_Celebrant,Lothlorien,Caradhras	-300 850	-310 790	
+region	Forest_Gate	Forest Gate	-15	1160	map wor the forest gate	Hall_Oak,Halls_Elvenking,Mirkwood,Old_Ford_Anduin,Carrock	-70 1180	-15 1170	
+region	Halls_Elvenking	Halls of the Elvenking	160	1230	map wor halls of the elvenking	Taur_Na_Faroth,Taur_En_Morvith,Mirkwood,Forest_Gate,Hall_Oak,Northern_Mirkwood	95 1190	170 1220	
+region	Hall_Oak	Hall of Oak	-70	1255	map wor hall of oak	Northern_Mirkwood,Halls_Elvenking,Forest_Gate,Carrock	-110 1225	-65 1245	
+region	Mirkwood	Greenwood the Great	149	994	MAP WORLA Greenwood	Dol_Guldur,Taur_En_Ungolath,East_Bight,Halls_Elvenking,Old_Brown_Lands,Old_Ford_Anduin,Forest_Gate,Taur_En_Morvith	110 855	160 840	
+region	Northern_Mirkwood	Northern Greenwood	-55	1380	MAP WORLA Northern Greenwood	Taur_Na_Faroth,Halls_Elvenking,Hall_Oak,Carrock,Framsburg,Grey_Mountains	-120 1340	-35 1350	
+region	Taur_En_Morvith	Taur-en-Morvith	300	1050	map wor taur en morvith	Mirkwood,Halls_Elvenking	260 1095	305 1070	
+region	Taur_Na_Faroth	Taur-na-Faroth	110	1425	map wor taur na faroth	Grey_Mountains,Withered_Heath,Halls_Elvenking,Northern_Mirkwood	135 1390	105 1405	
+campaign	WOTRAOTRWarDwarfOrcScenario
+region	Dunfearn	Dunfearn	-990	570	map wor dunfearn	Dunland,Ost_In_Edhil,Swanfleet,Tharbad	-1090 605	-1065 570	-950 560
+region	Dunland	Dunland	-960	412	map wor dunland	Dunfearn,Gap_Of_Rohan	-1010 320	-980 370	-1020 450
+region	Ironfoot_Halls	Ironfoot's Halls	940	1310	map wor ironfoots halls	Iron_Hills,Iron_Foothills	910 1330	950 1350	
+region	Iron_Foothills	Iron Foothills	800	1130	map wor iron foothills	Ironfoot_Halls,Iron_Hills,Eastern_Wastes,Vales_Celduin	700 1150	800 1160	760 1080;830 1130
+region	Iron_Hills	Iron Hills	785	1330	map wor iron hills	Eastern_Wastes,Targul,Ironfoot_Halls,Iron_Foothills	861 1391	780 1313	726 1292
+region	Targul	Targul	600	1360	map wor targul	Eastern_Wastes,Withered_Heath,Iron_Hills	530 1320	590 1340	570 1400;630 1400
+region	Eastern_Wastes	Eastern Wastes	600	1145	map wor eastern wastes	Esgaroth,Iron_Hills,Iron_Foothills,Vales_Celduin,Targul	510 1070	585 1125	580 1195
+region	Esgaroth	Esgaroth	400	1200	map wor esgaroth	Eastern_Wastes,Vales_Celduin	455 1230	385 1185	
+region	Vales_Celduin	Vales of Celduin	545	875	map wor vales of celduin	Eastern_Wastes,Iron_Foothills,Mirkwood,Esgaroth	405 940	530 880	590 940;650 880
+region	Swanfleet	Swanfleet	-870	730	map wor swanfleet	Eregion,Ost_In_Edhil,Dunfearn,Tharbad	-930 760	-870 745	-875 685
+region	Tharbad	Tharbad	-990	690	map wor tharbad	Swanfleet,Dunfearn	-1020 670	-995 690	-960 660
+region	Eregion	Eregion	-675	874	map wor eregion	Hollin,Ost_In_Edhil,Caradhras,Swanfleet	-630 930	-670 890	-710 840
+region	Hollin	Hollin	-621	984	map wor hollin	Caradhras,Fords_Bruinen,Eregion	-660 1020	-640 990	-580 970
+region	Ost_In_Edhil	Ost-in-Edhil	-750	690	map wor ost in edhil	Eregion,Dunfearn,Swanfleet	-760 785	-740 730	-775 660
+region	Fords_Bruinen	Fords of Bruinen	-566	1109	map wor fords of bruinen	High_Pass,Hollin,Coldfells	-630 1068	-576 1083	-566 1109
+region	Forodwaith	Forodwaith	-491	1792	map wor forodwaith	Jotunstath,Northtarn,Carn_Dum,Gundabad,Grey_Mountains	-660 1994	-491 1792	-400 1670
+region	Jotunstath	Honk's Valley	-829	1907	map wor jotunstath	Forodwaith,Northtarn	-804 1878	-829 1907	-785 1946
+region	Northtarn	Northtarn	-877	1743	map wor northtarn	Carn_Dum,Forodwaith,Jotunstath	-795 1811	-877 1743	-795 1763
+region	Angmar	Angmar	-670	1530	map wor angmar	Gundabad,Mount_Gram,Ettenmoors,Carn_Dum	-735 1560	-730 1530	-650 1520;-600 1500
+region	Ettenmoors	Ettenmoors	-940	1485	map wor ettenmoors	Carn_Dum,Angmar,Mount_Gram,Coldfells	-955 1580	-990 1550	-935 1460;-905 1380
+region	Mount_Gram	Mount Gram	-722	1424	map wor mount gram	Angmar,Coldfells,Ettenmoors	-634 1434	-797 1438	-722 1424
+region	Coldfells	Coldfells	-635	1300	map wor coldfells	Mount_Gram,Goblin_Town,High_Pass,Fords_Bruinen,Ettenmoors	-760 1330	-675 1310	-630 1270;-565 1265
+region	Carn_Dum	Carn Dûm	-860	1620	map wor carn dum	Northtarn,Forodwaith,Gundabad,Angmar,Ettenmoors	-860 1590	-820 1620	-880 1640;-940 1640
+region	Gundabad	Mount Gundabad	-540	1575	map wor mount gundabad	Carn_Dum,Angmar,Grey_Mountains,Forodwaith,Goblin_Town	-680 1617	-562 1590	
+region	Grey_Mountains	Grey Mountains	-205	1510	map wor grey mountains	Forodwaith,Withered_Heath,Framsburg,Gundabad	-249 1504	-325 1484	-117 1522;-60 1538
+region	Withered_Heath	Withered Heath	365	1515	map wor withered heath	Grey_Mountains,Targul	150 1530	265 1505	390 1520;470 1520
+region	High_Pass	Foundations of Stone	-395	1215	MAP WOR foundations of stone	Carrock,Old_Ford_Anduin,Coldfells,Fords_Bruinen,Goblin_Town,Caradhras	-465 1213	-336 1200	-358 1208
+region	Goblin_Town	Goblin Town	-462	1286	map wor goblin town	Coldfells,High_Pass,Gundabad	-410 1280	-462 1286	-500 1300
+region	Caradhras	Silvertine	-509	827	map wor silvertine	Dimrill_Dale,Eregion,Hollin,Taur_Hith,High_Pass	-449 810	-509 827	-555 873
+region	Dimrill_Dale	Dimrill Dale	-532	716	map wor dimrill dale	Caradhras,Moria,Nan_Celebrant	-553 747	-532 716	-539 696
+region	Moria	Moria	-611	750	map wor moria	Dimrill_Dale	-599 711	-611 750	-600 787
+region	Eaves_Fangorn	Eaves of Fangorn	-620	400	map wor eaves of fangorn	Westfold,Fords_Isen,Fangorn	-610 380	-605 395	-650 395
+region	Fords_Isen	Fords of Isen	-735	335	MAP WOR Fords of Isen	Eaves_Fangorn,Westfold,Gap_Of_Rohan	-750 365	-730 350	-755 315
+region	Gap_Of_Rohan	Gap of Rohan	-850	330	MAP WOR Gap of Rohan	Fords_Isen,Dunland	-850 370	-850 340	-880 320
+region	Westfold	Westfold	-670	305	MAP WOR Westfold	Eaves_Fangorn,Fords_Isen	-670 340	-650 325	-700 255
+region	Vale_Anduin	Vale of Anduin	-195	940	map wor vale of anduin	Old_Ford_Anduin,Gladden_Fields,Taur_Hith	-195 990	-185 955	-240 915
+region	Carrock	Carrock	-190	1205	map wor the carrock	Framsburg,Old_Ford_Anduin,High_Pass	-210 1130	-190 1170	-240 1270;-170 1270
+region	Framsburg	Framsburg	-240	1380	MAP WOR Framsburg	Grey_Mountains,Carrock	-280 1330	-240 1370	
+region	Gladden_Fields	Gladden Fields	-205	790	MAP WOR Gladden Fields	Vale_Anduin,Field_Celebrant,Taur_Hith	-210 850	-200 800	-215 745
+region	Old_Ford_Anduin	Old Ford of Anduin	-155	1060	map wor old ford of anduin	High_Pass,Carrock,Mirkwood,Vale_Anduin	-200 1030	-135 1050	-185 1070
+region	Fangorn	Fangorn	-540	470	MAP WOR Fangorn	Nan_Celebrant,Eaves_Fangorn	-550 425	-520 450	-570 500
+region	Field_Celebrant	Field of Celebrant	-280	635	MAP WOR Field of Celebrant	Gladden_Fields,Nan_Celebrant,Taur_Hith	-300 690	-260 650	-310 610
+region	Nan_Celebrant	Nan Celebrant	-465	600	map wor nan celebrant	Field_Celebrant,Fangorn,Dimrill_Dale	-515 645	-470 605	-475 575
+region	Taur_Hith	Taur Hithlin	-320	790	map wor taur hithlin	Vale_Anduin,Gladden_Fields,Field_Celebrant,Caradhras	-300 850	-310 790	-340 810
+region	Mirkwood	Mirkwood	149	994	MAP WOR Mirkwood	Old_Ford_Anduin,Vales_Celduin	110 855	160 840	50 1050;160 1050
